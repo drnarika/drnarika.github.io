@@ -1,0 +1,49 @@
+title: Tulpa之家
+link: https://tulpa.cn/
+author: goodman3[Lyra]
+next-page: a[class="next page-numbers"]$href
+category:
+   -
+      title: Tulpa 教程,入门 / 普及类
+      link: /category/guide/intro/
+   -
+      title: Tulpa 教程,附体 / 交换类
+      link: /category/guide/possession/
+   -
+      title: Tulpa 教程,叙述 / 对话类
+      link: /category/guide/narration/
+   -
+      title: Tulpa 教程,描绘 / 投影类
+      link: /category/guide/visualization/
+   -
+      title: Tulpa 教程,其他教程
+      link: /category/guide/others/
+   -
+      title: Tulpa 花名册
+      link: /category/tupper/
+   -
+      title: 不知道看哪个就请点这里
+      link: /category/web-guide/
+   -
+      title: 归档
+      link: /category/archived/
+   -
+      title: 杂谈
+      link: /category/杂谈/
+   -
+      title: 论文文献
+      link: /category/论文文献/
+item:
+      position: category
+      # position: article
+      box: article
+      title: a[class="u-url url"]$innerText
+      link: a[class="u-url url"]$href
+      pubDate: time[class="entry-date published dt-published"]$datetime
+      #datetimeFormat: \%Y-\*D
+content:
+      # position: category
+      position: article
+      box: div[class="entry-content e-content"]
+      viewRaw: TRUE
+enabled: TRUE
