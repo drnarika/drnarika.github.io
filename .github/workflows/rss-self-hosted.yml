@@ -15,6 +15,8 @@ jobs:
     name: Set-Up Workspace
     runs-on: self-hosted
     steps:
+      - name: clean workspace
+        run: rm -rf *
       - name: pull repo
         run: |
           git clone https://github.com/drnarika/drnarika.github.io
@@ -22,6 +24,7 @@ jobs:
   setup-updater:
     name: Set-Up RSS-Updater
     runs-on: self-hosted
+    needs: setup-workspace
     steps:
       - name: make rss-updater working dir
         run: mkdir updater
@@ -32,6 +35,7 @@ jobs:
   update-feed:
     name: Updating RSS-Feed
     runs-on: self-hosted
+    needs: setup-updater
     steps:
       - name: install requirements
         run: pip install -r requirements.txt -i https://mirrors.aliyun.com/pypi/simple/
@@ -45,6 +49,7 @@ jobs:
   cleaning-pushing:
     name: Cleaning & Pushing
     runs-on: self-hosted
+    needs: update-feed
     env:
       RUN_ID: ${{ github.run_id }}
     steps:
