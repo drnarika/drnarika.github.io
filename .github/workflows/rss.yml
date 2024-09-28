@@ -1,0 +1,29 @@
+name: RSSFeedUpdate
+
+on:
+  push:
+    branches: [ "main" ]
+  schedule:
+    - cron: "30 * * * 0-6"
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  setup-env:
+    name: Set-Up Environments
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set-Up Python 3.10
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.10"
+      - name: Set-Up Workspace
+        uses: actions/checkout@v4
+  setup-updater:
+    name: Set-Up RSS-Updater
+    runs-on: ubuntu-lastet
+    steps:
+      - name: ls directory
+        run: ls -al
