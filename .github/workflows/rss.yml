@@ -13,7 +13,7 @@ on:
 jobs:
   setup-env:
     name: Set-Up Environments
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
       - name: Set-Up Python 3.10
         uses: actions/setup-python@v3
@@ -23,7 +23,7 @@ jobs:
         uses: actions/checkout@v4
   setup-updater:
     name: Set-Up RSS-Updater
-    runs-on: ubuntu-lastet
+    runs-on: self-hosted
     steps:
       - name: ls directory
         run: ls -al
