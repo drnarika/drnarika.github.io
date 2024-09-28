@@ -20,8 +20,8 @@ jobs:
       - name: pull repo
         run: |
           git clone https://github.com/drnarika/drnarika.github.io site
-          mv ./site/* .
-          rmdir site
+          mv -f ./site/* .
+          rm -rf site
   setup-updater:
     name: Set-Up RSS-Updater
     runs-on: self-hosted
