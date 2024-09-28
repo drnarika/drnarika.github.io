@@ -11,15 +11,46 @@ on:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  setup-env:
+  setup-workspace:
     name: Set-Up Workspace
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
-      - name: Set-Up Workspace
+      - name: Checkout
         uses: actions/checkout@v4
   setup-updater:
     name: Set-Up RSS-Updater
-    runs-on: ubuntu-lastet
+    runs-on: self-hosted
     steps:
-      - name: ls directory
-        run: ls -al
+      - name: make rss-updater working dir
+        run: mkdir updater
+      - name: clone down rss-updater
+        run: git clone https://github.com/drnarika/rss-updater updater
+      - name: copy sources from feed/sources
+        run: cp -rf ./feed/sources/* ./updater/sources/
+  update-feed:
+    name: Updating RSS-Feed
+    runs-on: self-hosted
+    steps:
+      - name: install requirements
+        run: pip install -r requirements.txt -i https://mirrors.aliyun.com/pypi/simple/
+        working-directory: ./updater
+      - name: run main.py
+        run: python ./src/main.py
+        working-directory: ./updater
+      - name: copy complete feeds
+        run: cp -rf ./dist/* ../feed/xml/
+        working-directory: ./updater
+  cleaning-pushing:
+    name: Cleaning & Pushing
+    runs-on: self-hosted
+    env:
+      RUN_ID: ${{ github.run_id }}
+    steps:
+      - name: cleaning updater
+        run: rm -rf updater
+      - name: commit
+        run: |
+          git commit -m "RSSUpdate-$RUN_ID"
+      - name: push
+        run: |
+          git push
