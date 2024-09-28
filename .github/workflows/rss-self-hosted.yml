@@ -15,8 +15,10 @@ jobs:
     name: Set-Up Workspace
     runs-on: self-hosted
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - name: pull repo
+        run: |
+          git clone https://github.com/drnarika/drnarika.github.io
+          cd drnarika.github.io
   setup-updater:
     name: Set-Up RSS-Updater
     runs-on: self-hosted
