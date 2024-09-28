@@ -12,13 +12,9 @@ on:
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   setup-env:
-    name: Set-Up Environments
+    name: Set-Up Workspace
     runs-on: ubuntu-latest
     steps:
-      - name: Set-Up Python 3.10
-        uses: actions/setup-python@v3
-        with:
-          python-version: "3.10"
       - name: Set-Up Workspace
         uses: actions/checkout@v4
   setup-updater:
