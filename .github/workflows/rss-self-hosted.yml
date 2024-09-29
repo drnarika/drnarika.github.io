@@ -76,6 +76,6 @@ jobs:
           git commit -a -m "RSS-Feed Update-$RUN_ID"
       - name: Push changes
         run: |
-          git add remote ssh git@github.com/drnarika/drnarika.github.io
+          git remote add ssh git@github.com/drnarika/drnarika.github.io
           git pull
           git push ssh
