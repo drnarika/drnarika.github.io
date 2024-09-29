@@ -18,11 +18,14 @@ jobs:
     steps:
       - name: clean workspace
         run: rm -rf *
-      - name: pull repo
-        run: |
-          git clone https://github.com/drnarika/drnarika.github.io site
-          mv -f ./site/* .
-          rm -rf site
+      # - name: pull repo
+      #   run: |
+      #     git clone https://github.com/drnarika/drnarika.github.io site
+      #     mv -f ./site/* .
+      #     mv -f ./site/.[^.]* .
+      #     rm -rf site
+      - name: Checkout
+        uses: actions/checkout@v4
   setup-updater:
     name: Set-Up RSS-Updater
     runs-on: self-hosted
@@ -63,9 +66,13 @@ jobs:
     steps:
       - name: cleaning updater
         run: rm -rf updater
-      - name: commit
+      - name: Commit files
         run: |
-          git commit -m "RSSUpdate-$RUN_ID"
-      - name: push
-        run: |
-          git push
+          git config --local user.email "drnarika@outlook.com"
+          git config --local user.name "github-actions[bot]"
+          git commit -a -m "RSS-Feed Update-$RUN_ID"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
