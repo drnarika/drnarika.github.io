@@ -14,6 +14,7 @@ jobs:
   setup-workspace:
     name: Set-Up Workspace
     runs-on: self-hosted
+    timeout-minutes: 5
     steps:
       - name: clean workspace
         run: rm -rf *
@@ -26,6 +27,7 @@ jobs:
     name: Set-Up RSS-Updater
     runs-on: self-hosted
     needs: setup-workspace
+    timeout-minutes: 5
     steps:
       - name: make rss-updater working dir
         run: mkdir updater
@@ -37,6 +39,7 @@ jobs:
     name: Updating RSS-Feed
     runs-on: self-hosted
     needs: setup-updater
+    timeout-minutes: 5
     steps:
       - name: install requirements
         run: pip install -r requirements.txt -i https://mirrors.aliyun.com/pypi/simple/
@@ -51,6 +54,7 @@ jobs:
     name: Cleaning & Pushing
     runs-on: self-hosted
     needs: update-feed
+    timeout-minutes: 5
     env:
       RUN_ID: ${{ github.run_id }}
     steps:
