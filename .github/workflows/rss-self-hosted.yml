@@ -17,7 +17,9 @@ jobs:
     timeout-minutes: 5
     steps:
       - name: clean workspace
-        run: rm -rf *
+        run: |
+          rm -rf *
+          rm -rf .[^.]*
       - name: pull repo
         run: |
           git clone https://github.com/drnarika/drnarika.github.io site
