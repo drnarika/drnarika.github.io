@@ -73,7 +73,13 @@ jobs:
           git add ./feed/xml/*
           git config --local user.email "drnarika@outlook.com"
           git config --local user.name "github-actions[bot]"
-          git commit -a -m "RSS-Feed Update-$RUN_ID"
+          check_results=`git status`
+          if [[ $check_results =~ "nothing to commit" ]]
+          then
+              exit 0
+          else
+              git commit -a -m "RSS-Feed Update-$RUN_ID"
+          fi
       - name: Push changes
         run: |
           git remote add ssh git@github.com:drnarika/drnarika.github.io
