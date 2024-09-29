@@ -70,6 +70,7 @@ jobs:
         run: rm -rf updater
       - name: Commit files
         run: |
+          git add ./feed/xml/*
           git config --local user.email "drnarika@outlook.com"
           git config --local user.name "github-actions[bot]"
           git commit -a -m "RSS-Feed Update-$RUN_ID"
