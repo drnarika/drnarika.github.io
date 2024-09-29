@@ -52,9 +52,9 @@ jobs:
       - name: run main.py
         run: python ./src/main.py
         working-directory: ./updater
-      - name: check feedxml directory
-        run: if [ ! -d "../feed/xml" ]; then mkdir ../feed/xml; fi
-        working-directory: ./updater
+      # - name: check feedxml directory
+      #   run: if [ ! -d "../feed/xml" ]; then mkdir ../feed/xml; fi
+        # working-directory: ./updater
       - name: copy complete feeds
         run: cp -rf ./dist/* ../feed/xml/
         working-directory: ./updater
