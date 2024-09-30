@@ -44,7 +44,7 @@ jobs:
     name: Updating RSS-Feed
     runs-on: self-hosted
     needs: setup-updater
-    timeout-minutes: 5
+    timeout-minutes: 15
     steps:
       - name: install requirements
         run: pip install -r requirements.txt -i https://mirrors.aliyun.com/pypi/simple/
