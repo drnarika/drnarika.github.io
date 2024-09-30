@@ -1,0 +1,11 @@
+# Here is the basic config of default OPML generator configuration.
+# See: http://opml.org/spec2.opml
+
+title: DrNarika's OPML Feed
+ownerName: DrNarika
+ownerEmail: drnarika@outlook.com
+ownerId: https://drnarika.github.io/feed/
+
+# Custom Properities
+# rootXMLUrl: Where you place your OPML and RSS-XML files. (URL)
+rootXMLUrl: https://drnarika.github.io/feed/xml/
