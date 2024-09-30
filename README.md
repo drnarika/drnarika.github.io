@@ -2,4 +2,4 @@
 DrNarika's CI/CD Website
 
 Active Actions:
-- RSS Feed Updater : /feed/
+- RSS Feed Updater : [Feed Status](/feed)
