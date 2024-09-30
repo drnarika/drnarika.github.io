@@ -10,5 +10,8 @@
   <author>
    Some Example Guy
   </author>
+  <image>
+   https://example.com//favicon.ico
+  </image>
  </channel>
 </rss>
