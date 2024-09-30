@@ -2,14 +2,14 @@
 <opml version="2.0">
   <head>
     <title>DrNarika's OPML Feed</title>
-    <dateCreated>Tue, 01 Oct 2024 00:10:32 -0000</dateCreated>
+    <dateCreated>Tue, 01 Oct 2024 00:36:07 -0000</dateCreated>
     <ownerName>DrNarika</ownerName>
     <ownerEmail>drnarika@outlook.com</ownerEmail>
     <ownerId>https://drnarika.github.io/feed/</ownerId>
     <docs>http://opml.org/spec2.opml</docs>
   </head>
   <body>
-    <outline text="泛多意识体社群多合一站" type="rss" xmlUrl="https://drnarika.github.io/feed/xml/pluralitycn.yml"/>
-    <outline text="Tulpa之家" type="rss" xmlUrl="https://drnarika.github.io/feed/xml/tulpa.yml"/>
+    <outline text="泛多意识体社群多合一站" type="rss" xmlUrl="https://drnarika.github.io/feed/xml/pluralitycn.xml"/>
+    <outline text="Tulpa之家" type="rss" xmlUrl="https://drnarika.github.io/feed/xml/tulpa.xml"/>
   </body>
 </opml>
