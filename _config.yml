@@ -1,5 +1,10 @@
-remote_theme: pages-themes/leap-day@v0.2.0
-plugins:
-  - jekyll-remote-theme
+# remote_theme: pages-themes/leap-day@v0.2.0
+# plugins:
+#   - jekyll-remote-theme
 title: DrNarika Actions
 description: For My CI/CD Testing
+
+logo: /co-worker.png
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
