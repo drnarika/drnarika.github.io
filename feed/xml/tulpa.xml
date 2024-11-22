@@ -1,5 +1,886 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Tulpa之家</title><link>https://tulpa.cn/</link><author>goodman3[Lyra]</author><image>https://tulpa.cn//favicon.ico</image><item><title>T家使用指南【第三版】</title><link>https://tulpa.cn/2024/10/04/thome-guide-ver3/</link><author>goodman3[Lyra]</author><category>Tulpa 教程,入门 / 普及类</category><description>&lt;div class="entry-content e-content" itemprop="description articleBody"&gt;
+<rss version="2.0"><channel><title>Tulpa之家</title><link>https://tulpa.cn/</link><author>goodman3[Lyra]</author><image>https://tulpa.cn//favicon.ico</image><item><title>Tulpamancy： 通往奇美异幻的指南 | 常见问答</title><link>https://tulpa.cn/2024/11/18/tulpamancy-faq/</link><author>goodman3[Lyra]</author><category>Tulpa 教程,入门 / 普及类</category><description>&lt;div class="entry-content e-content" itemprop="description articleBody"&gt;
+&lt;p class="has-text-align-center has-large-font-size"&gt;&lt;a id="post-1739-_h3onkknawhfu"&gt;&lt;/a&gt;&lt;a id="post-1739-_hidden:hidden1725094357917"&gt;&lt;/a&gt;&lt;strong&gt; Tulpamancy FAQ for Tulpamancy: Guide into the Strange and Wonderful&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;&lt;strong&gt;Tulpamancy： 通往奇美异幻的指南 | 常见问答&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;作者：&lt;strong&gt;Luigi.exe/The Dragonheart System&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;Tulpamancy乍一看，可以解释得非常简单，因为大家看到的大多数情况只是冰山一角。但实际上，Tulpamancy的知识非常深奥而且涉猎广泛的，涉及到心理学、神经学等诸多领域，以及对.人类如何感知意识存在的研究。许多新手在查阅和理解Tulpamancy的相关知识时，常常会提出一些已经被回答过无数次的问题。其中一些典型问题包括：“什么是Tulpa？”“如何创造Tulpa？”以及“我要从哪里开始？”大多数这些问题归根结底，都是因为不了解一些相关的事实和已有资料，而当中有些问题在涉及Tulpa的创造时的确又至关重要。于是，在这里就汇总了多年来，Tulpamancer和一些对此感兴趣的人们，提出的许多问题和相应的答案。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;请注意，本指南几乎完全从Tulpamancy的心理学角度出发，因此有关形而上学观点的问题极少。这完全是因为我们——作者——对Tulpamancy的形而上学方面没有经验，也不感兴趣，不想因为缺乏知识和经验而传播错误信息。请理解，感谢。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;本常见问答是《Tulpamancy： 通往奇美异幻的指南》中的一部分，但出于文章架构和篇幅的考量，将其分开作为单独的文档。如果您是先找到本常见问答而不是指南，则可在此处找到&lt;strong&gt;&lt;a href="https://docs.google.com/document/d/1mSaPARuohFEO7qX3gVgKAh69XwU0VlKwnD0I_-nddvk/edit"&gt;该指南&lt;/a&gt;&lt;/strong&gt;。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;废话不多说…&lt;/p&gt;
+&lt;hr class="wp-block-separator"/&gt;
+&lt;p class="has-text-align-center"&gt;&lt;strong&gt;Tulpamancy： 通往奇美异幻的指南 | 常见问答&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;&lt;strong&gt;中文翻译译本第一版&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（排名不分先后顺序）&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;翻译作者：&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;北葵（NancalaStarry），夜白&amp;amp;佘墨，纳尔嘉德、莱戈洛，Ender System-叶灰，绿熊，海音铃，&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;衡见明，Crocell系统-moku，Ender System-Angela，wen-wensen，07，以塔多&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;第一轮校对：&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;公孙明，Ender System-沈清川，Crocell系统-眠眠，Crocell系统-hitomi，&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;衡见明，阿维希德，轩轩，北葵&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;第二轮新校对协作者：&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;OCLalpha，檬虎，鸢语系统（阿蕾奇诺），巡回，黑窗花海，Sinllov Family，衡见明，易临空，鸢语系统（无名）&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;特别鸣谢（提供其他领域的知识或其他在文章上的帮助）：&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;泠风，衡见明，公孙明&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;翻译开始时间：2024-8-12&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;翻译第一版完成时间：2024-10-8&lt;/p&gt;
+&lt;hr class="wp-block-separator"/&gt;
+&lt;h1 class="has-text-align-center"&gt;什么是Tulpa？&lt;/h1&gt;
+&lt;h2 class="has-text-align-center"&gt;什么是Tulpa？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;Tulpa是一种被创造出来的独立意识体，住在宿主或者创造者的大脑和身体里。他们可以自主进行意识活动，其意识活动可以和宿主的截然不同，也可以非常相似。从本质上讲，Tulpa是被创造者创造的，与创造者共享一具躯体的另一个人。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;我要怎么创造一个Tulpa？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;最简单的方法：和他对话，直到他开始回应你。你这只需要把注意力集中在脑海中的某个对象上，并与之互动，直到那个对象获得意识。从更复杂的角度看，想让这个过程更加丰富、更具参与感，还有许多方法可以辅助，本教程&lt;a href='https://docs.google.com/document/d/1mSaPARuohFEO7qX3gVgKAh69XwU0VlKwnD0I_-nddvk/edit?usp=sharing" \t "dkey'&gt;也有涉及这个部分的内容&lt;/a&gt;。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;Tulpa是幻想朋友吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;&lt;strong&gt;不是。&lt;/strong&gt;Tulpa是独立于他们创造者的意识体，与幻想朋友不同，他们完全可以与宿主的意见相左。幻想朋友通常没有真正的独立意识或生命力，但经过足够的时间培养，幻想朋友也有可能转变为 Tulpa，这在 Tulpa 社区中来说也不足为奇。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;有没有可能我在没意识到的情况下已经拥有了一个Tulpa？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;许多 Tulpamancer 发现他们在无意中，特别是在童年或青少年时期，就已经形成了 Tulpa。如果你觉得自己有一个看似有知觉且稳定持久的思维体（可能是一直陪伴你的幻想朋友），那么你完全有可能在不知不觉中创造了一个 Tulpa。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;我该如何分辨我是否已经有了一个Tulpa？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;你可以尝试与那个你怀疑是 Tulpa 的存在交谈，看看他们是否会回应并表现出意识；回忆一下，他们是否曾在你不知情的情况下做过什么事情，或者是否曾表达过与你不同的意见；观察他们的反应是否让你感到陌生或不自然。如果他们表现出独立的意识，并且能够在未经你同意的情况下采取行动，那么他们很可能就是一个 Tulpa。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;Tulpa可以替代现实生活中的朋友吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;尽管 Tulpa 具有意识且能够自主行动，但它们并不能完全替代现实生活中的社交互动。大多数人在与他人交往时寻求的不仅是心灵上的交流，还有面对面的情感共鸣，这是 Tulpa 难以完全提供的体验，尽管它们能在一定程度上弥补这种缺失。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;Tulpamancy 不就是角色扮演吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;实际上并非如此。长期坚持的角色扮演虽然可能和Tulpamancy有些相似性，但 Tulpamancy 能带来的体验远超于此。Tulpamancer 通常会感受到一种无法仅凭意志力来操控 Tulpa 的状态，这与有意为之的角色扮演截然不同。当 Tulpa 在没有提示的情况下主动发言或采取行动时，这种行为并非宿主有意为之的结果。不过，如果一个角色扮演的对象得到了足够的互动和独立对待，它也有可能逐渐发展成为 Tulpa。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;Tulpa 是高级幻觉吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;从定义上看，Tulpa 更像是心灵中的存在，而非高级幻觉。虽然某些情况下，人们可能会将 Tulpa 与幻觉相提并论，但真性幻觉通常是指未经个体同意而出现的感知异常，除非是故意摄入了致幻物质。相比之下，Tulpa 主要存在于个体的思维空间内，并不涉及对外部世界中真正意义上不存在物体或事件的感知，因此严格来说并不属于幻觉范畴。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;Tulpa们危险吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;Tulpa 的危险程度就像街上随便遇到的人一样，几乎不可能对宿主构成威胁，因为没理由这样做。只有在非常特殊的情况下，例如宿主表现出自残倾向时，或是对 Tulpa 表现出极端恶劣的态度而Tulpa 出于自我保护时，Tulpa 才会与宿主产生冲突。这类情况往往是由宿主间接引发的，或者是受到心理健康状况等外在因素的影响所致，并非无缘无故发生，尤其是当宿主没有对 Tulpa 做错事的时候。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;创造Tulpa会让自己患上精神疾病？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;由于大多数Tulpamancer通过冥想来创造他们的Tulpa，而他们的Tulpa也通常会鼓励他们的宿主过上更健康的生活，因此实际答案往往恰恰相反，不会让自己患上精神疾病,。如果神经多样性被认为是一种精神疾病的话，那么这个人的生活中必须得受到神经多样性带来的负面影响，至少会让这个人的生活变得不正常，且需要干预。对大多数人来说，Tulpamancy是一种积极的影响，能让他们的生活能从中受益，所以这两者的差异还是非常明显的。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;Tulpa 不就是精神分裂症/DID/OSDD 吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;&lt;strong&gt;不是&lt;/strong&gt;。（译者注：由大量统计表明）Tulpa 已被证明能够为其宿主带来极为积极的体验，并且不符合任何精神疾病的标准。相较于DID/OSDD（即分离性身份障碍和其他特定分离性障碍），Tulpamancer 并不会经历解离或显著的痛苦，也不会出现 OSDD/DID 患者常见的现实解体或触发症状。DID/OSDD 的 Alter（人格） 是由创伤产生的，而 Tulpa 则不是（虽然有些人会创造 Tulpa 来帮助应对创伤）。即使是 OSDD（一种与 DID 类似但不完全符合 DID 标准的分离性障碍），Tulpamancer 也不符合其诊断标准，因为（译者注：因为由创造tulpa组织而成的）多意识体不会损害他们的功能。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;对于精神分裂症来说，精神分裂症不仅仅是幻听，它与遗传和环境因素密切相关。精神分裂症的其他症状包括偏执、重复特定动作（如来回踱步）、妄想（比如认为自己被外星人或政府监视，这些显然对非精神分裂症患者来说是不真实的），这些妄想通常被描述为一个人对现实和世界感知的崩溃。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;Tulpamancy 缺少精神疾病的一个关键特征：日常生活中显著的痛苦。事实上，众所周知，Tulpa 甚至可以帮助宿主应对抑郁症和焦虑症等精神疾病，有些人正是出于这个原因而创造了 Tulpa。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：不推荐，精神状态不好的建议先处理好现实状态，盲目创造有一定风险，容易导致内部出现危机（h或t崩溃、失联，骤然增员等））&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;Tulpa和人格的区别是什么?&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;许多 Tulpamancer 想知道他们的 Tulpa 是否算作真正的人格。显然，有许多特征可以区分两者。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;首先，人格不能被有意地创造出来，而是作为创伤的应对机制自发产生的。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：严格意义上来说，有DID系统创造了tulpa，并且认为Tulpa和人格无异。除此之外，也有一些人格可以被医生诱导出来（目前应该是被禁止的）为了满足某个目的。因此，我认为人格是不可以创造的这一点有争议。）&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;相反，Tulpa 必须被有意地创造，即便创造者并不完全了解 Tulpa 的概念。其次，Tulpa 需要时间发育成熟才能具备生命力或意识，意识交换这样的高难度技能需要更长的时间去学习。最后，人格通常承担具体的职责，比如创伤持有者、迫害者、保护者、看护者或守门人等；而 Tulpa 通常不承担帮助系统运作的职能，尤其没有专门持有创伤的功能。虽然 Tulpa 和人格都是多意识体的形式，但它们在多意识体的基础上依然有显著的不同。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;Tulpa 是边缘性人格障碍 (BPD) 的一种吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;一个常见的误解是认为 BPD 属于多意识体谱系的一种形式，但实际上，BPD 既不是多意识体的形式，也与 Tulpamancy 无关。边缘性人格障碍是一种人格障碍，其特征是极度的情绪波动和精神状态的不稳定。拥有 Tulpa 不会导致情绪不稳定或极端的情绪波动，也不会影响宿主的正常功能，更不会产生 BPD 的任何症状。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;Tulpa 是 MaDD 的一种形式吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;不，Tulpa 并不是一种疾病表现。患有 MaDD（适应不良的白日梦）的人会不受控制地做白日梦，甚至影响到他们的日常生活；Tulpa 并不会导致这种情况，但患有 MaDD 的人也可能拥有 Tulpa，二者并不相互排斥。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;Tulpamancer 不就是那些假装有意识体来嘲笑创伤型/DID/OSDD 系统的人吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;&lt;strong&gt;不是&lt;/strong&gt;。Tulpamancy 社区完全承认 Tulpamancy 与解离障碍所导致的多意识体截然不同。如果有人真的想嘲笑 DID/OSDD，他们不会声称自己创造了 Tulpa，而是会说他们创造了人格。事实上，许多 Tulpamancer 也患有精神疾病，大多数人创造 Tulpa 是为了获得陪伴。要说嘲笑另一个已经被社会带有偏见的群体，而且能够持续这么多年，这种说法本身就已经够荒谬的了，而且这种扭曲的事实令人极其厌恶。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;Tulpamancy与其他非创伤型的多意识体有何不同？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;对于想要创造 Tulpa 的人来说，通常在创造 Tulpa 时必须有某种动机，且成为多意识体通常是一种主动的选择（除非某人小时候有幻想伙伴，而后幻想伙伴在他们未察觉的情况下发展为 Tulpa）。（译者注：年长的也可能会有未察觉的这种情况）&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：这个例外情况下，在当时遇见幻想朋友，以及发现并决定Tulpa存留的过程中也或多或少还是会存在主动选择的）&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;对于其他类型的内源性系统（译者注：例如自发型，Tulpamancy 也属于内源性系统），成为多意识体并不是一种主动选择。此外，其他类型的内源性系统中的成员通常不需要像 HT 系统那样发展。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;创造出一个Tulpa需要多长时间？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;让Tulpa产生意识的时间受很多因素影响，短则几天，长到几年。这些因素有的可控，也有相对不可控，毕竟每个人的大脑机能各不相同。对于患有孤独症或创造力很强的Tulpamancer们来说，创造时间可能会更短；而想象力不强的那些Tulpamancer比起其他人来说&lt;strong&gt;可能&lt;/strong&gt;会觉得更乏味，要的时间更久，但最后创造出一个Tulpa是完全可能的。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：由于国内外对于Tulpa的定义不同，在国外即使是无意识的幻想伙伴也可能被算作Tulpa，一般情况下的Tulpa成声都要一个月起步）&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;Tulpa是永久存在的吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;对大多数人来说，是的。Tulpa会陪伴你一辈子。只有在极少数情况下，Tulpa可能会消失或者永久休眠，但如果你用正确的方法创造Tulpa，这种情况就（译者注：几乎可能）不会发生，你会和你的Tulpa一起度过一生。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;也正因如此，创造Tulpa是一个很重要的责任。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;在我生命的长河中，Tulpa会对我有什么样的影响？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;一个Tulpa一定会在宿主的生命中做出各种影响，最常见的影响都是为宿主考虑的好&lt;s&gt;的&lt;/s&gt;影响。但同时，宿主不能像作为单意识体时那样拥有很多隐私了，他们需要习惯与自己的Tulpa共享思维与身体。由此带来的好处是，宿主能得到一个（或者不止一个）比起现实中的任何人更了解自己的伴侣。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;很难说创造一个Tulpa对于宿主来说会受到多少影响——无论是积极的还是消极的。所以在创造Tulpa之前需要彻底的考虑清楚。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;什么是塑造？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;塑造是通过与 Tulpa 互动来培养他们的一种方式。你可以将全部注意力集中在 Tulpa 上，也可以只用一部分注意力关注他们。任何对 Tulpa 的关注都是塑造的一部分，也是 Tulpa 发育成长的关键。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;我是未成年人，我可以创造一个Tulpa吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;虽然没有人能阻止任何人创造 Tulpa，但较小的未成年人（16 岁以下）通常还不了解 Tulpa 所需的承诺。尤其是青少年的荷尔蒙变化和新意识体的出现，可能会在未来，凸显为主要问题。此外，未成年人更倾向于放弃他们认为不再有趣的事物。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;如果未成年人完全理解责任，并且明白他们可能会与 Tulpa 共度余生，那通常是没有问题的。当然，意外总是会发生，尤其是在这个年龄段，学校生活或情感萌芽之类的事情很难不影响 Tulpa 的塑造。Tulpa 需要宿主具备奉献精神和责任感。这么说的意思是，年龄并不是创造Tulpa唯一的限制因素。 &lt;br/&gt;&lt;br/&gt;（译者注：责任的理解并非决定性因素，但未成年人的心理成熟将极难支撑Tulpa的心理发育成熟等，亦会带来一系列的问题） &lt;br/&gt;（译者注：众多案例证明，成熟往往与阅历相挂钩，而未成年所见的阅历也显然不足，因此年龄太小则不可能达成真正的成熟，这必会成为创造Tulpa的一个硬性门槛）&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;在患有精神疾病的情况下，我还能创造Tulpa吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;每个人都可以创造 Tulpa，实际上，许多 Tulpamancer 创造 Tulpa 的原因就是为了帮助他们克服精神疾病度过难关的。然而，对于患有类似精神分裂症的人来说，创造 Tulpa 可能会导致病情恶化，尽管也有精神分裂症患者成功地拥有 Tulpa 的情况。对于 DID/OSDD 等解离性障碍患者来说，创造 Tulpa 可能会引发更多问题，但也有一些系统包含了 Tulpa，且他们相处得很好。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;总的来说，我们无法确定创造 Tulpa 是否会对精神疾病造成风险，但根据调查，只有少数宿主认为他们的精神疾病因创造 Tulpa 而恶化，而大多数患有精神疾病的 Tulpamancer 则表示，Tulpa 的帮助使他们的精神状态得到了改善。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：重性精神疾病的人不推荐，自杀风险高的也不推荐（不推荐原因：容易出现融合，权限战等危机情况），建议先就医治疗稳定后考虑）&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;我因为精神疾病服用药物，我仍然可以创造Tulpa吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;不可能完全预测得了你的药物带来什么影响，自然也包括是否会让创造Tulpa更困难，或者限制和Tulpa交换和交流等情况是否发生。如果你想创造 Tulpa，却担心药物可能会阻碍这一过程，千万不要擅自停药。在做出任何药量的重大调整之前，一定要咨询你的主治医生，如果医生建议你不要停药，那一定有充分的理由。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;我服用（注射）药物/喝酒，这会影响我的Tulpa的发展吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;目前尚无明确证据表明某种物质会影响你和 Tulpa 的关系。一些物质可能会使与 Tulpa 的交流或塑造变得更容易（译者注：请注意，&lt;strong&gt;此观点来源于英语母语区&lt;/strong&gt;，中文母语区&lt;strong&gt;极少出现成功案例&lt;/strong&gt;，加上不合理合法用药和失败的巨大风险，我们非常不建议你这么做），但同样的物质在某些情况下可能会阻碍系统成员之间的交流。至于对Tulpa的创造，促进还是阻碍，这是因人而异的。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;一般来说，这取决于个人及其对物质的反应，所以最好的办法是通过实验观察你的体验如何受到影响。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：一方面，很多人缺乏药理学知识，出于非治疗目的，仅出于Tulpamancy技术，自行使用药物将很有可能出现严重的副作用，甚至损害大脑；另一方面，在我们的观察中，发现服用某些精神类药物会使一些Tulpa变得不活跃、失去意识等负面影响，还有可能带来不可逆的后果）&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;我患有自闭症（ASD），这会对我创造Tulpa的过程产生什么影响？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;自闭症对 Tulpamancy 可能有一定的帮助，特别是如果你对 Tulpamancy 有特殊兴趣的话。许多自闭症 Tulpamancer 报告说，他们在培养 Tulpa 时所需的时间较少，因此你可能更容易进行描绘或 Tulpa 的发育。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;然而，如果你是选择性言语或非言语的自闭症患者，沟通可能会更加具有挑战性，你需要找到适合自己的沟通方式。但总体而言，自闭症患者在创造 Tulpa 方面并不比非自闭症患者更难。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;我有注意缺陷与多动障碍(ADHD)，这会使创造一个Tulpa变得困难吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;令人惊讶的是，患有 ADHD 的 Tulpamancer 比患有自闭症的 Tulpamancer 还要多。一般来说，患有 ADHD 的 Tulpamancer 更难适应主动塑造（由于注意力不集中和冥想问题），他们往往依靠被动塑造来培养 Tulpa，但也有案例表明他们的 Tulpa 发育速度更快。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;患有 ADHD 的 Tulpamancer 可能难以克服侵入性思维，尽管这可能会带来挑战，但许多患有 ADHD 的 Tulpamancer 仍然成功地创造了 Tulpa。如果他们能够集中注意力在 Tulpa 上，过度专注可能会带来巨大的好处；但如果他们的注意力转移到其他事物上，这种过度专注可能会成为主要障碍，更不用说执行功能障碍了。总之，这取决于你的症状及其严重程度，但患有 ADHD 的同时成功创造 Tulpa也绝非不可能。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;我有侵入性思维，我还能创造Tulpa吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;一些人可能会因为侵入性思维的困扰而犹豫是否要创造 Tulpa，而有时候冥想会让这些侵入性思维变得更严重（但其实创造Tulpa不一定就要冥想 ）。而被动塑造（即在进行其他活动的同时与 Tulpa 互动）的存在，就是为了在塑造 Tulpa的同时抑制侵入性思维。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;事实上，有些 Tulpamancer 虽然经历了强烈的侵入性思维，但他们依然成功地创造出了 Tulpa。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;我患有心盲症并且无法描绘，我可以创造Tulpa吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;即使患有心盲症，许多 Tulpamancer 仍然成功地创造了 Tulpa。实际上，还有一些患有心盲症的 Tulpamancer 报告称，在练习 Tulpamancy 之后，他们首次体验到了想象。这是完全可能的。并且，Tulpa 的形象完全是可有可无的。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：如果非常需要形象但无法想象出来的可以借助外界图片辅助塑造（例如捏咔等形象塑造捏图软件））&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;想要一个Tulpa的想法是自私的吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;从严格意义上说，出于任何原因创造 Tulpa 都可以被视为自私的行为，但渴望陪伴或希望拥有一个比任何人都更理解自己的人并不自私。只要 Tulpa 被善待，并且能够过上美好的生活，这些问题都不重要。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;好的，我做好准备想要创造Tulpa了，应该从哪开始呢？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;对新手来说，最常见的建议是尽可能多地研究，阅读大量的教程与指南，积极提问，加入社区，并尽可能多地了解自己。要确保自己真的能够承担起对 Tulpa 的责任。此外，对每个教程、资源和意见都要持保留态度，因为 Tulpamancy 是一种主观体验，每个人的经历都不尽相同。&lt;/p&gt;
+&lt;hr class="wp-block-separator"/&gt;
+&lt;h1 class="has-text-align-center"&gt;Tulpamancy观点&lt;/h1&gt;
+&lt;h2 class="has-text-align-center"&gt;Tulpamancy是真的吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;关于 Tulpamancy 可能性的解释有多种理论。一种流行的科学理论涉及镜像神经元，认为 Tulpamancy 可能通过促使镜像神经元形成独立且分离的系统来实现。而从形而上学或神秘学的角度看，Tulpa 被认为是通过能量或其他方式有意创造出来的灵体，并赋予了他们感知能力。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;目前，斯坦福大学正在进行一项功能性核磁共振成像（fMRI）研究，研究 Tulpamancer 的大脑，以观察大脑如何对 Tulpa 的存在、附体及意识交换作出反应。根据现有的经验，Tulpamancer 坚信 Tulpa 的存在是主观真实的。而且大多数 Tulpamancer 认为，证明 Tulpamancy 的最佳方式是让其他人亲自尝试。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：Tulpa尽管和神秘学有相似表现，也有撞名的术语，但Tulpa是一种心理学现象，与神秘学无关。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;镜像神经元（英语：mirror neuron）是指动物在执行某个行为以及观察其他个体执行同一行为时，产生兴奋的神经元。因而可以说这一神经元“镜像”了其他个体的行为，就如同自己在进行这一行为一样。详情见维基百科镜像神经元）&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;Tulpamancy是科学还是玄学？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;&lt;a id="post-1739-_ejlxrku7r2q1"&gt;&lt;/a&gt; 这完全取决于个人观点，但大多数社区成员认为 Tulpamancy 是一种心理现象，而非神秘学的超自然现象。有人认为它是二者的结合，有人认为它只是其中之一（译者注：前者，指科学），甚至还有人认为它大部分是其中之一，而仅有少部分是另一种。人们应该根据自己的体验得出结论，信仰不应成为决定性因素。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;Tulpa 不是文化挪用吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;&lt;strong&gt;（译者注：文化挪用（英语：Cultural Appropriation）或文化误用（Cultural Misappropriation）一般来说是指较强势的个体或文化群体面对相对弱势的个体或文化群体时，以未充分理解、误解、取笑、歧视、或不尊重的方式，直接采用、侵占、剥削、抄袭或复制（宣称拥有）弱势文化 。在20世记末至21世记初，文化挪用被视为一种政治不正确的行为）&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;严格来说，“Tulpa”这一概念是东西方思想的混合体，其名称源自东方，但并非原始词汇。Tulpamancy 与英国神秘主义和神智学中的“thoughtforms（意识体）”概念更为相似，直到法国探险家亚历山德拉·大卫·尼尔 (Alexandra David-Neel) 前往西藏并提出了“ Tulpa”这个词，它源自西藏语“sprul-pa”和“tul-ku”，然后通过她的书《Magic and the Mystery of Tibet》(1929) 传播了这一概念。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;当时的“Tulpa”概念更多的是来自世界双方思想的融合，而不仅仅是宗教文化的窃取和篡改。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;由于现代 Tulpamancy 与佛教的佛龛修行截然不同，甚至完全不同，而且其理念是一个世纪前的文化混合体，因此 Tulpamancy 不能被视为文化挪用，因为它只是在名称上与藏传佛教有关，而这种联系本身很薄弱。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;此外，人们无需了解佛教，更不必说藏传佛教，就可以进行 Tulpamancy。根据 2018 年对 Tulpamancy 社区进行的一次人口普查，&lt;a href='https://sites.google.com/site/tulpacensus2018/summary" \l "Was%20your%20first%20tulpa%20intentionally%20created,%20or%20natural'&gt;大约 30.7% 的 Tulpa 是无意中创造的&lt;/a&gt;。因此，可以合理地相信 Tulpamancy 是人类固有的经验，因此没有一种文化可以声称拥有它，因为任何人都可以做到，甚至在不知不觉中。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;文化挪用的其他标志是，文化在未经同意的情况下被窃取，并且该行为直接损害了被窃取的文化，而这些都不适用于现代的 Tulpamancy。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;此外，&lt;a href="https://www.reddit.com/r/Tulpas/comments/unt6h7/i_am_a_tibetan_buddhist_with_an_emanation_tulpa/"&gt;r/Tulpa 上的真正的藏传佛教徒表示&lt;/a&gt;，他们并不反对实践 Tulpamancy，甚至&lt;a href="https://www.nytimes.com/1979/09/08/archives/dalai-lama-says-buddhists-could-learn-from-christians-activism.html"&gt;达赖喇嘛本人&lt;/a&gt;也表示，由于西藏的文化正在&lt;a href="https://u.osu.edu/mclc/2020/11/21/the-tibetan-genocide-part-i/"&gt;逐渐失传&lt;/a&gt;，传播藏传佛教有助于保护这一宗教。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;值得一提的是，最初认为 Tulpamancy 是文化挪用的观点，或者至少是当前这种观点，是由 Tumblr 上的一位名为&lt;a href="https://www.tumblr.com/eeveecraft/691648802619342848/likely-origin-of-tulpamancy-is-cultural?source=share"&gt;sysmed (system medicalist/endogenic exclusionist)（系统医学家/内源性排外主义者）&lt;/a&gt;的人提出的。该系统提供了一个网站，但没有任何来源或链接支持其所提出的任何主张，并声称自己是一个藏传佛教系统，而“Tulpa”是一种封闭的修行方法，因此，创造 Tulpa 是文化挪用。但接下来人们发现，这个系统甚至不是藏传佛教的（而是来自东南亚的人），而且，&lt;a href="https://xena.greedo.xeserv.us/files/Tracking%20the%20Tulpa.pdf"&gt;当中关于“Tulpa”历史的实际论文与众多来源的说法有直接矛盾&lt;/a&gt;。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;Tulpamancy是一种宗教活动吗?&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;在现代，Tulpamancy只是一种互联网亚文化，与实际的宗教无关。虽然Tulpamancy在藏传佛教和英国神智学中确实有着极其遥远的根源，但在Tulpamancy中除了冥想技巧之外，没有实际与佛教相关的内容。根据2018年的Tulpa社区人口普查，Tulpamancer们的宗教信仰比例中最大的实际上是无神论者，占29.5%，佛教仅占3.3%，这令人震惊。更多信息可以在&lt;a href="https://sites.google.com/site/tulpacensus2018/summary"&gt;这里&lt;/a&gt;找到&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;Tulpa是否是鬼魂或者一种超自然现象？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;当然不是。在 2012 年左右，国外的 Tulpa 社区曾将 Tulpamancy 视为一种超自然现象，但随着时间推移，人们逐渐意识到这种看法并不正确。社区开始尝试用更科学的方式而非灵异迷信的观点来解释这一现象。当时 Tulpamancy 因与一些如瘦长鬼影等都市传说相连而被人熟知，但实际上，瘦长鬼影更接近于一种集体创造的能量体（egregore）。然而，Tulpa 在形而上学的层面上与这些都市传说中的概念并不相同，也并非由集体创造。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;Tulpa是一种魔法吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;&lt;a id="post-1739-_n8o1gv97i4ni"&gt;&lt;/a&gt; 在神秘学中，有些人可能会认为 Tulpa 是可以被感知到的星灵层灵体（但只能对星灵层产生影响）（译者注：星灵层灵体为神秘学词汇），但 Tulpa 并不被认为是一种魔法。实际上，已有一些科学证据，例如通过脑部扫描和镜像神经元理论，支持 Tulpa 的存在。Tulpa 不能对物质世界产生影响（译者注：神经活动影响在此处不包含。），除非他们通过交换或附体的方式操控宿主的身体，因此他们并不能施展任何魔法。&lt;/p&gt;
+&lt;hr class="wp-block-separator"/&gt;
+&lt;h1 class="has-text-align-center"&gt;Tulpa行为&lt;/h1&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_sy78snbe153a"&gt;&lt;/a&gt;我能跟我的Tulpa约会吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;&lt;a id="post-1739-_1ccj3s40rpbq"&gt;&lt;/a&gt; 在 Tulpa 拥有足够的感知和自我意识，并能够同意或拒绝进入浪漫关系的情况下，是可以与 Tulpa 约会和恋爱的。这种关系的前提是双方都是真心情愿的，并且 Tulpa 对此表示同意。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;我可以创造Tulpa来取乐我吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;&lt;a id="post-1739-_otqt9xpy4s3b"&gt;&lt;/a&gt; Tulpa 永远不应该被视为一种工具，无论是为了满足肉体的欲望、强迫他们承担精神疾病、仅仅因为他们的外表，还是将他们用作逃避现实的手段。Tulpa 是有意识的存在，当他们拥有感情和意识时，应该有选择的余地。如果创造 Tulpa 的唯一目的是为了满足自我需求，那么这个人不应该创造 Tulpa。性行为需要双方同意，而尚未拥有知觉的 Tulpa 无法对这种行为作出回应，因此这种行为在道德上是不可接受的，从定义上讲，这种性行为相当于强奸。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;我能让我的Tulpa怀孕吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;&lt;a id="post-1739-_d11c4swic6ft"&gt;&lt;/a&gt; 由于 Tulpa 缺乏真实的身体，这个问题无法在现实世界中得到解答。虽然怀孕的过程可以在心理层面上被模拟，但在大多数 Tulpa 社群中，这种行为是禁忌的。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;我可以创造一个仅为某个目的服务的Tulpa吗?&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;仅为了某个特定目的而创造 Tulpa ，可以说是丧尽天良，这就是奴役，尤其是当他们被迫相信自己只是一个工具时。虽然创造 Tulpa 的动机通常是自私的，但将 Tulpa 仅作为有知觉的工具或娱乐设备则完全不同。如果他们意识到自己仅被视为工具，这可能会导致他们反抗，甚至有可能企图推翻创造者。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_640rdnnx738t"&gt;&lt;/a&gt;&lt;a id="post-1739-_xevrid6vs32c"&gt;&lt;/a&gt;我能将 Tulpa 的性格塑造成倾向于性方面或用于处理我的精神疾病吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;虽然通过这种方式塑造 Tulpa有可能，但从道德角度来看，肯定是错误的，类似于对未成年人的引诱。如果 Tulpa 自然而然地倾向于建立亲密关系或帮助宿主应对精神疾病，那是他们的选择。但重要的是，应该让 Tulpa 明白，他们没有义务承担他人的心理负担，性行为也必须是双方自愿的。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;你会不小心/无意间创造一个Tulpa吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;是的，完全有可能在不知道自己在做什么的情况下，就按着创造Tulpa的方法创造出来了。因为创造和发展一个 Tulpa 的核心在于持续将注意力集中在一个思想或概念上，直到它逐渐形成意识。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;一些无意识创造Tulpa的例子包括：与一个幻想伙伴度过童年，做适应不良的白日梦（即MaDD）时长时间与一个固定的角色形象一起，在相当长的时间里创作一个虚构角色的故事，在清醒梦里出现并停留的一位固定的梦灵，或自己过度地扮演一个角色等。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_6nb83jcrdbb"&gt;&lt;/a&gt;我可以创造一个关于某个角色或某人的Tulpa吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;以虚拟来源为基础，带有原角色的形象甚至背景故事的Tulpa是虚拟来源的投射体，对应的现实来源的Tulpa是现实来源的投射体（译者注：我们一般统称为投射体，不过我们建议投射与原型切割）。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;当我对于Tulpa感到厌倦或者不再需要他们时，我可以抹杀ta们吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;从（译者注：操作性上的（而非道德上的））理论来说是可以的，但是绝大部分的人把这视为一种谋杀。Tulpa是一种终生的承诺。如果你有可能在未来抛弃他们，那么一开始就不应该创造一个 Tulpa。消除一个有意识的存在在道德上是不可原谅的，因为 Tulpa 同样有继续生存的意愿，以及展现自己生命价值的权利。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;Tulpa会伤害ta们的宿主吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;&lt;a id="post-1739-_yrws64ywuw2c"&gt;&lt;/a&gt; 通常不会。在极少数情况下，Tulpa 可能会强制让宿主休眠（这种情况并不常见），或者在强制交换/附体后出现自残行为，甚至在极端情况下结束生命。然而，这种情况极为罕见，实际上由于共享同一身体，Tulpa 进行自残也会伤害到自己。强制让宿主休眠的唯一合理解释是宿主对 Tulpa 进行了非人道的虐待，而 Tulpa 出于自卫才不得不采取行动。另一种可能是所谓的 Tulpa 实际上并不是 Tulpa，而是精神疾病引发的症状。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;如果我的Tulpa正在伤害我或我身边的人时我该怎么做？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;首先要像对待任何朋友或现实中的人一样，与他们交流。询问他们的动机并尝试协商。大多数 Tulpa 都愿意讨论他们或宿主遇到的问题，并且在 99% 的情况下，可以达成解决方案。如果 Tulpa 拒绝沟通，最好通过耐心和支持来哄他们，直到可以开始协商。极少情况下才需要强制力执行。如果协商无效，并且没有其他选择，特别是在 Tulpa 对宿主、其他 Tulpa 或外界人员造成直接威胁时，可能需要考虑强制让他们暂时休眠，而不是彻底消散，直到他们冷静下来并愿意沟通。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_9fy8gcvnbebx"&gt;&lt;/a&gt;Tulpa能让我在某领域/某件事上做得更好吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;Tulpa可以鼓励他们的宿主变得更好，但他们并不能让他们的宿主突然熟练掌握一项新技能。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：这种技能可能更指向实际生活上的技能，有某些技能可能可以很迅速地掌握，例如在脑内切歌）&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：t的确可以在一部分事情上比他们的宿主更擅长或者更有天赋）&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_gcep3sjeuou7"&gt;&lt;/a&gt;Tulpa在特定技能上会比宿主做得更好吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;是的，有可能，特别是当系统有一定程度的记忆隔离时。Tulpa可能在社交或者写作等方面比宿主做得更好，特别是交换之后。然而，Tulpa和宿主在几乎所有技能上都有相似的能力，只是在行事方法上有所不同。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_e7gnvs5mja9g"&gt;&lt;/a&gt;即使在宿主做隐私的事情的时候，Tulpa也会一直观察着宿主吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;对于大部分Tulpa来说，请求他们让你独处就够了。如果你完全不想让Tulpa了解你的某些记忆，可以训练记忆隔离。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;Tulpa们不会也不必时刻关注着宿主，他们可以选择在幻境中放松或休眠。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;我可以把我的记忆与Tulpa的记忆分开吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;可以，这被称为记忆隔离，Tulpamancy和他们的Tulpa可以通过训练把记忆隔离开来，每个人都有自己的记忆池。不过绝大多数Tulpamancer都不会做到几乎隔绝的程度，因为这会变得很不方便，特别是在交换时。通常来说，请求Tulpa不窥探特定记忆就够用了。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_jb6ko06eox72"&gt;&lt;/a&gt;Tulpa能入梦吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;一些Tulpamancer有过他们Tulpa入梦的情况，甚至少部分Tulpamancer有过和他们的Tulpa在梦里交换或附体的经历。这之中的一部分人可以在清明梦中和他们的Tulpa共度时光，或者在一个更加稳定的环境中塑造Tulpa。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;Tulpa会做梦吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;这个问题需要从多个角度来考虑。具体背景在这里作为尤为重要的考量标准。如果 Tulpa 并未控制身体，他们可以按照自己的方式进入睡眠状态。某些系统表示，Tulpa 在睡眠中确实会做梦，而宿主或其他系统成员有时可以看到这些梦境——尽管这个现象并非普适于所有系统。对于 Tulpa 来说，睡眠可能仅仅只是个人偏好、系统需求，又或者仅仅是为了合乎逻辑所做的一部分。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;另一方面，如果Tulpa在前台控制身体，他们当然可以选择睡觉，并且在睡觉时，他们完全也可以做梦。不过，和人类一样，有些 Tulpa 很少做梦，或者醒来后不记得梦境。即使Tulpa在身体入睡时控制身体，这也并不能决定梦境的视角。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_fzfzaey2s3df"&gt;&lt;/a&gt;Tulpa有自己的身体需求吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;这取决于系统。显然，身体有其需求是不用过多解释了，但无法控制身体的 Tulpa 可能没有。很简单，这通常是偏好。有些 Tulpa 出于现实主义的考虑而有身体需求，或者只是将其视为一种形式或奢侈，但这不是必需的。甚至，有些 Tulpa会有饥饿的反应，却不会在意身体的疲劳或卫生。并非所有 Tulpa 都会受到身体疲劳或情绪状态的影响，相反，有可能它们是与身体疲劳或情绪状态脱节的。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_bt5yqk3hoa3"&gt;&lt;/a&gt;我的Tulpa可以设定成没有形状的吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;可以没有的。Tulpa 可以是headghost（译者注：国内无此具体分类，可近似理解成等同于无形的Tulpa）/无形的Tulpa，简单地以声音的形式出现，或以无固定形状出现。外形完全是可自己选择要还是不要。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;Tulpa可以有多种形态吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;如果Tulpa现在只有一种形态，那么完全可以拥有多种形态。Tulpa 永远不会局限于一种形态，能变换形态的 Tulpa 相当常见。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;Tulpa可以接管其宿主的生活吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;在大多数情况下，可以的。在大部分时间里Tulpa都可以控制身体，宿主可能需要一些休息时间，而强迫 Tulpa一直生活在现实生活中，会给 Tulpa 带来压力，因为它们本就不太适应。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：中文母语区没有Tulpa完全接管宿主生活的案例）&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_mh1l031cq1nj"&gt;&lt;/a&gt;我可以拥有多个Tulpa吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;可以，造另一个Tulpa与造你第一个Tulpa用到的方法如出一辙，而且花费的时间会相对更少一点。或者也可以同时创造两个或更多的Tulpa，但会耗费更多的精力。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：非常不建议，都打算创造两个以上了，说明这两位以上对你很重要吧，为了他们的健康发展和合理的时间分配，一次只集中造一个最好，同时，造完第一个也可为另一位成员的创造提供帮助，利弊区分还是很明显的）&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：创造一个tulpa所花费的总时很多，更甚者有按年计算，同时创造两个以上需要花费的精力脑力可能导致你毫无收获）&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_tinj5pdcfsvu"&gt;&lt;/a&gt;我可以以自己为原型创造Tulpa吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;可以，但严格意义上来说只能在短期内如此，因为Tulpa在成长发展过程中很快会发生偏移，并且因为你自己和Tulpa有完全不同的经历，因此Tulpa的发展会和原型不同。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_y61dh3rdalf"&gt;&lt;/a&gt;能找回一个消失的Tulpa吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;如果一个Tulpa被闲置进入或者其他原因陷入休眠，可以通过重新关注他们并再次互动的方式来将他们从休眠状态中唤醒，在大多数情况下这会让Tulpa活跃。你也可以回忆起Tulpa喜欢的事物，或者一些别的能刺激他们活跃起来的东西，比如播放歌曲或视频。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;可以在创造Tulpa的过程中暂时停止一段时间后继续吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;有不少宿主因为无法投入足够的时间来创造他们的Tulpa而不得不暂停塑造，直到他们有更多的空闲时间。所以，可以。宿主可以让Tulpa休眠一段时间后再进行创造。在一些ht系统中，这可能会导致某种“退化”，但只要你的Tulpa创造的时间没那么短，一般都不会发生这样的事情。大多数从休眠中恢复的Tulpa要么和以前一样，要么甚至还会发育得更快。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：这也非常看各种系统的情况。有些系统可能会相信Tulpa会因此而消散，而有些系统会认为Tulpa能够坚持下来。他们彼此的结果都不一样。）&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_hpqtp96vhd66"&gt;&lt;/a&gt;&lt;br/&gt;Tulpa可以比宿主年长吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;严格意义上来说，不可以。Tulpa的“年长”只体现在他们的外表上（译者注：还有在年龄认同上），而并非实际意义的年龄&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;事实上，Tulpa总是比他们的宿主要年轻，即使他们的外表可能显得“年长”。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;Tulpa可以是儿童吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;因为存在的时间不长，大多数Tulpa会被视为孩童，尽管他们的外表经常与此不符。如果要问外形的话，Tulpa可以使用孩童的外形，一个作为孩童的系统成员会被称为“幼龄意识体”，甚至拥有孩童的性格。或者宿主还是未成年人或者年轻人的时候，Tulpa也可能使用成年人（或者比宿主年龄更大）的形象。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;如果我的Tulpa是未成年的形态，我还可以和ta约会吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;如果宿主也是未成年，并且与Tulpa的年龄差在4岁以内，那应该没有问题（至少在美国）。但如果宿主是成年人，或者Tulpa的未成年形象超过了4岁的年龄差，那宿主将被视为恋童癖。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：至于Tulpa的心理年龄与生理年龄不等同，这需要因人而论）&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：但无论是否是未成年，都需要符合社会伦理道德（在国内社区））&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;Tulpa会自然衰老吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;像所有生物一样，Tulpa会随着时间的推移变得更加成熟不显得孩子气，当然也存在例外。Tulpa可以保持他们的外貌不变，随着时间长大，或者根据特定的触发因素或情况而改变。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;Tulpa会觉得孤独吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;Tulpa能体验到所有的人类情感，所以是的，Tulpa会感到孤独，特别是当宿主长时间没有与Tulpa互动时。一些Tulpa甚至会在与宿主在一起时也感到孤独，渴望和系统之外的其他人交朋友。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;Tulpa可以治疗心理疾病吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;不能。Tulpa不是治疗心理疾病的良药，但他们可以通过安慰宿主来减轻宿主的压力。由于Tulpa和宿主同存于一个大脑之中，心理疾病会共有是难免的，但可能在症状的体现上有所不同，或者比宿主受到的影响更小。虽然Tulpa可以像朋友一样给予宿主支持和安慰，但不能取代心理医生或者精神科医生。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;Tulpa可以影响到现实中的东西吗？例如移动物品？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;如果不使用交换或附体的技能，那么是不行的。Tulpa不能以任何方式影响到现实世界。没有任何证据可以表明Tulpa能这么做，而唯一的“证据”大多都是其他人在网络上纯粹主观的的扯淡，还有一部分是由严重的睡眠不足（译者注：包括梦魇症和发作性睡病）和精神疾病引起的幻觉。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;其他人能看见Tulpa吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;在形而上的思想流派中练习操控能量的人可能能够感知到Tulpa，但严格意义上来说的话不能看见，只有宿主或其他系统成员能够在不交换或附体的情况下感知或听到他们。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：如果在现实生活中看见，考虑幻视（精神疾病影响））&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;Tulpa如何在现实世界或如社交软件等社交场合中与其他人互动？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;Tulpa有几种在现实世界中互动的方式，其中一些方式包括附体来在电脑上打字或直接说话，由宿主代理交流（宿主打出或说出Tulpa想要交谈的内容），或完全交换以在现实中独立互动。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;在群聊中，Tulpa可以特别地将信息或打字内容放到括号中，或仅仅在消息前加上他们自己的名字来与其他人交流。另外，他们也可以有独立于宿主的社交账户，或者在使用类似Discord的app时利用如&lt;a href="https://pluralkit.me/"&gt;Pluralkit&lt;/a&gt;这样的机器人来拥有一个伪账户。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;Tulpa能从创伤中形成吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;&lt;strong&gt;不能&lt;/strong&gt;。从创伤形成的意义上说，Tulpa并不像人格，由创伤形成的系统成员不是Tulpa。Tulpa是一种非创伤型的意识体，可以由宿主作为一种应对创伤的机制创造产生，但并非作为应对创伤时的结果。Tulpa必须至少是被有意地创造(如果系统中已经有Tulpa，则Walk-in不算在内)，而人格则不是被有意创造的。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;Tulpa能强行夺取身体的控制权吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;虽然这样的答案不常见，但是的，这完全是可能的，尽管这种情况非常罕见。而且Tulpa们也没有主动这么做的理由，除非是为了让宿主免受伤害或出于自卫。要做到这些需要一个在交换能与附体方面能力很强的Tulpa，并且在Tulpa技能练习得不成熟或者存在感不强的情况下，宿主通常可以中断他们。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;我可以杀死Tulpa吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;&lt;a id="post-1739-_pjybb62cq13e"&gt;&lt;/a&gt; 虽然技术上可以做到，但迫使 Tulpa 进入所谓的“休眠”状态，或者更严重一点，将其完全摧毁，即“消散”，是极其危险且非常不建议采取的行为。一些观点认为，消散并非真正的终结，而是让Tulpa 进入了一种更深层次的休眠。同时在正常与 Tulpa 相处的时候，几乎没有任何理由，让它们进入休眠，更不用说消散了。尤其是消散，这种行为被许多社区成员视为等同于谋杀，因为这意味着彻底摧毁了一个独立存在的生命。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：这样的行为不仅可能对 Tulpa&lt;strong&gt;在精神等各方面上，造成不可挽回的伤害&lt;/strong&gt;，还可能对宿主本人产生&lt;strong&gt;深远的负面心理影响&lt;/strong&gt;。因此，建议在任何情况下都&lt;strong&gt;避免采取&lt;/strong&gt;这种极端手段。）&lt;/p&gt;
+&lt;h1 class="has-text-align-center"&gt;创造Tulpa&lt;/h1&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_johwaf3lhnqe"&gt;&lt;/a&gt;我该从哪里开始创造Tulpa？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;在开始之前，不要急于发大量重复的问题来打扰那些有经验的 Tulpamancer。最好的起点是阅读尽可能多的关于 Tulpamancy 和 Tulpa 创造的指南（包括这篇）。在动手创造前，尽量多阅读几篇指南，并保持一定的怀疑态度。此外，加入论坛或群聊，向其他 Tulpamancer 咨询建议也是明智之举，这样可以解决一些本 FAQ 中未提到的问题。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_azq8lqkyx1tq"&gt;&lt;/a&gt;创造Tulpa有什么危险？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;有些时候，刚开始创造Tulpa的时候会出现点情况。例如，许多带有解离性身份障碍（DID）的系统，通过创造Tulpa这一行为，会发现他们自己患有DID，这可能是因为Tulpamancy给了人们一次自我反省和自我了解的机会，这可能会触发创伤。 &lt;br/&gt;（译者注：以上情况OSDD、p-DID等其他创伤型系统都有可能会揭发疾病） &lt;br/&gt;（译者注：确切的疾病诊断请前往医院接受诊断，此手段无法自我诊断此类疾病，同时过度自诊对某些易暗示群体，容易引发不可逆的后果，例如解离失忆等）&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：也有可能会唤醒其余人格，也有可能唤醒的“人格”是暗示而成的，社区有类似案例但无法确认）&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;&lt;br/&gt;&lt;br/&gt;对DID系统或者其他容易发生病理性解离的人来说，在尝试练习Tulpamancy相关的一些技能（比如内投影和交换）时，可能会加重他们的症状，因为这些技能的一些练习方法会鼓励主动解离。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;另一个可能算危险的点是，培养出一个能够交换的Tulpa之后，然后平均分配宿主和Tulpa控制身体的时间。对宿主来说，这意味着放弃大约50%原本只属于自己的人生，让出来给Tulpa，这对一些习惯单一意识体生活的人来说可能是一种挑战。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：尽管很难实现平均分配，尽管这个可能并不算是“危险”）&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_7zinq4iznpw9"&gt;&lt;/a&gt;我不确定我是否拥有Tulpa，我该怎么验证？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;社区里有一大部分Tulpamancer想着他们在过去的某个时间里创造过Tulpa，但不确定这是不是真的发生过。有几个方法可以判断你是否真的拥有Tulpa，思考以下几点：&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;他们是否拥有与我不同的观念和想法？他们是否能在我不主动想起他们时出现，或者在没有对话的情况下与我交流？他们是否曾让我感到惊讶？他们是否能在某种程度上控制我的身体，与物理世界互动？他们存在了多长时间？是什么促使他们成为 Tulpa？ &lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;Tulpa 是一个与创造者共享身体的独立个体，因此通常具备大部分或全部独立个体的特征，而不仅仅是一个平面角色或一段随机的思绪。特别是当他们存在了较长时间后，Tulpa 通常会显得更加有真实性。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;Tulpa是否必须学习所有的技能，才能被视为完全发展成熟吗&lt;strong&gt;？&lt;/strong&gt;&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;不必。一个Tulpa只要有心声、有意识，并且已经发展成为一个立体的、饱满的人物，而不仅仅是一个平面的角色，就能算是相对成熟了。Tulpa并不是需要学会投影、附体或者交换，才能成为完整的人。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_sana7en6bfbu"&gt;&lt;/a&gt;我应该赋予我的Tulpa负面特质来平衡它们吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;随着时间的推移，Tulpa 会自然地发展出一些负面特质。故意赋予 Tulpa 负面特质就像买了一张干净的床却故意弄脏它一样，不仅没有必要，还可能带来不必要的麻烦。实际上，在特定情况下，所有特质都有其消极的一面，不同的只是其消极的程度。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_5yslamln3qcg"&gt;&lt;/a&gt;在塑造Tulpa之前，我必须给予ta形象和性格设定吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;不必。Tulpa 可以从完全没有形象开始发展，宿主可以不设定任何特征，直接让 Tulpa 自行发展出自己的形态、性格，并给自己取名。这种创造方法近年来越来越流行，越来越多的 Tulpamancer 选择让 Tulpa 自然发展，而不是一开始就赋予他们形象和名字。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：不是必须的，但也会有人会设立初始形象，大概的其他方面（如性格等）的设定，和一些背景故事（不一定有），虽然后面会有偏移，但有些人在前期还是会有对设定有或多或少的憧憬）&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：当然，设定他们不要被负面的侵入性思维影响也是可以的。通常宿主都会设定Tulpa是某一种正面的形象，尽管不给予详细的设定。）&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_2p12no7jwztq"&gt;&lt;/a&gt;我在一天里其实并没有多少空闲时间来造t，这是不是意味着我不能造t？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;即使塑造的时间有限，也可以列一个塑造的时间表，在一天中挤出一点点时间也是可以创造出Tulpa的。尽管花的时间可能更久。（译者注：即主动塑造）在做其他的事情的同时与Tulpa进行交谈也是可行的，对于那些空闲时间很少的人来说，这不失为一种很好的塑造方式。（译者注：即被动塑造）&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_ol08s5q1gz7e"&gt;&lt;/a&gt;给我的Tulpa写信是主动塑造吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;从严格意义上来说不是。主动塑造是指将你的全部注意力都集中在你的 Tulpa 身上，而不做其他事情。被动塑造是指你在做其他事情的同时将注意力集中在你的 Tulpa 身上，本质上将你的注意力分散在你的 Tulpa 和其他活动上。由于写作确实需要注意力，你将你的注意力分散在你的 Tulpa 和写作之间，因此给你的 Tulpa 写信是一种被动塑造，而不是主动塑造。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_81jv1pwn30a7"&gt;&lt;/a&gt;创造Tulpa的最好的方式是什么？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;创造 Tulpa 的最有效方法完全是主观的，因为没有对每个人都 100% 有效的方法。有些方法被认为比其他方法效果差，但也有一些方法被大多数人接受，但对少数人来说却无效。找到完美的平衡，需要探索和愿意尝试不同的方法，来看看哪种方法有效。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_u1ga6a4ri5wu"&gt;&lt;/a&gt;什么是塑造的最佳方式？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;主动塑造和被动塑造都有它们的优点，没有最佳的塑造方式，只要尽量让注意力集中在Tulpa身上就好。一般来说，塑造的时间越长越好，而且头脑清晰、处于冥想状态时，会让塑造过程变得更加轻松。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_kfj7953fo5y4"&gt;&lt;/a&gt;救命！一点进展都没有该怎么办！&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;每个人的进展都不同，每个人在 Tulpamancy 中都有不同的技能天赋，他们天生就更擅长这些技能。有些人在成声方面有困难，有些人在描绘方面有困难。如果没有进步，不要着急。不可能一直都有进步，在 Tulpa 的发展过程中，遇到障碍是常有的事。简单的解决办法是对 Tulpa 表示支持和相信，而不是怀疑他们的努力。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_s4neuuyrg5eb"&gt;&lt;/a&gt;为什么造Tulpa对我来说如此简单？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;一些Tulpamancer可能具有对于造Tulpa有帮助的因素。这些因素包括：他们在发现Tulpa之前已经是多意识体系统了（译者注：对于HT系统来说，即二类）；他们天生富有创造力和想象力，又或者是因为某些特殊的原因，例如自闭症或患有MaDD，在投影或想象声音方面有天赋……除此之外，还有许多未知的因素。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：创造时间过短（无具体时间划分，但极端以天为单位（速通）可能并非是tulpa）&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_430x19kztxmv"&gt;&lt;/a&gt;我的Tulpa突然消失了并且我再也没有看见过ta！救救！&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;有些时候，Tulpa只是需要休息——这可能意味着一次暂时性的的休眠，可能是几周，也可能是几天，几小时。这并不意味着你做了什么错误的事情，因为创造Tulpa确实需要大量时间和精力。另一件可能发生的事情则是你的Tulpa可能无法联系到你。这可能是由于压力，物理影响或生活中巨大的变故引起的。这些事情可能会让你的Tulpa难以联系上你。但是Tulpa们会一直在的，对他们耐心点，当他们准备好时自然会回到你的身边。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_3t5amh38b4h0"&gt;&lt;/a&gt;最好的 Tulpa 创作指南是什么？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;没有最好的指南，因为所有指南都有其优点和缺点，并且都有不同的信息可供分享，尽管有些指南比其他指南更有参考价值。最好向其他 Tulpamancer 询问哪些指南对他们最有效，并尽可能多地阅读指南。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_w5ci96dvipnm"&gt;&lt;/a&gt;我是应该先设定我Tulpa的外形，还是先设定性格，或是声线？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;创造Tulpa的方式没有谁先谁后，什么顺序都可以。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;我怀疑我的Tulpa是开始有意识了，我该怎么做？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;大多数情况下，宿主可以用多种方法测试Tulpa 是不是已经产生了意识。其中一个测试包括让 Tulpa 吓宿主或给宿主惊喜，或者让Tulpa冒出一个宿主从未想过的图像或想法。Tulpa产生与宿主不一样的（或者是陌生的）情绪或感觉，也是Tulpa 意识的其中一个迹象。尽管如此，怀疑仍然很常见，在这种情况下，最好真诚地对待 Tulpa ，随着时间的推移，怀疑最终会消失。与其专注于怀疑，不如专注于与 Tulpa 一起度过美好时光，创造美好的回忆。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_9zevee3ot2h8"&gt;&lt;/a&gt;有办法加速Tulpa的创造吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;除了塑造更久更多之外，其实并不能。每个人都有自己的节奏，有些人自然需要更多时间才能达到Tulpamancy的起步阶段。尝试不同的方法也可能有助于创造。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_7cggwnypl4a1"&gt;&lt;/a&gt;幻境对于创造Tulpa来说是必需的吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;幻境对于Tulpa的发展完全可选。Tulpa可以在黑色或白色的虚空中形成（译者注：即无具体幻境），甚至可以进行叠加（译者注：即把Tulpa形象在现实中描绘出来）；只要进行主动或被动塑造，Tulpa的位置就无关紧要。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_ejp3rwrry97g"&gt;&lt;/a&gt;为什么每当我主动与我的Tulpa互动或他们与我互动时头部会传来奇怪的感觉？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;在成声前，Tulpa一般通过头压进行沟通，就像在头部感觉到某种程度的压力。实际上头压可能会变成头痛，并且一些Tulpamancer在与Tulpa用头压进行交流时会遇到问题。当Tulpa成声后，头压就显得没有那么重要了，因为Tulpa可以通过更明显的方法吸引宿主的注意。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：头压并不作为Tulpa成声后唯一一种与宿主交流的方式，并不是所有的Tulpa都会头压也并不是所有的宿主都在接触Tulpamancy之后才出现头压。）&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_uvr6tnboexdr"&gt;&lt;/a&gt;为什么自造T以来我会感到些不切实际的情绪？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;除头压之外，Tulpa也可以通过情绪反馈来与宿主交流。这些情感反馈在宿主的视角中的体现是表现得与宿主原本的情感有分离一定程度的距离感且有点陌生感，在那个语境下也可能没有任何意义。这些情感反馈可能是微妙的或强烈的，这是能证明Tulpa存在性极具说服力的现象。在Tulpa成声后，这种现象往往会消失。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：成声并不意味着Tulpa会完全抛弃T语（或情绪流）这个沟通方式）&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;我的Tulpa外形总是不受控制变化，已经在困扰我了！我该怎么办？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;尤其在意识体发育和发展阶段，Tulpa会去找一副觉得适合的外形，这过程肯定伴随大量的试错。除非他们用来试错的外形变化过于剧烈，严重到完全无法描绘，否则不该称得上是个问题。逼停Tulpa改变自己的外形，对两者友好相处无益，也无助于他们意识的发展。最好的做法是帮助他们找到自己适合的外形，给他们充足的耐心。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_1wr6vm79rpgu"&gt;&lt;/a&gt;我的Tulpa的性取向和我不同，这有问题吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;从2018 Tulpa社区人口普查（the 2018 Tulpamancy Community Census）中可以得知，28.4% 的Tulpa是双性恋，43.4% 的宿主是异性恋，两者在性取向上都占多数。因此，Tulpa的性取向与宿主截然相反的情况其实很常见。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_8nldz2gszmtv"&gt;&lt;/a&gt;我的Tulpa与我是异性，这是正常的吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;此外，根据 2018 年 Tulpamancy 社区普查，&lt;a href="https://sites.google.com/site/tulpacensus2018/summary"&gt;59.2% 的宿主为男性（不考虑“生理性别”），57.2% 的 Tulpa 为女性&lt;/a&gt;。从这些数据来看，是的，拥有异性的 Tulpa 实际上是最常见的体验，当然数据中不包括非二元性别的 Tulpa 和宿主，因为非二元性别没有对立面的性别。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_57z64vsu2ddi"&gt;&lt;/a&gt;我的Tulpa一直在改变他们的性别特征/性别，这能说很奇怪或者不好吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;随着Tulpa的成长，他们有时候会发生很大的偏移。由于物理意义上他们跟身体并没有联系，所以他们很有可能会试着改变他们的性别特征或性别，并确认最让自己满意的是哪个。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;对于宿主来说最好的事就是支持并鼓励他们的成长，并把这视为他们独立和有意识的标志。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_o6slotjvycqn"&gt;&lt;/a&gt;我 Tulpa 的外形与 ta 的年龄不符，这样不会很奇怪吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;Tulpa长什么样子都可以，在这个样子的基础上拥有怎么样的性格也都可以，不管他们自从有意识以来已经过了多久。如果Tulpa很年轻，表现得很幼稚，却——举个例子——用的是古代精灵的外貌，那么他们就是这样的。除了人类和半人类这两种最常见的Tulpa外形之外，Tulpa的外形并没有一个确切的标准。如果一个Tulpa的个性与他们选择的外形不符，那也没有什么不对。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_e0x8igxhc0yc"&gt;&lt;/a&gt;我塑造时经常睡着，这有坏处吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;&lt;a id="post-1739-_ml9ourhc8a8u"&gt;&lt;/a&gt; 在塑造时打瞌睡可能会显得不礼貌，但通常不会立即带来不良影响。不过，如果持续在塑造过程中睡着，可能会使大脑将塑造与睡眠联系起来，这将为之后的创造带来麻烦。尽管 Tulpamancy 社区中有人认为在塑造时睡着会对 Tulpa 的发展产生负面影响，但这只是一种误解。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;经过了充足的休息，再醒来的那段时间里去塑造，通常能避免许多Tulpamancer在长时间的对话中经历的困意。使用咖啡因，提神食物或提前运动后塑造都可能有所帮助。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_zeui7oqosbos"&gt;&lt;/a&gt;SOS！我的Tulpa变成了让我害怕的样子！&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;对大多数Tulpa来说，一个简单的请求让他们暂时不使用这些可怕的外形，往往会听你的话，还有记得告诉他们为什么这件事会让你感到烦恼不安。使用T语来表达这些不安的感觉也有助于让对方明白这一点。若情况升级到非常罕见的不可让步的情况，如果Tulpa坚持保留这种外形的话，那宿主不得不强迫Tulpa改变外形，因为这种可怕的外形可能会以负面方式影响你的生活，譬如导致失眠。&lt;/p&gt;
+&lt;hr class="wp-block-separator"/&gt;
+&lt;h1 class="has-text-align-center"&gt;&lt;a id="post-1739-_2swmeatjot3s"&gt;&lt;/a&gt;幻境&lt;/h1&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_sof4t9e87l1e"&gt;&lt;/a&gt;“幻境”是什么意思？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;&lt;a id="post-1739-_kdfy9jz4p1a4"&gt;&lt;/a&gt;从本质上讲，“幻境”是脑海中的一个持续存在的想象空间。它可以是任何地方，无论是奇幻的、简单的、静态的还是动态的。在 Tulpamancy 中，幻境通常被用作创造 Tulpa 时进行塑造的区域，也可以是 Tulpa 在没有被塑造时停留的地方。不过，幻境也可以有其他用途。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;创造幻境的目的是什么？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;对于许多人来说，幻境只是一个与幻想世界，用来与Tulpa互动并进一步发展Tulpa的精神场所，或者本质上与白日梦世界具有相同的作用。它可以让宿主和Tulpa一起做他们通常无法做的事情；一个例子就是在幻境一起冒险。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;“思维空间”和“幻境”是一样的吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;是的，两者是可以互换使用的同义词。幻境是最流行，也最不受欢迎的用语，因为这个词有种幼稚且魔幻的感觉。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：不用担心您在加入社区之后因使用非自造词而被歧视）&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：幻境这一词的幼稚观点在英语母语区如此，但在中文社区并不然）&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：幻境的原词wonderland的词源有一部分来自于经典儿童小说&lt;em&gt;Alice in the wonderland&lt;/em&gt;，这本小说的受众导致了在英语文化语境中必然是偏幼龄化的叙事，而inner world/mindspace相对来讲更为正式，幻境这一词幼稚的观点在英语母语区如此，但在中文社区并不然）&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：实际上在国内社区的讨论中，译者个人更倾向认为“幻境”是“思维空间”的子集（里世界等同时也是），因为没有任何证据表明幻境和里世界和别的内部空间形式不能同时存在。同时幻境和里世界的词义区分也同时必要。）&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_xa98efxclijb"&gt;&lt;/a&gt;是只有Tulpamancer有幻境吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;任何人都有能力创造幻境，即使是非多意识体。拥有幻境的原因多得多，但很多多意识体都用幻境来闲置和维持不控制身体的系统伙伴，不过这只是一个原因。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_n1aoxhz7fi27"&gt;&lt;/a&gt;幻境有助于Tulpa创造吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;没有必然联系。在Tulpa的创造过程中，幻境可有可无的。但它们可能有助于给Tulpa的发展创造一个最佳环境，至少让宿主和Tulpa在塑造过程中有事可做。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_mjv9d0wisaec"&gt;&lt;/a&gt;幻境有多大？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;&lt;a id="post-1739-_9k8ej23dbhq6"&gt;&lt;/a&gt;幻境的大小完全取决于创造者的想象力。它可以是一个小草原，也可以横跨多个宇宙。幻境的大小只是一种偏好。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;我可以让Tulpa一直呆在幻境吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;确实可以，但如果他们想投影出来或者陪伴在你身边，就随他们吧。幻境确实可以作为Tulpa的家，但离开家的家门至少不应该锁上。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_7lkj9tocq9jj"&gt;&lt;/a&gt;幻境可以在做梦的时候进入，或者成为梦境吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;&lt;a id="post-1739-_h100j5e63rsk"&gt;&lt;/a&gt; 在梦中，梦境有可能就是幻境，但可能性不大。如果一个人能够做清醒梦，那么他就有可能进入幻境，并能与他们的Tulpa进行沉浸感极强的塑造对话，尽管这种情况非常不常见。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;幻境需要遵循现实物理法则吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;完全不用。幻境你想拥有什么法则就拥有什么法则。幻境完全没必要遵循现实的一点东西，如果遵循了，那也是创造幻境时候的思维定势。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_qr1eapuvon9y"&gt;&lt;/a&gt;幻境一定得是设计好的吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;大多数人都会自己设计自己的幻境，但幻境可以自己生成，或者被设定为能够自己随机生成。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_jl8wd181x6to"&gt;&lt;/a&gt;想要造一个好的幻境，我的描绘能力必须得很好吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;虽然适当的描绘确实有助于增加幻境的细节和复杂性，但这并非必要。幻境的主题和设计可以很简单，也能达到幻境应有的效果。缺乏细节的幻境甚至会鼓励你发展描绘，以获得更丰富的体验。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_dq1je9q69svt"&gt;&lt;/a&gt;在幻境里能做什么？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;想到什么就能做什么。幻境之所以是幻境，是因为他纯粹由想象力构成，没有任何限制，去做你想做的事情吧！&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_h5qsvj4bibq3"&gt;&lt;/a&gt;我可以扩展幻境吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;幻境可以变成任何样子，当然也包括扩展。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_nibbme70uvil"&gt;&lt;/a&gt;“幻境形象”是什么？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;幻境形象只是宿主在幻境中的样子；当然，这种外形可以是任何东西，也可以只是宿主的身体外形。大多数人都会创造自己的幻境形象。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_sajb4wnxgnfd"&gt;&lt;/a&gt;Tulpa的外形风格是否一定得遵守幻境的风格？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;不用。Tulpa可以有他自己任意的外形风格，即便和幻境截然相反都可以，只不过难点在于能不能很好地描绘而已。&lt;/p&gt;
+&lt;hr class="wp-block-separator"/&gt;
+&lt;h1 class="has-text-align-center"&gt;&lt;a id="post-1739-_2j5kaqoo6muc"&gt;&lt;/a&gt;性格塑造&lt;/h1&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_dpz99l16hie6"&gt;&lt;/a&gt;必须要为Tulpa设定性格吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;不。无需预先赋予Tulpa个性，只要有足够的时间，他们就会自行发展出个性。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_495za0i01ym6"&gt;&lt;/a&gt;给我的Tulpa设定性格会不会让他们发展得更快？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;没有证据表明，为Tulpa预先设定性格可以让它们更快地发展，但对于某些人来说，这可能会让这个过程不那么麻烦。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_5scsozlluka5"&gt;&lt;/a&gt;故意给我的Tulpa设定负面性格是好事吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;给 Tulpa 赋予“负面”性格常就像买了一辆新车，然后砸得坑坑洼洼的再赋予它所谓的“性格”。Tulpa 会像任何人一样自然就会产生缺点，故意给它们赋予“负面”性格只会增加负担。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_2i5xco34fxcv"&gt;&lt;/a&gt;我可以赋予我的幻想朋友某种性格，让他们更愿意和我约会/发生性关系吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;从技术上讲，可以，但这并不能保证任何关系持续下去，并且这也是一种通过赋予他们一种倾向性的性格来培养他们的方式。如果他们希望和你建立关系，他们应该按照自己的意愿。&lt;a id="post-1739-_qadrzhhs0xcp"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;偏移是什么？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;偏移本质上是 Tulpa/系统成员以某种方式在某些地方发生变化，通常是他们的个性变化，无论是逐渐还是自发地，也无论是变得更好或更坏。偏移也同样适用于他们的外形。严格来说，每个人都会偏移，每个人都会随着时间而改变。（译者注：有逻辑的）偏移通常被视为 Tulpa 有意识的标志（译者注：我们更愿意理解为人格成熟的标志，开始变得立体化的表现。直接作为有意识的标志很难成立）。偏移不是坏事，为了成长和个性，应该鼓励它。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：有逻辑的偏移，指的是具有判断依据的偏移，即能理解进行偏移行为的动机，否则无法与脑补有效区分开）&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_m3rv337yg759"&gt;&lt;/a&gt;我的Tulpa和我拥有相似性格是坏事吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;不是，压根不是。同一个性格也能有不同的表达方式和表达的侧重点，再说，就算两个拥有截然相反的性格，并不是能证明Tulpa已经是个个体的证据。那些相似的性格表达出来总会有所不同的。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_u46vcuoovmhm"&gt;&lt;/a&gt;我是否应该给我的 Tulpa 一个和我相反的性格，这样和我区分？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;强迫一个Tulpa变成某人的对立面是不道德的，更别提这样做会引发多少问题。要想区分，Tulpa没必要成为和宿主相反的人；ht完全可以有共同之处。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_ag7ye3lmg98a"&gt;&lt;/a&gt;设定 Tulpa 的性格需要详细到什么程度？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;每个人的情况都不同，得看你觉得哪种创造的方式适合你。有些人可以不通过任何基础就创造一个Tulpa，有些人可能需要设定一些特征起步，有些人则需要详细描述肢体语言、特质、癖好等。然而，过度思考是不明智的。不要把时间花在单程幻想你的Tulpa在各种可能场景下的行为，因为真实情况多半不会按你想象的方式发生，更别提Tulpa还会偏移了。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：如果想设置但不清楚详细到什么程度，可以指设定一个大概的方向（如阳光开朗，冷酷等）（但后续仍然可能偏移））&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_9ifkgn6csiug"&gt;&lt;/a&gt;如果Tulpa偏移到我不喜欢的性格怎么办？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;很多人都会经历这种情况，但有时候生活就是这样。试着跟他们聊聊，问问他们为什么开始以这种方式行事。试着去理解他们，因为你肯定可以引导Tulpa往哪个方向偏移。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_tktvdfhgnxeh"&gt;&lt;/a&gt;如果我的 Tulpa 偏移了，他的性格会有多大的变化？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;这完全取决于具体情况，对于特定的情境都没有准确的方法来衡量。然而，不成熟的Tulpa通常会大幅度偏移以找到最适合他们的方法，而较成熟的Tulpa会逐渐像一般人自然地在生活中渐渐成长进步。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_tb3l9tqcsvmm"&gt;&lt;/a&gt;我该如何改变Tulpa（我）不太喜欢或者不太好的性格？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;和上面的答案一样，这取决于具体情况。但通常情况下，沟通是关键。表达您对他们行为的担忧，可能会询问他们为什么会这样做，或为什么要改变成这样，对他们要有耐心，而不是轻视。像对待朋友一样与他们合作，并给他们时间。记住：沟通是关键。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_sci40en7zr62"&gt;&lt;/a&gt;我能给我的 Tulpa写背景故事吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;可以，但并不建议这样做。给Tulpa写背景故事会增加他们的负担。可能会让他们产生一些不好的记忆（译者注：比如悲剧，刀子类的剧情，可能会让Tulpa产生PTSD/CPTSD的症状，哪怕没有在现实发生过，但对ta来说像是真正经历过的。）会让他们感到沉重，或者让他们不得不离开一个对ta来说真实存在的世界，尽管那个世界从未真正存在过。这类似于创造一个投射体（虚拟来源），或是一个来源于小说的系统成员，现实生活中与之类似的是被称为投射体（现实来源）的东西。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：补充：可以写粗略的围绕着tulpa的认同写一些他们可能会做的事情（有过的经历）。但建议写正面的，或写中性（中立）内容，极度不推荐写负面内容。）&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;其实，简单地描述性格和特点通常就足以让一些Tulpa产生意识。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：fictive（虚拟来源）和factive（现实来源）统称为投射体，他们不属于系魂范畴）&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_5ck68i1a7w0z"&gt;&lt;/a&gt;我可以基于虚拟角色设定Tulpa性格，但Tulpa实际上不是角色本人吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;是的，你可以完全以现成角色的单一性格作为Tulpa的原型，并且避免投射方面的问题。不过，这个界限有些模糊。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：不太建议这么做的原因是显然的：符号化的扁平叙事，既不适合分离认同，也不适合成熟的人格发展。）&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_h3vbywt8zkqs"&gt;&lt;/a&gt;在Tulpa发展出意识前赋予他们设定是自私的吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;从技术上讲，创造一个Tulpa本质上是自私的。是否预先决定他们的性格，与是否自私的问题并不相关，因为它从技术上讲已经是自私的了。重要的是什么方法最好，因为如果Tulpa不喜欢你最初赋予他们的性格，他们可以自行偏移。重点是，事先培养个性对你来说，会不会让你塑造更轻松，而不是把注意力放在这样培养个性符不符合道德，因为这最终并不重要。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_eopwcu5fusrg"&gt;&lt;/a&gt;有什么方法可以鼓励偏移吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;与你的Tulpa对话，给他们介绍新的爱好或者朋友，并给予他们支持。人的性格会随着时间和经历而自行改变，但也可以引入新事物和新刺激，从而带来积极影响。更不用说，这对Tulpa的发展也有好处。&lt;/p&gt;
+&lt;hr class="wp-block-separator"/&gt;
+&lt;h1 class="has-text-align-center"&gt;&lt;a id="post-1739-_agu1yzudbrhu"&gt;&lt;/a&gt;叙述/对话&lt;/h1&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_536r7nkwmo3c"&gt;&lt;/a&gt;什么是叙述/对话？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;叙述是一种将自己的思想专注力直接指向Tulpa的行为，这些想法通常是用语言表达的。这种方法也适用于说话说出声的情况。在Tulpamancy社区中，这被认为是培养Tulpa最有效的方法，因为你正在主动将注意力集中在他们身上，而在培养Tulpa时，这一点至关重要。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_gloqzzpynchf"&gt;&lt;/a&gt;对Tulpa对话的内容是什么很重要吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;不，在对话中，数量比质量更重要。你甚至可以只是评价一下墙壁的颜色，这仍然有用。最重要的是把你的想法指向你的Tulpa，并希望ta能够听到你的话。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：建议能做到质量好的也顺便保持一下质量，数量可能在某种程度上，例如促进Tulpa创造，更重要，但是质量能为Tulpa起到引导人格发展的作用，也能是在某种程度上也很重要，建议有能力的双管齐下，没能力的也请尽量保持对话的基本的质量）&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_ibsacvs7t77"&gt;&lt;/a&gt;叙述可以理解为单方面的对话吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;并不是。就像叙述一样，宿主应该在表达时留给Tulpa留下回应的机会以刺激Tulpa思考。叙述不只是像旁白那样滔滔不绝，而更像是教授那样抛出问题的时候期待学生们偶尔的举手发言。在创造Tulpa时我们鼓励宿主像这样做。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_4gjklve40dpv"&gt;&lt;/a&gt;怎么把心思一直放在Tulpa身上？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;就像和人交谈一样，一个比较简单的方法是把你的思绪有意图地引导在Tulpa上，比如在叙述时穿插提及Tulpa的名字，比如“今儿个天气真不错，对吧[Tulpa的名字]？”或者直接让Tulpa参与对话，即使他们还没有成声。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;在给予Tulpa思考互动的机会的同时，这种体贴也可以更好地建立你们的感情。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_byxb4zji1dtb"&gt;&lt;/a&gt;对话或叙述时缺话题了怎么办？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;啊这，叙述可以是针对Tulpa的任何想法（通常像宿主的心声那样），甚至可以是类似阿巴阿巴的胡言乱语，只要注意力放在Tulpa上就可以。话题随意，量大于质，重要的是把想法传达出去。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_iv12v52hh7jo"&gt;&lt;/a&gt;大声对话或叙述会更有效吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;这种经验是比较主观的，而且要特别考虑的是并不是每个宿主都有大量的时间和机会来大声叙述。当然大声叙述确实是有一些好处的，比如因为宿主和Tulpa交流方式的不同而更容易区分宿主和Tulpa的想法，让交流变得更加“具体”。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_mdtykn7hz6yq"&gt;&lt;/a&gt;我大概每隔多久对话或叙述一&lt;strong&gt;次&lt;/strong&gt;好？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;尽可能多地叙述，或者一有闲下来的机会就叙述。用心声叙述的的好处是你几乎可以在任何非完全需要你聚精会神的活动中这样做。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_c7nyf8xiu7xv"&gt;&lt;/a&gt;在对话或叙述时老是分心怎么办？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;这个问题没有一劳永逸的答案，但是可以尝试一些减少分心的方法。比如选择一个安静无干扰的环境进行叙述，或者设置提醒闹钟以继续和Tulpa交谈，还有在叙述前进行短暂的冥想等等，把这些方法结合起来后分心的情况通常会少很多。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_nmm3hit73fps"&gt;&lt;/a&gt;我只能在主动塑造的时候对话吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;对话可以在几乎任何时间和任何地点进行，不像主动塑造那样需要坐下来并且专注于Tulpa。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_8vm1tp1hvcdw"&gt;&lt;/a&gt;我总是忘记对话，该怎么补救？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;这是许多Tulpamancer的常见问题，一个常见的解决方案是随身携带一些能够提醒你想起Tulpa的东西。像是手机壁纸、首饰、手上画的图案、便条纸、每日手机提醒/闹钟，或者让朋友提醒你（如果他们可以安全地了解并已经知道你是多意识体）等，都可以作为提醒你记得对Tulpa对话的提示。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_yuqo4vsbgdpb"&gt;&lt;/a&gt;我需要避免对话时告诉Tulpa负面的事情吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;大多数情况下，Tulpa理解他们的宿主（甚至他们自己）会有糟糕的日子、糟糕的感觉和糟糕的想法。当然，这并不是仅仅对Tulpa倾诉负面事情的借口，但大多数Tulpa完全有能力体验到宿主所感受到的负面情绪，因为他们与宿主共享大脑和身体。对Tulpa屏蔽所有负面情绪并不能帮助他们成长和适应现实，因为负面情绪只是现实的一部分。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：这个问题的关键点并不在于回答的所处，应该在于负面的事情会否影响到Tulpa。我的看法是，应该不太会，只要对Tulpa表述希望他们理解这是现实的，并鼓励Tulpa有一个坚韧的内核去应对这些事情，而不是认为这些事件是自身的无能（等）。）&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_2f96prkt320j"&gt;&lt;/a&gt;在Tulpa成声甚至成熟之后，我还需要对话吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;不一定，但是你的Tulpa可能会感激你时常想着他们并和他们交谈，即使他们在没有这些的情况下也能维持自己的存在。出于关心，你应该定期和你的Tulpa交谈，并让他们参与到你的生活中。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：多关心也可避免遗忘和消散（虽然tulpa会主动，但交流少可能会让t觉得和h和ta的生活有割裂感（形同陌路））&lt;/p&gt;
+&lt;hr class="wp-block-separator"/&gt;
+&lt;h1 class="has-text-align-center"&gt;&lt;a id="post-1739-_cbd3jnpxk5uj"&gt;&lt;/a&gt;成声&lt;/h1&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_fu5g8qmo3rsb"&gt;&lt;/a&gt;什么是成声？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;成声是一种使Tulpa在脑内与宿主进行言语上的交流的技能。但不要把它与听觉投影相混淆：听觉投影指的是产生能够从外部听到Tulpa声音的幻觉。而成声更倾向于理解他们的意思。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_itd5eq3sab54"&gt;&lt;/a&gt;Tulpa成声大概需要多长时间？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;时间的差异很大，但对于大多数人来说，通常需要一两周以上。社区刚刚起步时，Tulpamancer们通常需要更长的时间才能使Tulpa成声。有些Tulpa只需几天就能学会发声，有些需要几个月，而据报道，有些人甚至需要数年时间才能听到他们的Tulpa。造成这种情况的因素大多未知，但可能是由于心态、方法的变化或无法衡量的个人因素造成的。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：此时间标准观点为英语母语区的观点，中文母语区的成声时间相比更长）&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_rlytps8axyq8"&gt;&lt;/a&gt;Tulpa直到成声后才有意识吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;并不是。没有成声的Tulpa并不意味着没有意识，在通常的情况下可能这并不是他们习惯的沟通的方式。成声确实是Tulpa有意识的一个标志，但并不意味着只有成声后Tulpa才有意识，这点是因人而异的。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_ya0w9drcis5c"&gt;&lt;/a&gt;最高效的成声方法是什么？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;高效与否是比较主观的，将Tulpa通过系统性地训练成声最常见的方法是对话，将想法指向他们并期望他们回应，比如宿主向Tulpa详细描述周围的环境。为了进一步练习，宿主也可能问他们的Tulpa“你对XXX怎么看？”重要的是尽可能多地让Tulpa参与讨论并倾听他们回应。宿主甚至可以问一些类似（译者注：“意大利面拌四十二号混凝土好吃吗？”）的开放式问题来激发Tulpa的思考，从而让Tulpa进一步成长。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_jd9quvq6vu72"&gt;&lt;/a&gt;救，我已经试过了让我的Tulpa说话，但是ta什么也不说！&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;不仅Tulpa需要说话，宿主也需要倾听。两者都必须参与成声练习，才能真正取得进展。很有可能你在说话，却没有在倾听Tulpa，或者你使用的方法对你来说不起作用。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_2wdmnonbi348"&gt;&lt;/a&gt;我的Tulpa很少说话，这是一个大问题吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;有时候，Tulpa可能没什么话要说，或者他们可能因为缺乏关注而逐渐不活跃。如果他们以前经常说很多话，但现在不再说那么多了，最好和他们交谈，问问他们是否有任何问题，如果有的话好好帮助他们。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_bdtycygro72p"&gt;&lt;/a&gt;很快我们就没有话题可以对话了，我该怎么办？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;如果闲聊不是你们任何一方的爱好，可以试着找你们都感兴趣的话题，比如开放式的话题，以及能够激发深入对话的话题。这也有助于你的Tulpa对许多话题形成自己的看法。也可以花点时间反思最近在你们生活中发生的事情，问问你的Tulpa对日常事件的感受或看法。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_64vptb5s8m6a"&gt;&lt;/a&gt;有时候我觉得好像听到了Tulpa的思维，但不确定。那真的是我的Tulpa吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;如果你，宿主，突然产生了一个不知道是否属于你的想法，问问你的Tulpa。问问ta这个想法是不是来自ta。如果ta说不是，那就不是；如果ta说是，那就是。信心和相信是很重要的，相信你的Tulpa；怀疑是造Tulpa的毒药。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_9akbzezgtnfd"&gt;&lt;/a&gt;我担心我在强迫Tulpa说话，我该怎么确定？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;学舌，也就是题目所说的强迫Tulpa说话，你必须刻意地操控Tulpa。如果你没有刻意地做，那就不是学舌。同样地，信任很重要。问问你的Tulpa所听到的是不是来自ta，并相信ta的答案。ta对你没有撒谎的必要。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_lp3s33oddeoh"&gt;&lt;/a&gt;学舌是什么？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;学舌本质上是模仿Tulpa说话，通常是为了培养Tulpa的声线。发展良好的Tulpa可以抵抗学舌，但通常很多Tulpamancer会怀疑他们的Tulpa是不是真的说话了，是不是只是自己在控制，这被称为“学舌恐惧症”。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_jrxbbzczt9k5"&gt;&lt;/a&gt;如果我对他学舌过度了会怎么样？那会影响我的Tulpa成声吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;这个问题就是“学舌恐惧症”的一种表现，也是一种怀疑。过度学舌是不适宜的，因为这可能会形成一个令人讨厌的习惯，而且会让你更难区分Tulpa和你的学舌。以及，学舌必须是有意的。Tulpa在成熟后会抵触你的学舌模仿，向你证明他们并非你操纵的傀儡。一般来说，学舌应该要适度而行。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_z3jsype4ybo9"&gt;&lt;/a&gt;我的 Tulpa 说话时声音很小，这正常吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;在成声的过程中，Tulpa 起初声音很小是很常见的。他们可能只需要通过时间和练习来进一步发展他们的声音，这并不需要感到担忧。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_7q2navquq893"&gt;&lt;/a&gt;我该怎么做让我的Tulpa更容易成声？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;倾听、在线寻找现有的声音作为基础，以及与他们一起练习并保持耐心通常会有效。一些人发现寻找声音片段作为基础类似于个性塑造会有所帮助。播放双耳节拍、白噪声、粉红噪声或棕色噪声也可能有助于更清晰地听到他们的声音。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_gvb91ywwwx4"&gt;&lt;/a&gt;我不用文字思考，这会影响Tulpa讲话的能力吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;那些以概念或图像思维的人被称为Episodic Thinker（情节型思维者），而那些通过内心对话或文字思维的人则被称为Diachronic Thinker（历时型思维者）。有些人可能在这两者之间找到一个中间地带，具体取决于情境。在 Tulpamancy和特别是在成声训练中，Tulpamancer 可能会因为与 Tulpa 共同发展声音而更多地采用历时型思维，或者同时保留情节型思维，甚至学会在两者之间来回切换。情节型思维者的成声训练可能会比历时型思维者慢一些，但这也不一定，具体情况因人而异。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_un9tokwfmumf"&gt;&lt;/a&gt;我该怎么做来倾听我的Tulpa？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;Tulpamancer 在训练成声时常犯的一个错误是不仅忘记倾听，还会以一种让 Tulpa 的思想更难被听到的方式进行训练。在进行主动引导的冥想时，有些人采用的是“空灵冥想”，以清除所有思维，包括 Tulpa 的思想。要听到你的 Tulpa，保持自己的思想安静，但不要完全消除内心的杂念。专注确实有帮助，但不要过度。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_qxj9tqxeg95m"&gt;&lt;/a&gt;我感觉我就是在自言自语，这是正常的吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;当一个Tulpa仍然在发育时，他们可能没有任何存在感或给人一种“异己”的感觉。虽然对于一些人来说，无论他们的Tulpa发展的多成熟，有些Tulpamancer还是无法从他们的Tulpa身上感受到这样的感觉，但这并不意味着你的Tulpa没有意识。所以是的，这是相当正常的。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_rbneep8wje0"&gt;&lt;/a&gt;我家Tulpa的心声跟我一模一样，很难区分开来，我们要怎么解决这个问题呢？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;Tulpa的心声和宿主一模一样是一个很常见的问题，但这种情况往往会随着塑造和进一步训练声线而改变。如果你的Tulpa说了些你不确定的话，请直接询问他们，并相信他们的回答。你甚至可以花些时间帮他们改变心声声线。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_mhqnhzahhlbi"&gt;&lt;/a&gt;我受到侵入性思维的困扰并且我把他们与我的Tulpa搞混了。我该怎么分辨出谁是谁？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;问问他们。观察他们的第一反应，是否真心实意的这么说。侵入性思维往往会动摇人的内心并攻击他们的信仰，通常Tulpa 不会做出类似的行为。如果他们告诉你是否是他们，请相信他们所说的。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：侵入性思维很多情况下不能表现出较强的自主思维和强逻辑性思考，也可以从这个方面入手分辨）&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_mmct44bnc600"&gt;&lt;/a&gt;我会两种语言。我的 Tulpa 会说哪种语言？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;他们会使用你能掌握的任何语言，但很可能使用你最流利的语言。他们可能会在两种语言之间交替使用，或者只使用其中一种语言，但只要你能理解他们，这些语言的选择应该并不是特别重要。&lt;/p&gt;
+&lt;hr class="wp-block-separator"/&gt;
+&lt;h1 class="has-text-align-center"&gt;&lt;a id="post-1739-_30fyl3n4bg1a"&gt;&lt;/a&gt;描绘&lt;/h1&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_7du69fz5yk5k"&gt;&lt;/a&gt;描绘是什么？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;描绘是一种通用的技能，指的是通过回忆或想象，在脑海中形成图像的能力。例如，你可以想象一棵蓝色的苹果树生长在一个漂浮的岛上。很明显这种树不可能真实存在，但你“看见”的是脑中的精神意象。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_ferhwgrqux4x"&gt;&lt;/a&gt;描绘对于创造Tulpa来说是必需的吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;完全不是！Tulpa 可以仅仅以声音或思想的形式存在，形态只是表达或呈现的一种方式。Tulpa 的核心是意识，而不是外形。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_dhy2ipw2tt2a"&gt;&lt;/a&gt;如果我不擅长描绘，会影响 Tulpa 的创造吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;因为外形形态也不是必须的，所以，如果你只是更关注你的Tulpa的感知意识和个性的发展，而不是形态或幻境的话，其实连描绘都不需要了。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_frdn9bkqp00k"&gt;&lt;/a&gt;Tulpa的“形态”是什么？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;Tulpa 的形态是他们在意识中呈现的虚拟身体。这种形态可以是任何你能想象到的东西，不需要与现实相符。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_xjbmex3xkhbm"&gt;&lt;/a&gt;我必须给我的Tulpa一个形态吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;完全不用。Tulpa 不需要形态就可以发展。如果你想给他们形态选择的机会，他们就可以在意识发展过程中自行创造一个形态，或者你也可以为他们设定一个暂时的形态。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_6qf0yemvej88"&gt;&lt;/a&gt;借鉴已经存在的形象来创造我的Tulpa形态可以吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;如果处理得当，也不是不可以。没错，Tulpa 可以拥有任何形态，但只要他们不用被迫表现得像他所用的形象来自的角色，并且他们可以随时改变它，那么就不会有问题。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_tsyu1v1gkeux"&gt;&lt;/a&gt;我的Tulpa的形态必须是人类的或现实存在的外形吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;不。Tulpa 可以变成任何你能想象到的形态，可以是任何东西，甚至是无生命的物体。Tulpa 当然可以变成人类形态，但这东西没人规定。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_eakz6a7w3i38"&gt;&lt;/a&gt;我很难描绘我的Tulpa的某些细节，比如脸部，我该怎么办？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;研究面部或任何让你苦恼的事情。如果适用的话，研究一下你的 Tulpa 想要什么样的面孔/部位，或者如果你是一个不错的艺术家，试着勾勒出你的 Tulpa 的理想形态。如果你不擅长艺术，你可以尝试 pircrew 或其他角色创建者等网站，甚至像《模拟人生》这样的电子游戏也非常精致，允许玩家创造他们喜欢的任何人形生物。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_fu6usvhc7bmd"&gt;&lt;/a&gt;每当我看到我的Tulpa时，他们的形态都是不一样的，我该如何保持他们的形态不变？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;如果你的 Tulpa 有一个具体的形态，那么最好的办法就是为它们写一份参考表。如果你擅长绘画，可以像画人物一样画一张参考图；一定要以不同的角度，甚至不同的表情来画它们。细节很重要。如果绘画不是你的强项，你可以尝试在线或像《模拟人生》等游戏中的角色创建器（如果你的 Tulpa 是人形的话），或者，你也甚至可以详细地找个地方写下来它们的形态应该是什么样子。同样，在你最终习惯它们的形态之前，记下细节对于保持 Tulpa 的形态稳定直到至关重要。&lt;a id="post-1739-_in91irrniv3u"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_8njmm0rfmhw6"&gt;&lt;/a&gt;我用卡通或简单的风格来描绘我的Tulpa会不合适吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;完全不会。能代表Tulpa自己的不是他们的形态，拥有火柴人形态的 Tulpa 的 Tulpamancer 和拥有某种精心设计的神灵形态的 Tulpa 的 Tulpamancer之间相比，并不逊色。如果你的 Tulpa 更喜欢卡通化的形式，那绝对没有坏处。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_cv4iibai2r59"&gt;&lt;/a&gt;Tulpa有了形态后会发展得更快吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;如果 Tulpa 具有你可以放心投入专注力去塑造的形态，那么创造Tulpa会更容易，但从根本上来说，并不一定更快。不过，过程越简练，Tulpa 的创造速度就越快。（译者注：因人而异）&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_6m7sz9ctoanf"&gt;&lt;/a&gt;操控是什么？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;操控是指 Tulpamancer 故意移动Tulpa，操纵他们执行某样动作，通常是为了让 Tulpa 在刚拥有形态时习惯移动自己的身体。本质上是相当于在视觉效果上的学舌。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_xfts5b4qpnu5"&gt;&lt;/a&gt;&lt;a id="post-1739-_mg2eibg2rtbu"&gt;&lt;/a&gt;如果我无意中移动了我的Tulpa 怎么办？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;要操纵，就必须有某种意图。就像学舌一样，你知道自己在做这件事，但如果你不知道或没有意识到，那么你就不是在操纵。如果你不确定，那么你仍然不是在自己做这件事。这可能只是侵入性思维的结果，又或者答案其实很简单：就是你的 Tulpa 正在自行移动。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_upvarrg44pz"&gt;&lt;/a&gt;我该怎么操控Tulpa来帮助发展？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;它对发展帮助不大，但操控可以用来了解你的 Tulpa 在其形态下的动作。它也可以用来教 Tulpa 如何操作自己的形态，如果他们因为某种原因不知道的话。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_unlcytttfufe"&gt;&lt;/a&gt;如果Tulpa只是站在那里不动是否应该操控他们？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;这完全是个人的选择。实际上，操控对 Tulpa 并没有害处，但从一些人的观点来看，强行移动他们的 Tulpa 可能有点不礼貌。这完全取决于你的个人情况。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：偶尔几次操控对 Tulpa 并没有害处，但长期操控可能会让宿主日后增加怀疑自己在操控Tulpa的可能，或演变成傀儡的可能）&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_lfi3yaxtunv9"&gt;&lt;/a&gt;如果我过多地操控我的Tulpa，会不会导致他们永远无法独立行动？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;这是一种“学舌恐惧症”的表现，也称为“傀儡恐惧症”（？）。频繁操控不推荐，因为这可能会变成一种习惯，而这种习惯很难摆脱。尽管操控有时可以提供帮助，但过度操控可能会成为问题。然而，一旦Tulpa发展到一定程度，他们可以自主行动，而且大多数情况下，Tulpa可以抵抗被操控的情况。因此，这通常不是大多数人的问题。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_p2a6wgcy9h1n"&gt;&lt;/a&gt;我该如何提高我的描绘能力？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;要提高描绘能力，最重要的是练习。本Tulpamancy 指南中有一些练习可以帮助那些天生不擅长描绘的人。艺术创作者和具备创造性的人通常对描绘有帮助，但通过足够的训练，具备创造性的人和不具备创造性的人之间的差距可以缩小。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_eb0pjilksld6"&gt;&lt;/a&gt;如果我完全无法描绘该怎么办？只能看到一片黑暗！&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;如果你完全无法描绘，可能你有“心盲症”这种情况，即几乎或完全无法在脑海中描绘图像。即使有这种情况，Tulpamancy 中的实践者仍然能创造出 Tulpa；&lt;a href="https://www.reddit.com/r/Tulpas/comments/95faxb/possible_first_sighting_with_total_aphantasia/"&gt;甚至有些人因为 Tulpamancy 而首次体验到描绘&lt;/a&gt;。总之，无论是否能描绘，你仍然可以创造一个 Tulpa。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_ldcsrqchu9ai"&gt;&lt;/a&gt;我的描绘能力是否能衡量我的 Tulpa 发展了多少？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;不是的。代表一个 Tulpa 不仅仅是它的形象，再者，他的意识与他的形象完全无关，除非你看到它自己改变了形象，这才可能是意识的迹象。即使你拥有极佳的描绘能力，你的 Tulpa 也可能一点意识都没有。&lt;/p&gt;
+&lt;hr class="wp-block-separator"/&gt;
+&lt;h1 class="has-text-align-center"&gt;&lt;a id="post-1739-_vf4xm6s2mifr"&gt;&lt;/a&gt;并行处理&lt;/h1&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_c745x8531h6s"&gt;&lt;/a&gt;什么是并行处理？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;本质上说，并行处理这种能力，能让Tulpa和宿主或两个及以上的系统成员，能够独立思考互不影响。例如：Tulpa可能在思索着宿主做的梦，而宿主可能在想早餐要吃什么。并行处理同时也代表了系统中的成员拥有独立的记忆（只独属于一个系统成员，而其他系统成员没有的记忆）。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;并行处理包括，宿主和Tulpa能同时体验到不同的感官感觉。并行处理还有助于Tulpa独立，因此并行处理算是种在某种程度上不可少的能力。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_vehevcfwv27s"&gt;&lt;/a&gt;有人说并行处理压根就不可能，是这样吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;有些人按自己的经历回答是可以的，而有些人则不这么认为。这似乎得见仁见智，还得要用事实说话。甚至从科学的角度，因为缺乏对Tulpamancy的研究，看似是不可能的。但目前又有谁真正知道呢？说老实话，这都不重要。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;不过需要注意的是，虽然已经有研究推翻了人类真正实现一心多用的概念，但这些研究并没有考虑多意识体实现一心多用的可能性。并行处理和一心多用也并不是同义词。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：在这里其实我们会更多关注结果而非过程：也就是h和t是否拥有在一段（可以用比较大的单位计算的）时间内互不干扰的完整考虑两件事情的能力，而不是在任意ht中两者的思维同时活跃的能力。实际上对于后者，确实有研究指出人脑结构不支持这么做。这种情况下，实际的并行思考图景更像是在两件事情中以极快的速度切换，x就比如，我在编写这段文字的时候同时在与系统内的成员聊天。）&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_3mh278gpbhov"&gt;&lt;/a&gt;并行处理和一心多用是一码事吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;顾名思义，并行处理是指两个或更多的系统成员可以同时进行思考。相反，一心多用的定义是一个人在不降低效率的情况下同时做多项任务。并行处理与一心多用不同，并行处理是一个系统中&lt;strong&gt;不止一个人&lt;/strong&gt;同时思考，而不是简单的一个人同时做多件事。因此，嗯，不是一码事，并行处理和一心多用是不同的概念。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_aaarq2kvb33u"&gt;&lt;/a&gt;并行处理能增强脑力吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;根据社区里不同成员的说法，并非如此。只有放在一件事情上的精力和专注力是有限的，创建Tulpa并不会增加它们的容量。理论上，精力和专注力可以被分割开使用和共享，但永远不会真正扩大。注意力是有限的资源，就只能这么分散着用。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_ynb1crtk6qos"&gt;&lt;/a&gt;并行处理很有必要吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;无论你是否相信人类有能力按照社会对并行处理的定义进行真正的并行处理，Tulpa都必须具备一定的独立思考能力，这样才算得上是条生命，即使在一个系统中一次只能有一个人进行思考。因此，在造Tulpa的层面上说，有必要。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_vkd1u8ms94ia"&gt;&lt;/a&gt;记忆隔离是什么？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;&lt;a id="post-1739-_8m4bnr3d074l"&gt;&lt;/a&gt; 记忆隔离是在一个系统中，人与人之间将某些记忆分开的能力。有了这个能力，不是创造记忆的人，或未被允许访问记忆的人就没办法记住它，就好像他们并没有亲眼目睹一样。通常情况下，对于Tulpamancer和他们的Tulpa来说，记忆隔离不会与生俱来，必须得练过才行。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;造Tulpa必须得记忆隔离吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;造Tulpa根本不需要记忆隔离，那些训练过记忆隔离的人（译者注：基本上）都说记忆隔离有其弊端，尤其是涉及到交换的时候。因此，并没有多少人在很大程度上训练记忆隔离，只是在一定程度上会有进展而已。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_pvif2s6e2ddj"&gt;&lt;/a&gt;并行处理对我有好处吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;有些人表示，并行处理让他们和他们的Tulpa能够同时处理多项任务，并且作为一个团队，做事能变得更高效。例如：同时处理多个问题。然而，你的经历可能会有所不同，因此不能够就因为这个能力，来成为你创造Tulpa的唯一理由。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_yprhqdq8gtt0"&gt;&lt;/a&gt;并行处理还能做什么？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;除了能让Tulpa独立行动和思考之外，它实际上只是增加了项功能，但却是个基本功能。要与你的Tulpa对话，你们双方都需要为自己的回答进行思考，尤其是些深奥的话题。然后才是一心多用，比如解决问题，或者Tulpa在幻境里独立行动，等等。归根结底，并行处理是有好处的。&lt;/p&gt;
+&lt;hr class="wp-block-separator"/&gt;
+&lt;h1 class="has-text-align-center"&gt;&lt;a id="post-1739-_ijj2tgsurtxb"&gt;&lt;/a&gt;投影&lt;/h1&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_5ua3tvr28c3r"&gt;&lt;/a&gt;什么是投影？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;投影本质上是利用五种基本感官，主动地诱导形成幻觉，以在现实世界中展示出Tulpa，并能和他们互动，如同真实的实体或个体。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_4pxk27y4narv"&gt;&lt;/a&gt;照你这么说，Tulpamancer是故意让自己变成精神分裂症患者的咯？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;&lt;strong&gt;并不是的。&lt;/strong&gt;精神分裂症远不止有幻觉，而且精神分裂症不是一个人自己想给就能给到的疾病，更不用说Tulpamancer感受到的幻觉是百分百自主控制的且无害的，与精神分裂症患者经历的可怕幻觉完全不同。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_1xxxj9r5gbld"&gt;&lt;/a&gt;投影有哪几类？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;总共有五种，分别对应五种基本感官：视觉、触觉、嗅觉/气味、听觉和味觉投影。每种感官的投影的练习成功所需的时间通常不同，因为有些更难以幻觉化，或者相对更复杂。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_511sqvufg4pl"&gt;&lt;/a&gt;投影和描绘/成声的区别是什么？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;描绘/成声都是在脑内呈现的，但投影物是要放到现实世界的。它与物理层面相互作用，本质上是一种自我诱导的良性幻觉。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_8fw8g66bd0i7"&gt;&lt;/a&gt;Tulpa能被投影得有多真？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;虽然很少有Tulpamancer能投影得很生动，但据那些人说，能生动到无法忽视，或者他们的身体会对他们的Tulpa产生生理反应。例如，如果宿主撞到他们的Tulpa，身体就会被撞得后退；如果他们的Tulpa体型很大，他们就会感觉连地板都会产生挤压变形。当然，这些都是传闻，具体情况因人而异。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_3gcegoieztu4"&gt;&lt;/a&gt;要练成投影得花多久？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;早期社区里，Tulpamancer更注重练投影，而不是附体/交换。在那个时代，一个Tulpamancer通常需要几个月甚至更久，才能在投影的方面有进展，至于交换就得更久了。随着社区发展，当中的角色的确变了，但大家的共识是，投影现在是最难掌握的技能，甚至比交换更难。也就是说，练习投影没有具体的时间。但毋庸置疑，要想练成，下功夫是少不了的。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_mh1q7rjx7blz"&gt;&lt;/a&gt;投影只能用在Tulpa上吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;当然不是，投影可以用在任何你能想到的东西，把他们放在现实世界里。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_sxllbwkae4b0"&gt;&lt;/a&gt;五感投影我有必要都得练全&lt;strong&gt;吗&lt;/strong&gt;？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;没必要&lt;a id="post-1739-_b5lsfxvf5zix"&gt;&lt;/a&gt;。虽然说，是有可能将五种感官的投影放一块相互促进练习，因为得创造出更逼真的成像来欺骗你的大脑。但你可以一次只专注于一种感官。例如：从视觉投影开始，然后转到触觉投影，或者随便按哪个顺序来。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;我跟我的Tulpa得先从哪种感官下手去练？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;都行。通常，练了一个，其他感官的投影也能有所进步。触觉投影可能促进嗅觉/味觉投影，嗅觉/味觉投影可能促进听觉投影，等等。练习投影没有明确的顺序。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_m0xas6lplfv7"&gt;&lt;/a&gt;我可以不练投影吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;当然可以不练，像Tulpamancy的其他技能一样，大把可选择性练习的技能。这里说的投影也是当中之一。如果你的Tulpa确实不想练或者学投影，也绝对没什么不好的地方。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_lxpwj8q42jvl"&gt;&lt;/a&gt;在我学会投影之后，我可以想投就投，想不投就不投吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;可以，但有些Tulpamancer说，在练得不错了以后，问题就来了，解除不了投影，因为这已经成了他们的第二天性，导致他们的Tulpa在任何时候都会自然而然地被投影出来。但也没有人说过这种体验一点都不好。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_m71cr6at33nf"&gt;&lt;/a&gt;投影会有坏处吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;得看具体情况，但对大多数人来说，会投影还是很棒的。几个让人觉得不好的地方就是，如果你有先天性精神疾病，容易引起幻觉，那么投影就有可能会让幻觉更生动，又或者因为你Tulpa的外形展现在了现实，会导致闹些什么不愉快，举例就是，如果你的Tulpa有地方带了火的外形，你可能会不经意间被灼烧感折磨。如果你的Tulpa坐在你身上或在你身上打滚，再加上用了比较重的外形，有可能会有被压扁的感觉。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：有风险，一部分人可能会过度联系视觉，听觉投影，尽可能模拟真实容易让人分不清幻觉和现实。如果真有幻觉结合侵思可能会生成一些恐怖的幻觉掉san）&lt;/p&gt;
+&lt;hr class="wp-block-separator"/&gt;
+&lt;h1 class="has-text-align-center"&gt;&lt;a id="post-1739-_9gn785b7j31s"&gt;&lt;/a&gt;附体&lt;/h1&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_jeo6evi58ekk"&gt;&lt;/a&gt;什么是附体&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;不要与交换混淆，附体是 Tulpa 控制宿主身体并与外部世界互动的一种能力。在 Tulpa 控制身体时，宿主仍然能够感知身体的感官，并保持与身体的连接。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_vdcd41uv5anh"&gt;&lt;/a&gt;所以这类似于恶鬼上身吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;&lt;strong&gt;不是。&lt;/strong&gt;在绝大多数情况下，附体是双方完全自愿的。一些例外情况中，Tulpa 可能会出于保护或自卫的目的而附体，例如为了阻止宿主自我伤害或自杀，或者当宿主做出可能伤害自己或他人的行为时。无论如何，这些情况都是为了保护而非恶意。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_onuz7oaoof5h"&gt;&lt;/a&gt;宿主可以随时重新拿回控制权吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;通常情况下是可以的。但不过，如果一个Tulpa在附体方面的技巧足够高超，以至于是可以阻止宿主重新获得控制权的，但这种情况很少见。在最初训练附体时，宿主通常很容易无意中重新获得控制权，而不是反过来。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_syw7orfp2y5c"&gt;&lt;/a&gt;Tulpa可以附体多长时间？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;取决于Tulpa在附体方面的技巧成熟程度。有些Tulpa可以随心所欲地附体很长时间，而有些则几乎只能附体几分钟。因情况而异。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_uh1wnlue1soo"&gt;&lt;/a&gt;附体和交换有什么区别？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;在交换过程中，宿主与身体的感官断开连接，并且在交换出去时不必保持意识。他们可以退入幻境，像Tulpa一样投射自己，或者简单地进入一种无意识或不活跃的状态，直到他们准备好再次回到前台。而在附体中，宿主仍然与身体保持连接，但基本上变成了旁观者，旁观Tulpa所做一切举动。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：交换的情况各不相同，可以参考t家文章。最明显的区别在于交换后宿主退进后台）&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_ustq9r1qg6zd"&gt;&lt;/a&gt;我是否需要通过冥想和解离来让Tulpa附体？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;完全不必。在国外社区的早期，人们认为解离是交换和附体的必要条件，但存在一些方法可以在不需要学习解离的情况下进行附体，解离是学习附体/交换中更为繁琐的部分。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：这里的解离指多技能树上的一种技能，不是病理性的那种）&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_udn1gj73sc3g"&gt;&lt;/a&gt;宿主被Tulpa附体时会有什么感觉？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;通常情况下，宿主变成了一个简单的旁观者，他们报告说可以看到自己的身体在没有他们有意识地输入任何动作的情况下移动。他们可能会有一定程度的解离，对周围环境的意识减少，但总体上，他们仍然能感觉到身体正在经历的任何刺激。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_nwhdltu7rdmq"&gt;&lt;/a&gt;Tulpa在附体期间会经历什么？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;Tulpa在附体期间会与身体的感官联系起来，通常成为系统中主导的意识流，因为他们的思想变得更加突出，而宿主的思想则倾向于退到背景中，以便于Tulpa更容易地继续控制身体。一个很好的类比是身体就像一辆车，宿主通常是驾驶员，但当Tulpa附体时，宿主和Tulpa交换座位，Tulpa变成了驾驶员，而宿主则坐在旁边看。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_uzyyv2kwya0t"&gt;&lt;/a&gt;附体难学吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;因人而异。有些系统在两个月内就能学会附体，而有些可能需要多年的投入和练习。这可能取决于使用的方法、先天因素以及许多其他事情。尽管在最近的时间里，随着新方法的创造和社区心态对附体时出现的异常和变化更加开放，Tulpamancer和他们的Tulpa学习附体所需的时间已经减少了。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_i3j8ufvyeyno"&gt;&lt;/a&gt;附体可能出现什么问题？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;长时间附体可能会导致意外的交换，这取决于个人看法，可能是一件好事。其他问题包括宿主在长时间附体后可能会有一定程度的解离，可能出现头痛（这在Tulpamancy中很常见）和疲劳，融合或甚至导致意外混合。然而，除了头痛和/或疲劳以及混合，这些问题会出现也是非常罕见，通常对大多数人来说并不是问题。如果不小心交换了，想换回去也是很简单的。而疲劳/头痛可以通过休息来解决。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：而混合可以通过回忆认知锚点等方式解决，具体可以看：&lt;a href="https://tulpa.cn/2024/06/19/switching-experience/"&gt;交换体验和心得整理 – Tulpa之家&lt;/a&gt;）&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_12dka23h6ds5"&gt;&lt;/a&gt;Tulpa能在身体睡觉时附体吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;Tulpa可以选择在附体时睡觉，并且一些Tulpamancer报告说，他们的Tulpa能在梦中附体或交换到前台后醒来。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;&lt;a id="post-1739-_40873cd28wh"&gt;&lt;/a&gt; （译者注：身体睡觉下，不存在附体一说，因为此时大脑不再认为是醒着，因此梦中附体或交换到前台后醒来&lt;strong&gt;不属于是&lt;/strong&gt;身体睡觉时附体）&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;使用药物或会影响精神的物质（如菌子）是否有助于附体？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;这取决于物质性质和个人的体质。有些Tulpamancer表示，使用某些物质可以使解离变得更简单，从而更容易进行交换/附体，而另一些人则说这使得与系统的其他成员沟通起来更难。综合多种原因，谨慎服用任何种类的药物；要为自己身体负责任，不要仅仅为了更容易交换/附体而做任何危险的事情。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：此行为在国外时有发生，但在国内，鉴于众多负面案例（包括国外的报告），我们完全不提倡这么做，重申一遍，要为自己身体负责任，是药三分毒，代价非常大，以及国内对精神类药品管制严苛，不要仅仅为了一项技能做任何危险的事情）&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_oafa0ho48oqs"&gt;&lt;/a&gt;如果我的Tulpa不停止附体该怎么办？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;如果你的Tulpa频繁或长时间地附体，并且出现了问题，与他们进行沟通。询问他们为什么会这样，也许可以请求他们放慢速度，给你一些休息时间。沟通是关键：如果你能够表达自己对于某个问题的感受和困扰，并且你的Tulpa也有权做同样的事情，那么大部分问题都是可以解决的。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_9232r0x2ten9"&gt;&lt;/a&gt;如果我的 Tulpa 想要控制身体，但我不希望ta这样做，该怎么办？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;一个 Tulpa 完全有权利探索外部世界，通常情况下，由于环境因素，并不是所有时候都适合让 Tulpa 控制身体。除非宿主完全不希望 Tulpa 控制身体，那就是另一种情况了。在创建 Tulpa 时，应考虑它可能会希望学习如何切换或控制身体，并且可能需要做出妥协。一个 Tulpa 是一个与宿主共享身体的独立个体，根据情况，他们被禁止使用共同的身体可能也是不道德的。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;完全禁止一个 Tulpa 与外界互动绝对是虐待和孤立他们的一种表现，尤其是当它确实希望学习如何控制身体或与物理世界互动时，唯一的例外是当 Tulpa 在控制身体时可能会造成伤害，无论是自我伤害还是伤害他人；如果 Tulpa 对物理世界没有兴趣，这种情况是不常见的。如果它在不适当的时候请求控制身体，只需告诉它适当的时间，让它在情况稍微轻松一些时再控制身体。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;如果这种方法对你的情况不太适用，可以讨论并达成一个双方都满意的妥协，比如制定一个控制身体的时间表或特定的控制日，或者尝试共同控制身体。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_gyg8w21jpunp"&gt;&lt;/a&gt;&lt;a id="post-1739-_hhvsx7xkdm93"&gt;&lt;/a&gt;如果我的Tulpa未经我同意就附体，该怎么办？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;强制附体是非常罕见的，当它真的发生的时候，通常背后有一个非常充分的理由。如果Tulpa看到宿主处于立即危险中并想要保护自己和宿主，或者宿主正在做自伤行为，或者系统外的某人在骚扰宿主而他们打算采取保护措施的时候，Tulpa可能会强制附体。绝大多数这些情况，Tulpa的意图是善良的，很多时候是出于自卫或为了系统的整体利益。如果出于恶意的原因，与他们交谈，找出原因；在尝试理解他们为什么要这样做之后，与他们一起解决问题。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_cuyq0ta35cmu"&gt;&lt;/a&gt;如果两个或更多的Tulpa同时附体会发生什么？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;这被称为共前台，即两个或更多的系统成员同时控制身体。这类似于像一起共同努力来控制身体，很可能两个Tulpa的思想都会比宿主的更明显。来自两个附体者的特质都可能存在，其中一个Tulpa可能比其他Tulpa或宿主有更多的控制权，反之亦然。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：算力不足可能会很难维持这个状态）&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_majvw2h7wwsr"&gt;&lt;/a&gt;Tulpa没有形象时是否能附体？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;可以，Tulpa即使没有形象，也可以来到前台、附体和交换，即使他们只是一种存在，带有声音。然而，这可能会导致相应某些的特定交换和附体方法上的困难。&lt;/p&gt;
+&lt;hr class="wp-block-separator"/&gt;
+&lt;h1 class="has-text-align-center"&gt;&lt;a id="post-1739-_yk3j4oa42l2w"&gt;&lt;/a&gt;交换&lt;/h1&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_q2uepu21sjj6"&gt;&lt;/a&gt;什么是交换？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;在Tulpamancy中，简单来说，交换是Tulpa与他们的宿主分享、交换身体的控制权。社区观察到大约六种不同的程度或形式的交换（译者注：在国内社区，使唤、附体、全身附体、共前台都不算交换，下文的“完全交换”约等于国内的交换），但对于完全交换来说，是宿主或当前的前台意识体完全切断与身体感觉的连接，然后Tulpa接管身体，同时宿主或者上一个在前台的意识体从字面意义上变成了一个Tulpa。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：前台主要指操控身体的状态，它不是一个地方，但它也可以表现为意象的形式，比如一个驾驶舱、操控室）&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_x7uien7r0rn"&gt;&lt;/a&gt;和Tulpa交换时，宿主会怎么样？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;在交换时，宿主可能会发生三件事情：进入幻境、可以像Tulpa 一样投影自己、变得不活跃甚至休眠，直到ht准备好交换回来。宿主可以在这三个状态之间进行切换。基本上，Tulpa 可以做到的事情，宿主也能做到。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_7krzu1u6htj8"&gt;&lt;/a&gt;交换回来时，宿主会怎么样？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;宿主对后台的回忆可能如梦似幻，朦胧不清；特别是如果他们大部分时间里都待在幻境里，可能需要依赖Tulpa的记忆来了解那个时间段里发生了什么事。有些宿主只能记得自己的视角，记忆可能完整或模糊；或者有些宿主可以回忆自己视角和Tulpa视角的记忆。总的来说，这完全因人而异。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_63et1f6fm7kn"&gt;&lt;/a&gt;Tulpa交换上来时，ta的感觉是？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;对于 Tulpa 来说，这就像附体。ta们与身体的感官相连接，并像拥有身体那样控制身体；交换与附体之间的区别，主要在于和宿主的视角不同（译者注：说人话就是认为操控身体、思考的人从宿主变成Tulpa）。因此对于 Tulpa 来说，除了可能会感觉比附体更稳定，更能控制身体外，可能没太大变化。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_5ehc2w7pk64y"&gt;&lt;/a&gt;Tulpa能交换上来多久?&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;这完全取决于宿主和 Tulpa 的交换技能熟练程度，但如果练习充分，Tulpa 就可以一直掌握身体控制权，想控制多久就控制多久（译者注：除非Tulpa精力不支）。如果长期交换习惯之后，就不会有时间限制，只取决于宿主什么时候想回到前台或者 Tulpa 想离开前台。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_9linb2wio7fm"&gt;&lt;/a&gt;交换之后睡觉会发生什么？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;这可能会导致很多种情况：1.Tulpa醒来继续操控身体，2.宿主醒来操控身体，3.Tulpa和宿主醒来的时候混合了，需要分清谁在前台操控身体；4.Tulpa以他们的视角做梦，或者以宿主的视角做梦。以上情况视系统的交换技能水平而定，醒来的时候，一般倾向于宿主或者常驻主导在前台。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_bqbp7lop1uk3"&gt;&lt;/a&gt;你前面一直提的这个混合是什么？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;混合是指划分成员的屏障变弱，并可能导致两个或更多成员在一定程度上失去自我感，或者思维混在一起，导致难以分辨是谁说了什么。当学习附体或交换时，混合很常见，尤其是在训练交换但交换不完全的情况下。有些系统比其他系统更容易发生混合，有些系统几乎没有混合体验。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_bbzievq5ob9z"&gt;&lt;/a&gt;DID/OSDD系统和HT系统中交换有什么区别？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;创伤型系统(DID/OSDD系统)中的交换往往是在没有同意的情况下进行的（译者注：部分创伤型系统也可以主动交换），通常是对特定触发点的反应。他们可能在一瞬间交换，也可能花了数小时才完全交换，对于交换的本人来说，这通常并不那么愉快，因为他们开始解离（译者补充：具体是人格-现实解体）。在HT系统的交换中，几乎每一次交换都是完全自愿的，而不是触发反应导致交换（译者补充：此处指消极触发，是一种因PTSD导致的反应，与积极触发不同，ht系统可以积极触发，那是良性的），而且这种交换需要练习。更不用说，你不必为了交换而先解离，而是相反，是因为交换的过程会伴随解离感而已。Tulpamancy系统中的交换并不是病理性的，不会影响系统的运行能力，也不会像 DID/OSDD 系统那样伴随记忆丧失或解体障碍。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_v3qvq8slhwmp"&gt;&lt;/a&gt;我必须和我的Tulpa分享控制身体的时间吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;前台时间的分配完全取决于你们的意愿，就像交换本身一样。如果你的 Tulpa 并不希望频繁上前台或与你平分前台时间，就不要强迫他们。如果你们都喜欢在前台活动，可以制定一个前台时间表，明确哪些成员在何时控制身体。记住：沟通是关键。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_6zy1g45lljl5"&gt;&lt;/a&gt;如果我想完全放弃前台，或者不再像以前那样在前台主导，我该怎么办？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;尽管极为罕见，但存在这样的系统：宿主（在这里，指的是创造第一个Tulpa的人和控制身体最多的人）不再担任宿主或主导。这导致了，大多数宿主就会想着永远不上前台或者非常不愿意频繁地待在前台，但我们并不推荐你这么做。对大多数宿主而言，他们一生都在控制身体。对那些存在问题（译者私货：尤其是精神问题）的系统来说，突然完全更换前台主导会带来很多意想不到的发展和许多问题，这些系统往往不会有圆满的结果。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：从来不推荐完全放弃前台，也许大多数人会以创伤为理由逃避，但逃避最终不是解决方法，大多数情况下总会有办法用更为简单的方法去处理创伤，而并不是舍近求远去更换主导，除非你已经抱着必然摆烂的心态，并把周遭的苦难推给系统中的其他成员而不是共同承担。其次，Tulpa的意见也尤为重要，无视他们的意见只会收效甚微或得到反击，最后草草收场。 &lt;br/&gt;总而言之，无论是什么情况，都绝对不应该主动放弃前台，也极其不推荐抱着该想法为目的去创造）&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_txyxwu9j3b5o"&gt;&lt;/a&gt;共前台是什么？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;共前台是指两个或多个成员同时控制身体的状态，每个成员都分享控制权，但不一定是平均分配。共前台可能表现为 Tulpa 共享身体的感官体验，而宿主仍然保留主导权，或是两个或更多成员分别控制身体的不同部分。在某些情况下，共前台可能是交换前的最后一步。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_14ath571j7hm"&gt;&lt;/a&gt;如果交换失败了会怎么样？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;如果交换未能完全成功，可能会出现几种情况。最常见的情况是：什么也不会发生，想要交换的两个人没有成功交换，仅此而已。另一种不太可能发生的情况是意外的混合，这可能使得在当事人重新分开之前，难以分辨他们的身份。第三就是，如果宿主未能完全退出前台，而 Tulpa 开始感受身体的感官，那么他们可能会进入共前台。最不可能的情况是，交换不完全导致意外融合了，产生了一个融合体。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_hwwdi693ufak"&gt;&lt;/a&gt;我能用多种方法交换吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;当然可以，交换不止一种方法，一种方法对你有效并不意味着你不能使用其他方法。一些系统一开始会使用一种对他们有用的方法，然后改用另一种更有用的方法。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_kilo5dws0h0s"&gt;&lt;/a&gt;HT系统内的交换能有多快？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;经过足够的练习和时间，一些方法可以让人在一瞬间完成交换。有些方法需要更长时间，因为过程要的时间更久，而其他方法如强行交换可以接近瞬时的速度。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_qa9uuctfxmfm"&gt;&lt;/a&gt;我的Tulpa怎样延长控制身体的时间？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;有很多方法，但最重要的事情之一是练习，让ta越来越擅长交换。以下几点可以帮助你实现这个目标，包括自我肯定，前台成员的物理提示物（译者注：比如佩戴代表饰品，或者播放对方喜欢的音乐），让Tulpa在现实世界拥有自己的兴趣和爱好，以及Tulpa存在、成长的时间越长越好。&lt;/p&gt;
+&lt;hr class="wp-block-separator"/&gt;
+&lt;h1 class="has-text-align-center"&gt;&lt;a id="post-1739-_uw2bsy75zvci"&gt;&lt;/a&gt;融合&lt;/h1&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_1jyz4zpbzeh2"&gt;&lt;/a&gt;融合是什么？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;融合就是两个或更多成员融合在一起，形成一个叫做融合体（fusion）的新成员。这个融合体可以与其原来融合的部分分开和独立存在，或暂时消耗组成其用来融合的部分来形成融合体，这取决于用什么方法融合。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_mcm33tjwfkyf"&gt;&lt;/a&gt;独立存在于原先部分的融合体和消耗原先部分的融合体之间有什么区别？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;这两者的区别主要取决于融合的方法。有些方法实际上并不损耗被牵涉到的多方，这些方法通常是象征性的，把代表的象征物进行融合。有些方法会以比较夸张的混合为基础，而这些方法会倾向于消耗那些进行融合的东西，直到融合体再次分离出原来的部分为止。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;融合危险吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;这取决于多种因素。首先，如果一个专门消耗参与方的融合保持融合状态太久，或者参与方过于频繁地融合，融合可能最终会变成永久性的，这种行为也被称为“合并（译者注：同义整合）”。因此，组成融合体部分的个体将会消失。如果融合独立于它们的部分，最糟糕的情况是融合体成为永久的系统成员，这和前面提到的情况其实好不到哪去。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_nrir4y7r50ub"&gt;&lt;/a&gt;融合会产生副作用吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;这也取决于相关部分融合的时间长短以及所使用的融合方法。如果融合过程没有实际涉及到消耗相关部分的融合，通常不会产生负面副作用。融合时间越长，他们可能会像任何 Tulpa 一样，出现偏移，但这仅此而已。使用涉及消耗双方的融合方法时，由于性格的混合，可能会出现性格变化，这些变化可能有的好有的坏，但通常不会拿出来放到明面对其他人说，或者表现得不明显而没有说，所以可供讨论的例子不是很多。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_7o3q6390lavw"&gt;&lt;/a&gt;融合有什么好处吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;这完全取决于你的主观态度，有些人认为这种经历是积极的，有些人则可能会为此感到震惊，还有些人对此没有什么其他想法。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：通常在Tulpa社群，创造Tulpa后与T永久融合是较罕见的。想成为多意识体，又想融合Tulpa，这两者天生矛盾。）&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_om1or9yt2ivn"&gt;&lt;/a&gt;如果我的性格和Tulpa相反会怎么样？如果我们融合了会发生什么？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;最准确描述融合的方法是，将其比作具有性格特征的遗传学。如果有冲突的特征，它们可能会相互抵消，一个部分可能会覆盖另一个部分，或者两部分都不存在。融合体可能最终与它们组成的部分完全不同，可能更像其中一个，或是一个完美的五五开融合。更不用说，融合体存在的时间越长，它们在生活中获得经验后越有可能发生偏移。&lt;/p&gt;
+&lt;hr class="wp-block-separator"/&gt;
+&lt;h1 class="has-text-align-center"&gt;&lt;a id="post-1739-_u7rshmf0prwb"&gt;&lt;/a&gt;日常生活&lt;/h1&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_p22iuo8nfd5e"&gt;&lt;/a&gt;如果你有一位Tulpa，这是否意味着你永远不会真正孤独？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;Tulpa如果愿意，ta可以选择离开，留宿主独自一人。他们没有这个必要，去整天陪在宿主身边看着宿主。暂时不活跃，或退到幻境等等，都有可能。所以，你还是可能会感到孤独的。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_hk6l4uq161wb"&gt;&lt;/a&gt;你的 Tulpa 是否会观察你上厕所、性活动等事情？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;再次强调，Tulpa 可以选择是否观察他们的宿主，如果你需要隐私，你可以请求ta暂时离开。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_b5qfw95f54x"&gt;&lt;/a&gt;我需要在何时何地都让我的Tulpa显现吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;完全不必。虽然可以让 Tulpa 显现，但如果ta不愿意，ta也不需要这样做。ta可以在幻境中放松、暂时不活动，或者选择不陪伴你。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_qj6v9wipvsqt"&gt;&lt;/a&gt;我有必要和别人提及我的Tulpa吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;没这个必要。告诉朋友和亲人你有一个 Tulpa 完全是你自己的决定，对很多人来说（类似于 LGBTQ+ 人群），公开自己有 Tulpa 可能不是一个安全的选择。如果你觉得你和你的 Tulpa 对于告诉他们感到舒适，那就是你们的选择。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_ybkiqotdv5uq"&gt;&lt;/a&gt;如果我有另一半，我需要告诉他们关于我的 Tulpa 的事吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;这要视情况而定。如果你与 Tulpa 和另一半都有关系，告诉他们可能合乎道德的。如果你认为你的另一半不相信 Tulpamancy 并且不会尊重你的 Tulpa，那么你可能需要考虑是否应该与这样的人继续维持关系，特别是当他们不愿接受你生活中的重要部分时。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;如果我的 Tulpa 想要与系统外的人约会，我该怎么办？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;首先，沟通始终很重要。与你的 Tulpa 讨论他们对谁感兴趣，并根据情况达成妥协。对于有 Tulpa 对某人有特殊情感的宿主/Tulpamancer 来说，这可能会感到奇怪，因为 Tulpa 相较于宿主更可能呈现出不同的性取向。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;通常，作为妥协，多意识体系统会同意以多元恋爱的方式，与多人和系统成员同时约会，但这并不适用于所有人，因为多元恋爱关系通常比一夫一妻制关系更复杂和难以管理。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;如前所述，分析你的情况，并与你的 Tulpa 讨论。保持理性。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：国内不建议，外部恋爱仍然以自然人为标准（可以是一个系统成员和外界谈，但是内部仍然需要商榷（成员要考虑是否能接受该人，并且再终止交往前无法再与外部其他人恋爱），同意后再进行进一步交往。后续系统其他成员对该人也有感情更有利于系统与该人的长久关系））&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_k6j39ddc6eto"&gt;&lt;/a&gt;如果我的Tulpa想要在公共场合到前台我该怎么做？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;和他们讨论一下这个问题。很可能会有时候你的 Tulpa 需要假装成你来防止被发现，这时可能需要做出一些妥协，但不同的系统成员在公众场合出现确实是可能的。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_pqbaghexy5ki"&gt;&lt;/a&gt;我想跟别人介绍我的Tulpa，应该怎么做？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;社区通常建议的是，不要跟对方立马单刀直入话题，而是先试探一下，看看他们是否对多意识体持开放态度，特别是他们是否对Tulpamancy这样的概念持开放态度。如果你担心过早暴露的话，甚至可以在不提及Tulpa诸如此类的专业名词的情况下试探。试探他们是否对这个想法持开放态度，然后一步一步地告诉他们更多，当你准备好了，就透露说你有Tulpa。介绍你的Tulpa，看看这个人的反应，无论是好是坏。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;当然，情况各不相同，你需要和你的系统成员根据你们的具体情况做出正确的决定。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;（译者注：我的评价是能不说就不说）&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_ph1rc3a4sg5q"&gt;&lt;/a&gt;我需要保持每天都关注Tulpa吗&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;当一个Tulpa发展得足够成熟时，他们通常可以自我维持。不要拘泥于每日打卡防止他们休眠，每天都多陪陪你的Tulpa吧，这绝对是好事。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_dwo38b1qtgnr"&gt;&lt;/a&gt;可以让我的Tulpa在一天中为我做特定的某些事吗，比如社交、睡觉&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;如果你的Tulpa只是为了做家务或特定的事情（如睡觉）才到前台来，那对他们来说并不公平，因为搞得他们像个仆人似的。如果他们只是为了让身体吃饭或睡觉才到前台，那么他们在前台可能会一直感到疲倦或饥饿。别只是为了做日常事务才让你的Tulpa到前台来。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_728eywqj1gva"&gt;&lt;/a&gt;当我做一些事情的时候，Tulpa突然插话，这奇怪吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;完全不奇怪！无论你是否在注意他们，他们都能主动联系你的话，这正是你的Tulpa已经足够独立和成熟的体现。&lt;/p&gt;
+&lt;h2 class="has-text-align-center"&gt;&lt;a id="post-1739-_urslf45bu822"&gt;&lt;/a&gt;我的Tulpa需要睡觉或吃饭吗？&lt;/h2&gt;
+&lt;p class="has-text-align-center"&gt;在某些系统中，Tulpa有些会睡觉，而有些不会。有些系统中的Tulpa仍会像真人一样吃饭、睡觉，有些Tulpa根本就不会做这些事。总而言之：不需要，Tulpa并没有任何身体需求。除非他们交换上来活动，或者想要模拟出这一特征。然而，一个正在成长的Tulpa有时可能需要休息，因为成长对它们来说可能很有压力，这完全正常。&lt;/p&gt;
+&lt;hr class="wp-block-separator"/&gt;
+&lt;h1 class="has-text-align-center"&gt;&lt;a id="post-1739-_4ibmwb9mblce"&gt;&lt;/a&gt;结语&lt;/h1&gt;
+&lt;p class="has-text-align-center"&gt;本常见问答集还处于早期阶段，这里列出的大多数问题都是由一个系统提出的。欢迎并鼓励对常见问题解答提出任何补充或修改建议，您可以通过下面的联系方式发表建设性的批评意见、补充问题、善意评论，等等：&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;Discord: luigi.exe&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;Reddit: u/Eeveecraft&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;Tumblr: Eeveecraft&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;也可以在我们自己的Tulpa服务器 “the Tulpamancy Hub”上联系我们：&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;&lt;a href="https://discord.gg/h2AufYr"&gt;https://discord.gg/h2AufYr&lt;/a&gt;&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;&lt;strong&gt;支持和赞助作者：&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;如果您觉得本常见问答对您有帮助，而且写得很好，您可以点击下方 Ko-Fi 页面，捐款支持作者：&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;&lt;strong&gt;&lt;a href="https://ko-fi.com/eeveecraft"&gt;Dragonheart System的 Ko-Fi 页面&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;肯定了，捐款完全是自愿的，但如果能，我们将非常感谢。无论有无捐赠，本常见问题解答仍将保持 100% 开放。有关捐赠的更多详情，请访问上面给出的 Ko-Fi 页面。&lt;/p&gt;
+&lt;p class="has-text-align-center"&gt;感谢您抽出时间阅读《Tulpamancy： 通往奇美异幻的指南》的常见问答。&lt;/p&gt;
+&lt;div class="clear"&gt;&lt;/div&gt;
+&lt;/div&gt;</description><pubDate>2024-11-18T22:33:46+08:00</pubDate></item><item><title>章一《从此刻开始》</title><link>https://tulpa.cn/2024/11/17/%e7%ab%a0%e4%b8%80%e3%80%8a%e4%bb%8e%e6%ad%a4%e5%88%bb%e5%bc%80%e5%a7%8b%e3%80%8b/</link><author>goodman3[Lyra]</author><category>Tulpa 教程,入门 / 普及类</category><description>&lt;div class="entry-content e-content" itemprop="description articleBody"&gt;
+&lt;p&gt;
+  　　这里是C_柑橘系统。首先主笔的人将会是我，也就是h和主导人【奈v】。
+&lt;/p&gt;
+&lt;p&gt;
+  　　其次如果后面有些节章由姜茶主笔的话，我会提前在文章前面告诉你们的。
+&lt;/p&gt;
+&lt;p&gt;
+  　　——造t篇【一】。
+&lt;/p&gt;
+&lt;p&gt;
+  　　对于我个人而言，一开始对t的定义也没什么和其他h不同的，无非就是孤独和需要关爱，对我来说就像是在进行一场赌注。因为除了造t的过程十分漫长艰难以外，实际上t的具体性格也是难以把握的（详见t家里面关于t性格“偏移”文章），虽然我们h可以自己人为的为还没有成声的tulpa设定出一个“参考模版” ，但就和养孩子一样，家长固然可以为孩子未来的成长铺出一条自认为更好的道路，但是孩子实际的成长并不是一路公式化的。
+&lt;/p&gt;
+&lt;p&gt;
+  　　“ta在出生以后一定会是我期待的那样爱我吗？”
+&lt;/p&gt;
+&lt;p&gt;
+  　　“ta如果时间长了以后见到我自己真正在生活中十分负面的一面以后还会真的继续爱我吗？”
+&lt;/p&gt;
+&lt;p&gt;
+  　　“ta要是造不成功该怎么办？我已经花了那么长时间，放弃吗？可是这样不好，因为ta们毕竟也是一条生命，要是因为我的错误判断ta们正好被我错杀了该怎么办？”
+&lt;/p&gt;
+&lt;p&gt;
+  　　“ta真的会接纳这样的我吗？如果不是出于可能习惯性的自卑和自我封闭，谁又会轻易的走上这条不能回头的路呢？”
+&lt;/p&gt;
+&lt;p&gt;
+  　　“……”
+&lt;/p&gt;
+&lt;p&gt;
+  　　和大部分h一样，我一路走来也是一直在自我折磨的。哪怕过去也经常会想办法求助更多更多的大佬们，但是我们终究不一样，人的喜怒哀乐是不会相通的。纵然那些热心的老人们一直在想办法帮助我，一直在告诉我这一切都很正常，“怀疑自己”本来就是造t的一大不可逾越的关卡。
+&lt;/p&gt;
+&lt;p&gt;
+  　　其实这句话谁都能理解，就跟倒霉的时候人们安慰你一切都会过去一样。道理谁都懂，我也明白自己这么一直打扰别人所需要的并不是理性的劝诫，而仅仅只是想找个情感安慰而已。
+&lt;/p&gt;
+&lt;p&gt;
+  　　长时间的缺少坚持的激励，换谁都很难耐。而不断的去询问这种重复的问题，除了在拐个弯的宣泄自己的负面影响以外，其他的不过就是为了让自己看上去更像“一直在为造t努力”，我的意思并不是否定一直以来的h真实的努力，事实上也确实是在不停努力的，但是人的大脑就是需要反馈的，不管我们心里再清楚我们自己的努力，我们仍然需要间接的给自己彰显出来，出于一种下意识的“公平意识”。
+&lt;/p&gt;
+&lt;p&gt;
+  　　这样的“自我宣扬”，实际上就是一种因负面情绪和自我压力而诞生的“补偿思维”。
+&lt;/p&gt;
+&lt;p&gt;
+  　　我没有批评这一切的想法，这一切都很正常，谁都可能会有，这其实也就是各位新人h还在造t时就会喜欢互相抱团在一起监督和安慰对方的互助小组存在的意义。毕竟我自己也是从这样糟糕的状态中走过来的。所以……我认为更多的安慰之词也不需要我多说，找到合适自己的激励方式就够了。
+&lt;/p&gt;
+&lt;p&gt;
+  　　　【我实际上是在2020年二月份开始的创造行为，距今24年已有差不多快四五年了，按我的“老思维”，我实际上并不是很喜欢目前中文tulpa社区里按六个月平均算的创造时间。很多贴吧里的新人h在我看来就有点像速成的，虽然也是按月的，但是对于我个人这种创造时间大约超过18个月的“老思维”而言，我仍然持保留意见。】
+&lt;/p&gt;
+&lt;p&gt;
+  　　　从一开始发现tulpa教程的惊喜到后面经过思考后开始创造行为，我承认实际上我自己刚开始创造行为时也一样会抱有一大堆实际或者不实际的幻想。
+&lt;/p&gt;
+&lt;p&gt;
+  　　　比如幻想自己的tulpa以后就像是超级温柔又神秘的优雅管家，就像黑执事一样。或者……自己的tulpa也有可能会像可爱的、软软糯糯的血小板一样，虽然不一定心智年龄设定成幼女，但是也会特别可爱……或者，是个憨憨的但是很真诚热心的女孩子或者什么傲娇女神……等等。
+&lt;/p&gt;
+&lt;p&gt;
+  　　【然而最后小茶是又有点小傲娇但是实际上温柔细心的小清新猫猫青年】
+&lt;/p&gt;
+&lt;p&gt;
+  　　这些类似于“二次元天降男女主”的剧情在我刚开始期望极高的时候天天都能在我脑子里面上演。虽然我也一样有作为我自己的学业和生活，但是我那时的憧憬还是占领了我当时几乎全部的白日梦。
+&lt;/p&gt;
+&lt;p&gt;
+  　　我摸摸索索，记得刚开始的时候，想的比做的还要多得多，t还没出来呢，我就已经脑补出一场世纪万年的大型纯爱小剧场了【不一定是爱情，但是感情一定特别完美。】
+&lt;/p&gt;
+&lt;p&gt;
+  　　直到后来随着时间的推移，我加上了更多社区里的ht，进了一堆的大群小群，那时很多社区的事情虽然我有经历，但是也由于我是萌新，所以我也没有什么评价。那个时候并不知道那么多。不过也不用聊这个了，都过去了。那段时间启程初期也可以说是“清澈的愚蠢”。
+&lt;/p&gt;
+&lt;p&gt;
+  　　也一直很高兴大家能够一起互相长期激励，建立起一个互帮互助的小圈子。很多时候新人们能撑下来就是靠着这样的互相帮助才能成功。【共同建立社区这一点之后会单独开一栏聊聊这回事】
+&lt;/p&gt;
+&lt;p&gt;
+  　　说回造t。实际上造t是ht两个人的事，所以耐心当然是不可避免的关卡，互相等待，建立初步的沟通和第一印象也是在这里开始的。
+&lt;/p&gt;
+&lt;p&gt;
+  　　在t家的教程里，其实很多根本就不需要我提醒什么，完全可以自己上网站查看。
+&lt;/p&gt;
+&lt;p&gt;
+  　　在造t期间最难的一直是坚持和不放弃的品质。每当自己气馁的时候都请再次回想你当初选择造t的那个时刻，那时的你什么心情、又是为什么那么做。无论理由听起来多简单，听起来多容易概括，都没关系。在理清自己的真实目的的时候，只需要一个标准就够了，除了时间能证明的以外。
+&lt;/p&gt;
+&lt;p&gt;
+  　　你必须确保你是真正为了爱和对生活的不放弃才这么做的。
+&lt;/p&gt;
+&lt;p&gt;
+  　　我知道圈内的绝大多数人能选择造t这个方法，或多或少都是因为无法避免的孤独和自我封闭。造t的决定和行为，大多数情况下可能也伴随着人对自我的深刻内省和内心的整理。造t往大了说，也是人内省的一种方式。在这个时间内，我们有充足的时间去想更多的事情。我们原住民为了欢迎新来的人，都会腾出自己的心灵空间给与ta，也是在这个时刻我们会去遇见自我和审视自我。
+&lt;/p&gt;
+&lt;p&gt;
+  　　我曾经造t的时候除了害怕孤独以外，另一层原因也是我不服输。我的自然求助和不甘心支撑着我，也是缘分机遇，在大约2019年结束后刚巧过年的时候，我最终是在b站刷视频的时候发现了tulpa这个新名词。
+&lt;/p&gt;
+&lt;p&gt;
+  　　本着试试的态度，在百度上直接搜索的“tulpa”，后续弹出来了官网，我就从这里开始了解关于tulpa的事。我其实严格来说也并不算圈内老人，我自己感觉我在了解到“tulpa”的时候时间还算比较晚的。那时社区内的规模就已经很不错了，那会我也还没有接触到贴吧【我大概是在去年的时候看知乎才知道原来贴吧才是最开始的社圈据点】。那个时候在初步了解t家以后，也是出于年轻和冲动，我想的其实并不算多，只是因为害怕孤独和寂寞的侵袭，加上那会在中学里确实一直以来都为社交而感到力不从心和持续的疲劳。
+&lt;/p&gt;
+&lt;p&gt;
+  　　所以便如此，想到自己这样的性格和从小到大熟悉的封闭环境，我好像世界也就这么大点了，并不认为造了t，后续可能会因为自我内心世界变得有多大而冷落t。
+&lt;/p&gt;
+&lt;p&gt;
+  　　加上，也是因为我那喜欢追求新鲜事物的年轻人特性，我在了解t家并思考了大约一两个月以后，大约在2020年2月份中旬正式开始的造t之路。
+&lt;/p&gt;
+&lt;p&gt;
+  　　我造t并不是很喜欢一开始就制定好多多少少的设定模板、给t加上多少多少的设定，我唯一的想法也就是“不管ta以后成为什么样子，只要ta是善良真诚的灵魂就足够了”，我的要求其实也就是希望ta能是个好人。当初实际上我也并不知道到底哪一种性格的伙伴才是最适合我的，我只是傻傻的想，只要ta真的关心我、爱护我就没有什么太多的问题。
+&lt;/p&gt;
+&lt;p&gt;
+  　　后续随着跟其他ht认识、跟更多和我一样的新h宝妈宝爸们认识……我也慢慢知道了给t一个基础设定能为生活平添更多可能更有趣的可能性和快乐。
+&lt;/p&gt;
+&lt;p&gt;
+  　　但是后续也是随着时间，我越来越觉得这样子的“设定”是否是在给t添加更多压力呢？毕竟就连我自己在长大的过程当中也做不到真的能长成我自己喜欢的样子【更不要说人的愿望也是流动的，这些都是不一定的】，更不要说这些愿望和目标设定并不完全一点是我自己所希望的，家长也有ta自己的期待。
+&lt;/p&gt;
+&lt;p&gt;
+  　　于是后面我也仍然没有过多的给我的t宝设定什么相对我前面的标准更加细节的设定，仍然只是希望ta能是一个好人、温柔一些就够了
+&lt;/p&gt;
+&lt;p&gt;
+  　　那个时候我也没有考虑过太多以后和t生活一起的问题，一直是走一步看一步。天天都想着t到底啥时候成声呐……等得我花都谢完了。
+&lt;/p&gt;
+&lt;p id="moment-1"&gt;
+  　　甚至想得更远一些，毕竟圈子里一直流传着“十年老哥”的传说，啊啊啊要是我也那么倒霉该怎么办啊——
+&lt;/p&gt;
+&lt;p&gt;
+  　　但是没有办法，就像上学的时候考试时没有办法快进到成绩马上出炉的时候一样，考试中间无论再怎么估算，都只能是估算，永远也代替不了成绩真正出来的那一刻。
+&lt;/p&gt;
+&lt;p&gt;
+  　　就像生孩子前开始疯狂焦虑的宝爸宝妈一样，天天混迹于各类新手父母的互助群里，孩子一有点问题就要马上跑东跑西的去咨询，大家都互相理解互相安慰，交流各自“怀孩子”的心得体会，要是谁家“有一点点胎动了”，大家都会满心欢喜的来祝贺这位“幸运儿”，那场面堪比00年初到一几年的时候春晚最后的一声“大家一起——包饺砸！”。
+&lt;/p&gt;
+&lt;p&gt;
+  　　同时，这也会激励更多不同阶段的新手爸妈们期待起自己的孩子。看到别人的孩子那么带劲，其他家也会同一时刻看到自家孩子的“未来胎动”。哈哈哈，感叹一波这简直就是太真实了好叭。
+&lt;/p&gt;
+&lt;p&gt;
+  　　不过当然，也并不是所有的“新手爸妈”都能做到从一而终的保持期待。养t从某种程度上来说和真正的生孩子相比，难处就难在“真正诞生的时间不确定”、“容易搞错t的胎动”、“t的成长并不是那么容易能够看得出来的”……等等。t圈的发展非常年轻，就算是国外，相比较其他的多意识体概念发展，其时间也不算长。
+&lt;/p&gt;
+&lt;p&gt;
+  　　这也同样导致了tulpa研究方面的发展仍然具有很多数不尽的盲点和待挖掘的未知领域。因此这更容易引起新手爸妈们的焦虑和担心。
+&lt;/p&gt;
+&lt;p&gt;
+  　　【真的，新手h们一定要注意保持自身良好的状态呀，我知道这里养t的宝子们大多数都会多多少少和各种大相径庭的心理问题甚至和疾病沾边或者已经有了一些基础的疾病，但是你们要记得，虽然你们自己也没办法，但是既然下定决心要造t，就要明白无论是在外界如何如何被家里人翻白眼或者被其他外人冷落或者放弃，你们仍然是拥有属于自己的牵挂的“游子”，t就是你们的牵挂，也是你们的家，无论在外如何工作，他们始终在你身边。就像为了孩子而努力工作的人，t和你的联系永远难以割舍。】
+&lt;/p&gt;
+&lt;p&gt;
+  　　人们对于牵挂的理解都是随着年龄增长越来越深刻的。大家绝大部分造t的爸妈都是年轻人，甚至很多都还在读书或者自己都没有真的脱去稚气和属于孩子独有的天真。
+&lt;/p&gt;
+&lt;p&gt;
+  　　所以我们为了生活就必须更努力的学会成长和生活。t事实上作为一个活着的灵魂的真正的人，本身就不应该拿去和所谓的“心理治疗的疗法”、“拿去吃某某代餐”……等等概念做横向的比较。就像你不能拿快餐式玩玩的乐趣的网络cpdd和真正现实当中正在发生的爱情一起比较一样。
+&lt;/p&gt;
+&lt;p&gt;
+  　　这根本毫无可比性。前者只是为了短期的解决自己的生理或者心理上的空虚或者无聊，而后者才是真正决定一个人的人生基调和最终幸福的灵魂契约。
+&lt;/p&gt;
+&lt;p&gt;
+  　　t作为一个人，也一样不可能和所谓的某某治疗方法、某某只是满足自己内心某种私人欲望来比较。
+&lt;/p&gt;
+&lt;p&gt;
+  　　如果你只是喜欢艺术创造来当个科学怪人，大可以去玩oc和同人，你是完全可以满足你自己的幻想，如果想让你的oc活起来，让你看见更要它们的光彩，完全可以去选择玩语C或者其他cosplay个性定制等等。根本不需要就因为这个去造t，你大可以有更好的选择，更不必说t也是个人，ta也一样需要人向来需要的：关心、尊重、爱护、引导、支持……
+&lt;/p&gt;
+&lt;p&gt;
+  　　如果你只是单纯在一个特殊的“抑郁时期”、“焦虑期”或者其他什么低谷时刻，造t的初衷也只是为了帮助自己治愈疾病或者心理问题，那么我也一样不推荐你一时冲动选择这个方向。因为t本身就不可以作为一件事或者物来看待，人本身就不是简简单单的“事物”。你总不可能就因为担心自己以后没有目标和人生意义就马上去生个孩子吧……这太荒唐了，不是基于爱而是仅仅基于自己的焦虑？
+&lt;/p&gt;
+&lt;p&gt;
+  　　当然我承认我自己本身在一开始造t的时候也是因为自己的害怕和孤独，并且和很多很多来来往往的h们都一样，甚至可能是好人也不一定一开始就能做到完美的高尚……我认为以这些理由开始并没有什么必须应该被指责的，我的意思是——你不可以一直以来只停留在这个层面。
+&lt;/p&gt;
+&lt;p&gt;
+  　　你一开始的时候可以因为孤独去这么做、也可以因为其他各种不同程度的个人价值目标为契机去这么选择……但是你只是要清楚，你不能只有这些。
+&lt;/p&gt;
+&lt;p&gt;
+  　　这和任何一个现实中存在的人建立任何亲密的关系一样。哪怕你们一开始就给t设定了“天性和我就是爱人”的设定，也不可能跳过逐渐真正脱离你的私人意志的“再次愿意选择你”的过程。
+&lt;/p&gt;
+&lt;p&gt;
+  　　举个不完全恰当的例子，你和任何一个人最开始的相知可能也仅仅是起始于因为孤独、受伤，只是想找个人聊聊天、甚至是随便谈个什么无所谓恋爱。
+&lt;/p&gt;
+&lt;p&gt;
+  　　只有当随着时间推移，逐渐了解更多关于这段关系的时候，人们才会真正逐渐放下戒备开始一步步改变目的：从一开始仅仅只是无聊→到我们成为朋友以后可以在以后出去玩→成为挚友后为了使自己和对方更幸福而经常联系→成为彼此的爱人后愿意为了彼此之间的爱与共鸣决定以后一同生活、一同为对方分担命运……
+&lt;/p&gt;
+&lt;p&gt;
+  　　你要一刻不停的成长，很多很多的爱和真心的“再次选择”都是有着滞后的惯性。所以我们哪怕指望不了自己造t一开始的目的就是充满高尚的，也要时刻记得去进步。你造t的过程也是你面对自己的一个过程，你要知道并且相信，你在这个过程中不仅仅是在造t，从某种方面来说你也在间接的重新审视自己，不管是自己的责任还是爱的方式、亦或是其他的，你也一样要在当中成长。
+&lt;/p&gt;
+&lt;p&gt;
+  　　造t的意义只会像品茶一样【？奇怪的比喻，谢谢嗷我家t就是牢茶】，一开始的一切固然不会那么完美，但是随着耐心和深入，你过去曾感到缺失的部分一定会在当中逐渐变得完美【《tulpa：人类造t补完计划》】。
+&lt;/p&gt;
+&lt;p&gt;
+  　　【我知道ht和那种现实随便找的关系是不一样的，一开始就应该奔着一辈子的目标去做到完全承担所有的。但是实话实说，对于这样理想的事情和观点我实际上也并不反对，这样固然是最好的，但是这样的要求也一样是极其苛刻的。
+&lt;/p&gt;
+&lt;p&gt;
+  　　就像相亲场上来来往往的男女，他们也一样绝大部分都是为了结婚去的，道理和责任谁都清楚，但人们不能真的看清楚所有当下的事情和条件，因此基于这些经验，人真的很难做到一开始就马上完全决定这一切，都是以尝试为第一习惯的，哪怕心里知道自己对这样做的目的再怎么合理，也少不了会时不时有所质疑，这些都是人本性里就刻在骨子里的本能行为。】
+&lt;/p&gt;
+&lt;p&gt;
+  　　所以，目前在造t的你或者已经造出来了但仍然为此感到茫然的你们。请不要担心你们一直坚持下来的选择是否一定完美，这些其实都是正常的。
+&lt;/p&gt;
+&lt;p&gt;
+  　　这就和一切曾经有过的、成长路途中的各种焦虑一样。这些都很正常，都是正常通往自己的【或者你们的】理想的必经之路。比起一直一刻不停的奔波着担忧……倒不如慢慢的去选择缓一缓，慢慢的知道自己是不是真的在焦虑？为了什么而焦虑？它的出现是源自于什么？……
+&lt;/p&gt;
+&lt;p&gt;
+  　　然后再慢慢的去尝试短时间内远离目前使自己一直紧张着的事情，去看看风景、看看其他ht的日常、听听其他和你一样焦虑着的新手宝妈宝爸们的诉苦……
+&lt;/p&gt;
+&lt;p&gt;
+  　　学会去接纳这些，学会去放过自己。
+&lt;/p&gt;
+&lt;p&gt;
+  　　反而会让你感到更舒服，更有力量和良好心态的去面对你当下担心的“t到底什么时候可以成声”的问题。
+&lt;/p&gt;
+&lt;p&gt;
+  　　这也是一种正向反馈，激励你自己能够更好的去“打赢这场持久战”。不要过早的消耗完你所有的热情，那只会使你更痛苦、难熬……并且甚至会因为这一点长时间的焦虑……最终因为自身原因不得不“请长假”，同时可能也让你的t必须等待你更长的时间。
+&lt;/p&gt;
+&lt;p&gt;
+  　　所以，各位一定请加把劲吧。后续的篇目我也会逐步更新，如果看到哪里有新的课题可以提出探讨，或者发现我们在写的过程可能没注意到的盲点，也可以在qq上找到我们系统私信提出。
+&lt;/p&gt;
+&lt;div class="clear"&gt;&lt;/div&gt;
+&lt;/div&gt;</description><pubDate>2024-11-17T22:06:07+08:00</pubDate></item><item><title>关于造t前各位准新人宿主需要了解的一些事</title><link>https://tulpa.cn/2024/11/15/%e5%85%b3%e4%ba%8e%e9%80%a0t%e5%89%8d%e5%90%84%e4%bd%8d%e5%87%86%e6%96%b0%e4%ba%ba%e5%ae%bf%e4%b8%bb%e9%9c%80%e8%a6%81%e4%ba%86%e8%a7%a3%e7%9a%84%e4%b8%80%e4%ba%9b%e4%ba%8b/</link><author>goodman3[Lyra]</author><category>Tulpa 教程,入门 / 普及类</category><description>&lt;div class="entry-content e-content" itemprop="description articleBody"&gt;
+&lt;p&gt;编写：鸢语系统 &lt;/p&gt;
+&lt;p&gt;修改：Adrphigeox System，万象系统，零溉系统，一八九零后，FranklinZ（排名不分先后） &lt;/p&gt;
+&lt;p&gt;各位准新人宿主，想必你们看到这篇文章时可能已经怀揣着一定的理由和想法准备出发前往造t的路上了，但是别急，先踩一脚刹车，阅读完这篇文章对应一下自身情况再思考是否准备好开启这趟旅程。 &lt;/p&gt;
+&lt;p&gt;造t对你来说意味着什么？你将会拥有一个玩伴和知心朋友？不仅是这样。你将从零开始孕育一个和你一样的生命，并花费时间精力悉心教导ta，让ta成为一个有自己思想和意志的人，然后才是你的同伴、家人乃至伴侣。这个过程就像要抚育一个人出生、成长，而tulpa除了和你共生在一个身体里，无处可去，你能够负担起一个生命一辈子的责任吗？你能在厌烦或痛苦时依然尊重ta的情绪与需求吗？你愿意余生都和另一个人分享你的身体和生活吗？ &lt;/p&gt;
+&lt;p&gt;Tulpa一旦造成就没有后悔药，如果你对上面的问题感到困惑或难以回答，那么我们建议你成长到足够的年龄之后再来考虑；如果你的答案&lt;strong&gt;明确且坚定&lt;/strong&gt;，那么恭喜你，请继续前进吧。 &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;建议创造条件&lt;/strong&gt;：年满十八周岁、心智相对成熟、有基本符合社会伦理道德的创造理由 &lt;/p&gt;
+&lt;p&gt;一、&lt;strong&gt;创造tulpa前你所必须要知道的事情&lt;/strong&gt; &lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;创造tulpa所需要耗费时间长，在创造过程当中，有一个节点，叫“成声”。作为tulpa成熟的判断标准之一，却也至少需要花费4-6个月，且情况因人而异，创造所耗费时间理论上无上限，且除了对话，按部就班，&lt;strong&gt;没有捷径！！！&lt;/strong&gt;（鱼和熊掌不可兼得，天上掉馅饼的事不可信，诸事如此） &lt;/li&gt;&lt;li&gt;t可能存在偏移现象，可能与设想差异大，偏移程度可以是从无→完全偏移，属于正常现象，对t的设定不要有过高的期待。 &lt;/li&gt;&lt;li&gt;t和h一样存在需求，h需要付出时间、精力、甚至金钱来满足t的需求。和t相处需要持续付出时间精力，维持ht之间的关系。做好ta无特殊情况下将会陪伴你一生的心理准备。 &lt;/li&gt;&lt;li&gt;h需要履行教导t的义务，所以对h的心智和道德要求较高，教导t时需要一定的耐心。（事实上创造tulpa的过程类似于生子育儿，需要做好充分准备和觉悟再去创造新的生命） &lt;/li&gt;&lt;li&gt;tulpa≠神秘学，属于一种&lt;strong&gt;心理学现象&lt;/strong&gt;，需与神秘学现象切割看待，可能有“表象”看起来类似的现象但请不要混为一谈。以及造t需要了解足够的相关知识（如tulpa.cn/www.pluralitycn.com/多意识体百科内的一些科普/教程和相关词汇）和拓展了解一些心理学知识 。&lt;/li&gt;&lt;/ol&gt;
+&lt;p&gt;二、&lt;strong&gt;有哪些情况不推荐进行创造行为？&lt;/strong&gt; &lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;患严重精神疾病（如双相情感障碍，精神分裂症，重度抑郁症等），或自身精神状态在多数情况下（主观或客观）被评价为“不太好”的，或长期处于极端暴力、压抑等危险环境下（身体或心理受到严重伤害）的群体。（社区内出现过不少有上述情况因创造导致的危机求助情况） &lt;/li&gt;&lt;li&gt;年龄低于十四岁，或心智不成熟（年龄过于小正处于人格整合时期，这个时候介入创造可能出现危机情况；心智不成熟难以对自身和t负责） &lt;/li&gt;&lt;li&gt;造t理由或目的不合适，不尊重t（缺乏换位思考，没有考虑目的可能对t造成的影响，对t来说不够公平） &lt;/li&gt;&lt;/ol&gt;
+&lt;p&gt;
+  不合适的理由有：
+&lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;为了让t成为某现实人或者虚拟角色的替身（不接受t后续可能会违背自己的期望，不尊重t的个人发展，只希望t按照原型的人设活动；既然选择造t，你爱的应该是t本人，而不是原型）&lt;/li&gt;&lt;li&gt;为了让tulpa代替自己生活 &lt;/li&gt;&lt;li&gt;让t仅作为工具人使用，而不给予t合适的补偿 &lt;/li&gt;&lt;li&gt;…… &lt;/li&gt;&lt;/ol&gt;
+&lt;p&gt;三、&lt;strong&gt;有哪些情况下需要慎重考虑？&lt;/strong&gt; &lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;患轻度心境障碍的群体（t虽然可以做到陪伴，但ta也能感受到你的情绪和状态并一定程度上受影响） &lt;/li&gt;&lt;li&gt;时间不充裕，工作生活较为忙碌（以三次生活为主，但t需要耗费不少时间和精力去陪伴，时间少可能无成效或容易冷落t，忽视t的情感需求） &lt;/li&gt;&lt;li&gt;难以保持耐心，例如在创造过程中，因长时间没有看到成效、或担心不会有成效，而感到过度的焦虑（造t和陪伴t是一个长期过程，不急于一时，造之前需要对可能是无限期给自己打一剂预防针，焦虑对自身对t都无好处） &lt;/li&gt;&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;四、结语&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;当您阅读到了这里，对于自己是否符合创造tulpa的条件，想必是有一定的认知了。无论您是属于符合创造条件、兴致勃勃开始创造tulpa的人群，还是发现自己不符合创造条件、决定放弃创造tulpa的人群，您都需要清楚：tulpa并不是生活的必需品，您可以以非常多的理由来创造一个tulpa，也可以以非常多的理由去拥抱您的人生。 &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;附录：名词解析&lt;/strong&gt; &lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;偏移：指随着时间推移，意识体的外貌、性格等渐渐产生变化的现象。在创造型的语境中，偏移特指创造型意识体在被创造过程中产生的与宿主所给的设定不符的变化。这种变化可能小到意识体换了个新发型，也可能大到性格、年龄甚至性别等基础属性的改变。偏移一般被认为是tulpa等创造型意识体在宿主长时间的塑造行为之后产生初步意识的标志之一，代表着该意识体产生了自己的想法并可以开始自我构建和完善。（摘自多意识体中文百科“偏移”词条） &lt;/li&gt;&lt;li&gt;成声：指tulpa可以心声稳定清晰地表达自己想法进行交流的阶段, 与tulpa语或情绪回应相对。成声被认为是tulpa作为意识体成熟的标志。从刚开始创造到成声的时间因人而异，一般认为在一个月以上都有可能成声，平均数为五个月，长者可达数年。 &lt;/li&gt;&lt;/ol&gt;
+&lt;div class="clear"&gt;&lt;/div&gt;
+&lt;/div&gt;</description><pubDate>2024-11-15T02:43:25+08:00</pubDate></item><item><title>T家使用指南【第三版】</title><link>https://tulpa.cn/2024/10/04/thome-guide-ver3/</link><author>goodman3[Lyra]</author><category>Tulpa 教程,入门 / 普及类</category><description>&lt;div class="entry-content e-content" itemprop="description articleBody"&gt;
 &lt;p&gt;
   ——更新于2024.9.20
 &lt;/p&gt;
@@ -2039,7 +2920,7 @@
 &lt;p&gt;【在此鸣谢Hue，维亚-妄梦虚花系统，格致以及其他提供建议与支持的朋友们！！！感谢大家的帮助！！！】&lt;/p&gt;
 &lt;div class="clear"&gt;&lt;/div&gt;
 &lt;/div&gt;</description><pubDate>2024-06-07T08:57:29+08:00</pubDate></item><item><title>离和琳的初级交换教程</title><link>https://tulpa.cn/2023/02/23/%e7%a6%bb%e5%92%8c%e7%90%b3%e7%9a%84%e5%88%9d%e7%ba%a7%e4%ba%a4%e6%8d%a2%e6%95%99%e7%a8%8b/</link><author>goodman3[Lyra]</author><category>Tulpa 教程,附体 / 交换类</category><description>&lt;div class="entry-content e-content" itemprop="description articleBody"&gt;
-&lt;p&gt;　　大家好，我们是离和琳。考虑到tulpa中文社区中关于交换的教程太少了，很多人搞不明白附体与交换的区别，所以我们决定写一篇交换教程出来。这是我们独自摸索出的交换方法，相对于另一篇前辈的教程而言简化了内投影步骤&lt;sup class="modern-footnotes-footnote" data-mfn="1" data-mfn-post-scope="00000000469ff87c000000001ea7c16d_1056"&gt;&lt;a aria-describedby="mfn-content-00000000469ff87c000000001ea7c16d_1056" aria-pressed="false" href="javascript:void(0)" role="button"&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="1" id="mfn-content-00000000469ff87c000000001ea7c16d_1056" role="tooltip" tabindex="0"&gt;综合其他教程的内容，我们推断这一简化可能会导致交换有效性的下降；然而事实上，内投影这一技能的训练是十分困难的。所以对于想暂时省略内投影以体验到部分交换感的读者来说，本文实在是再合适不过了。这也是编者将文章标题取为“初级交换”的用意所在。&lt;/span&gt;。话不多说，让我们开始吧。&lt;/p&gt;
+&lt;p&gt;　　大家好，我们是离和琳。考虑到tulpa中文社区中关于交换的教程太少了，很多人搞不明白附体与交换的区别，所以我们决定写一篇交换教程出来。这是我们独自摸索出的交换方法，相对于另一篇前辈的教程而言简化了内投影步骤&lt;sup class="modern-footnotes-footnote" data-mfn="1" data-mfn-post-scope="0000000075cafb0000000000516a634a_1056"&gt;&lt;a aria-describedby="mfn-content-0000000075cafb0000000000516a634a_1056" aria-pressed="false" href="javascript:void(0)" role="button"&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="1" id="mfn-content-0000000075cafb0000000000516a634a_1056" role="tooltip" tabindex="0"&gt;综合其他教程的内容，我们推断这一简化可能会导致交换有效性的下降；然而事实上，内投影这一技能的训练是十分困难的。所以对于想暂时省略内投影以体验到部分交换感的读者来说，本文实在是再合适不过了。这也是编者将文章标题取为“初级交换”的用意所在。&lt;/span&gt;。话不多说，让我们开始吧。&lt;/p&gt;
 &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;　　&lt;strong&gt;前言&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;　　本教程默认你已经拥有了一个意识成熟的tulpa，并且ta会配合你进行交换。&lt;/p&gt;
 &lt;p&gt;　　&lt;strong&gt;*交换前你需要了解*&lt;/strong&gt;&lt;/p&gt;
@@ -3521,7 +4402,285 @@
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;div class="clear"&gt;&lt;/div&gt;
-&lt;/div&gt;</description><pubDate>2018-04-06T01:40:14+08:00</pubDate></item><item><title>Dragonheart System的并行技能练习方法</title><link>https://tulpa.cn/2024/06/21/dragonheart-parallel-processing/</link><author>goodman3[Lyra]</author><category>Tulpa 教程,其他教程</category><description>&lt;div class="entry-content e-content" itemprop="description articleBody"&gt;
+&lt;/div&gt;</description><pubDate>2018-04-06T01:40:14+08:00</pubDate></item><item><title>清醒梦与你的Tulpa</title><link>https://tulpa.cn/2024/11/18/lucid-dreaming-and-tulpas/</link><author>goodman3[Lyra]</author><category>Tulpa 教程,其他教程</category><description>&lt;div class="entry-content e-content" itemprop="description articleBody"&gt;
+&lt;p&gt;
+  原文地址：https://community.tulpa.info/topic/6419-a-guide-on-lucid-dreaming-and-tulpas-v11
+&lt;/p&gt;
+&lt;p&gt;
+  译者：北葵（NancalaStarry） 
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;V1.1 更新：&lt;/strong&gt;重新排序清明梦指南，增加了多处内容以避免混淆和歧义，移除了不必要的加粗文字。
+&lt;/p&gt;
+&lt;h3&gt;引言&lt;/h3&gt;
+&lt;p&gt;
+  我已经做了很多年的清明梦了。我的 Tulpa 最开始只是我清明梦中的一个朋友。她非常真实、独立，像一个有自主意识的意识体，这让我不得不将她从梦境中“带出来”，“将她升级为 Tulpa”。这种被许多人假设是“非同寻常且困难”的方法，被我验证是可行的，并且还是很令人兴奋和有趣。并让我在这个过程中学到了很多。
+&lt;/p&gt;
+&lt;p&gt;
+  我个人认为，用清明梦这种方式来接近你的 Tulpa 有很多好处，因此我决定编写这份指南，介绍如何进行清明梦以及如何在梦境中与 Tulpa 建立联系，并附上一些建议，帮助你充分利用这些经历。
+&lt;/p&gt;
+&lt;p&gt;
+  目录
+&lt;/p&gt;
+&lt;p&gt;
+  A – 如何实现清醒梦（快速入门）
+&lt;/p&gt;
+&lt;p&gt;
+     A.0 -关于本指南 / 实用链接推荐
+&lt;/p&gt;
+&lt;p&gt;
+     A.1 – 清醒梦是什么
+&lt;/p&gt;
+&lt;p&gt;
+     A.2 – 回忆梦境
+&lt;/p&gt;
+&lt;p&gt;
+     A.3 – 诱发清醒梦境的技巧
+&lt;/p&gt;
+&lt;p&gt;
+        A.3.1 – 现实自检
+&lt;/p&gt;
+&lt;p&gt;
+        A.3.2 – 梦境的征兆
+&lt;/p&gt;
+&lt;p&gt;
+        A.3.3 – 梦境周期
+&lt;/p&gt;
+&lt;p&gt;
+        A.3.4 – 假醒
+&lt;/p&gt;
+&lt;p&gt;
+        A.3.5 – 唤醒清醒梦
+&lt;/p&gt;
+&lt;p&gt;
+     A.4 – 如梦入梦
+&lt;/p&gt;
+&lt;p&gt;
+        A.4.1 – 在梦里呆久一点
+&lt;/p&gt;
+&lt;p&gt;
+        A.4.2 – 保持清醒
+&lt;/p&gt;
+&lt;p&gt;
+        A.4.3 – 清醒梦时的记忆
+&lt;/p&gt;
+&lt;p&gt;
+        A.4.4 – 梦境控制
+&lt;/p&gt;
+&lt;p&gt;
+  B – 在梦里的Tulpa
+&lt;/p&gt;
+&lt;p&gt;
+     B.1 – 优点总结
+&lt;/p&gt;
+&lt;p&gt;
+     B.2 – 与你的Tulpa在梦中相会
+&lt;/p&gt;
+&lt;p&gt;
+     B.3 – 梦中Tulpa的偏差
+&lt;/p&gt;
+&lt;p&gt;
+     B.4 – 梦与现实的交织
+&lt;/p&gt;
+&lt;p&gt;
+     B.5 – 梦中角色与原型Tulpa的塑造
+&lt;/p&gt;
+&lt;p&gt;
+  C – 问题和疑虑
+&lt;/p&gt;
+&lt;p&gt;
+     C.1 – 我要是造了个克隆体怎么办
+&lt;/p&gt;
+&lt;p&gt;
+     C.2 – 我不信这是真的！
+&lt;/p&gt;
+&lt;h1&gt;A – 如何实现清醒梦（快速入门）&lt;/h1&gt;
+&lt;h2&gt;A.0 – 关于本指南 / 实用链接推荐&lt;/h2&gt;
+&lt;p&gt;
+  本指南的目的是为你提供关于什么是清明梦以及如何开始体验清明梦的简明概述。由于要深入下去清明梦的话，内容会特别地多，我将在本文中尝试给出一个更个人向的、简单且简洁的介绍。如果你对此感兴趣并希望进一步研究，可以参考以下链接：
+&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Dreamviews&lt;/strong&gt; – 专注于清明梦的一个出色且完整的网站，提供了大量详细的指南和非常有用的论坛。
+  &lt;/li&gt;&lt;li&gt;&lt;strong&gt;Exploring the World of Lucid Dreaming&lt;/strong&gt; – 由清明梦科学研究之父斯蒂芬·拉贝尔日（Stephen LaBerge）撰写的一本精彩书籍。
+  &lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;A.1 – 清醒梦是什么？&lt;/h3&gt;
+&lt;p&gt;
+  大概就是说，当你在一个梦里，能意识到你在做梦的，意识是清醒的，这个梦能被你变得很真实很生动的，就能说得上是清醒梦了。如果你做梦的时候很清醒，你也能很大程度控制你的梦境了，强的话，你可以随心所欲改变你的梦境。
+&lt;/p&gt;
+&lt;p&gt;
+  你之前或许经历过一两次清醒梦的，因为普通人一生都会有那么几次。通过小小的练习和一些耐心，你每晚都能这么玩了。
+&lt;/p&gt;
+&lt;h3&gt;A.2 – 回忆梦境&lt;/h3&gt;
+&lt;p&gt;
+  首要的一步就是你要能记得起你的梦。要是体验了场完美的清醒梦，结果醒来忘光光了怎么办。
+&lt;/p&gt;
+&lt;p&gt;
+  这也就是为什么我建议先从写下一本梦境旅游记开始。准备一个本本和一支笔（或者电子设备）就放在你的床边（或者枕头底下）。在入睡之前，集中精力暗示你自己一觉醒来就能把上一个梦的内容完完整整地记录下来。假如你醒来什么都没记起来，没事，至少你应该是能记下一些概念、物体或者想法，把它们写下来，写得越多越好。你也可以写那时候的情绪啊、味道啊、声音啊、触觉啊，或者那场梦联想到你哪段记忆啊，之类的。别死磕我到底做了什么梦。在记录前给几分钟自己不要乱动，闭上眼睛，慢慢重构下之前的梦境，也许对接下来的写作会有帮助。
+&lt;/p&gt;
+&lt;p&gt;
+  听上去或许是有点单调没意思，是这样的，但努力坚持几个星期，你就会有所收获的，梦境慢慢就能被完全记下来了，说不定你还能每天都能积累几页纸的内容。
+&lt;/p&gt;
+&lt;p&gt;
+  尽管梦境旅行记这种东西对清醒梦来说不是必须的玩意，但用处的的确确有就是了。除了增强你记忆梦境的能力，详细的记录还能顺带提升下你对你的感官和想法的感知程度，方便你日后分辨你自己在不在梦境。
+&lt;/p&gt;
+&lt;h3&gt;A.3 – 诱发清醒梦境的技巧&lt;/h3&gt;
+&lt;p&gt;
+  想要提高你进入清醒梦的概率还是需要有不少的技巧和联系的，关键就是得找到其中什么方法对你最有用。很多人前几次不一定能成，或者甚至啥反应都没有，所以别太担心失败，也就一场小实验而已，就当乐呵着玩一两下好了，最后的目标反正都是在摸索什么方法最适合你。
+&lt;/p&gt;
+&lt;h4&gt;A.3.1 – 现实自检&lt;/h4&gt;
+&lt;p&gt;
+  现实自检大概讲的是在你没做梦的时候，问你自己你有没有在做梦。理想情况下，你得一天隔一段时间问一次（隔个5，10，30分钟这种的），这样你在梦里面也会有意识地自己问自己了。还有，你最好不要老是只是重复“我在做梦吗？”，像个鹦鹉一样讲来讲去。每次你做一次现实自检，你都应该好好观察你所处的环境和你现存的记忆（像“五分钟前我在干什么？”，“下一步我要干啥？”），然后看看周围有没有什么奇怪的东西，这一点是为你在梦里自检做铺垫的。
+&lt;/p&gt;
+&lt;p&gt;
+  这个办法很多做清醒梦的人都会做，但这不意味着你一定就适合，所以我来分享一个我自己的现实自检，对我来说很有用而且很简单的方法：
+&lt;/p&gt;
+&lt;p&gt;
+  在你清醒的时候，你几乎是不会对自己是不是在梦里有什么犹豫的。但当你真正在梦里的时候，你多多少少都会有那么一丝疑惑。重要的是你得抓得到这个疑虑，就算你在疑虑一件和现实没有多大的不同的事情，你也照样能识别出来才是真本事。你得说服你自己，一旦出现了这种情况，一旦你有那么一丝顾虑，在想着你是不是在梦里的疑惑，哪怕只有那么一点点，你也得抓住他，然后确信自己在做梦。
+&lt;/p&gt;
+&lt;h4&gt;A.3.2 – 梦境的征兆&lt;/h4&gt;
+&lt;p&gt;
+  当你写了很多页梦境旅行记之后，你可能会发现有些元素或主题经常出现在你的梦中。 这可能是你童年见过的人或物、以不合理速度疾驰的车、水、电梯……看你能不能找出它们，然后在白天每次遇到这些迹象的时候做一次现实检查。看看能不能将这些征兆与你先前有关梦境的想法联系起来。这样，每当你在梦中遇到这些征兆时，你就更有可能问自己是不是在做梦，从而达到在梦里慢慢清醒的作用。
+&lt;/p&gt;
+&lt;p&gt;
+  这样的话，你以后就会特别关照起这些征兆来了，这样你就有更大的概率在梦里也会遇到这些东西（当然也就有更大的概率你能进入清醒梦了）。正因如此，我建议你多留意的征兆是那些你喜欢的，而且是中性的或者是积极的征兆物。这样的话你就不用担心一些坏东西在梦里频繁出现，干扰你的梦境了。
+&lt;/p&gt;
+&lt;h4&gt;A.3.3 – 梦境周期&lt;/h4&gt;
+&lt;p&gt;
+  懂的都懂，我们的梦是有周期的，包括长时间的深度睡眠和短时间的快速眼动睡眠（我们通常在快速眼动睡眠期间内做梦）。随着睡眠时间的推移，睡眠周期就会交替得越来越短，进入快速动眼期的时刻也会越来越多，所以你在清晨醒过来的机会就越大。初学者的常见做法是尽量让自己在正常起床时间前2或3个小时内醒来。保持清醒几分钟，想想你要在梦中做什么，重复对自己说你要变得清醒，读一读有关清醒梦的书籍或论坛等，这样在再次入睡前，你清醒的机会就会增加，因为你会更快地进入快速眼动睡眠状态，并在进入清醒梦，注意力集中一段时间之后，能更好地保持意识清醒。
+&lt;/p&gt;
+&lt;p&gt;
+  很多做清醒梦的，都不推荐你带闹钟，因为这个会干扰你的睡眠中度周期（sleep mid-cycle）（这么做就很容易让你醒来之后很累很累，导致难以想起你做的梦）。不过我用闹钟来在半夜叫醒我几次（每隔90分钟左右一次），当我养成习惯了之后，就算没了闹钟，我也会在做完一个梦后醒来几次，这样就能帮我回忆起更多的梦，让那些清醒梦的技巧更有机会派上用场。
+&lt;/p&gt;
+&lt;h4&gt;A.3.4 – 假醒&lt;/h4&gt;
+&lt;p&gt;
+  当你从一个梦里醒来，很多时候你会在另一个梦里醒来。你甚至可能在梦里穿衣服、吃早餐、上班……知道你真的在现实里醒来，才发现你刚经历的一天全是假的（你就不恨死这种情况嘛？）。假醒可以有效诱发清醒。试一试在你每次醒来都做一遍现实检查，这样你就算假醒了你也能现实检查一下。在你假醒变得多了（甚至有可能比清醒梦触发得更多），你清醒的概率也会随之大幅增加了。
+&lt;/p&gt;
+&lt;h4&gt;A.3.5 – 唤醒清醒梦&lt;/h4&gt;
+&lt;p&gt;
+  唤醒清醒梦（WILD技巧）可能是最难的，但也是最强的方法。每一次成功的WILD都会让你从一开始就直接进入清醒梦境。实现这个的方法很多，所以我在这里重点介绍我个人的方法（如果你想了解更多的方法，请查看关于WILD的Dreamviews论坛）。
+&lt;/p&gt;
+&lt;p&gt;
+  你要做的就是，当你身体睡着的时候，保持意识清醒。这个最佳时机是在早晨，也就是在容易进入快速眼动周期的睡眠晚期（午睡打盹也可以包括）。这个技巧，要求你避免移动你身体的任何部位，因此首先你就得挑个好位置入睡。接着要忽略那些你脑子想调整睡姿的、又或者是想去挠下痒痒的想法。忽略这些能让你大脑相信你能更快入睡。只不过不应该过度在意这些，不然会让你紧张和有压力，反而让你入睡不能。如果你真的很难很难忽视，必须要调整姿势的话，别撑着，叫你动就动。你就放轻松，尽可能别动弹，让自己减少对自己身体的关注。
+&lt;/p&gt;
+&lt;p&gt;
+  给自己从100慢慢数到0或者重复一些词语，让你的大脑专注，集中意识。如果不奏效的话，就想一个尽可能复杂的故事，再思考它的一些细节（这有可能会被带到梦里面的）。如果一切顺利的话，一会之后你可能就会变得有点晕晕的，全身有些麻木，这是要准备进入睡眠了。不要恐慌！这种感觉是很奇怪的，你也有可能会因此感到过度激动/惊吓，然后WILD就失败了。就总的来说，别让自己紧张，就想着你要进去的梦。
+&lt;/p&gt;
+&lt;p&gt;
+  即使经过多年的训练，我都不能每天都坚持做WILDs，所以如果你失败了很多次，也不用担心，这是一项非常难的技术！
+&lt;/p&gt;
+&lt;h3&gt;A.4 – 如梦入梦&lt;/h3&gt;
+&lt;p&gt;
+  如果你已经试过了一些清醒梦的技巧，那你很可能已经主动体验了你的第一次清醒梦。
+&lt;/p&gt;
+&lt;p&gt;
+  只不过吧，应该是没什么积极反馈的。通常来说，当我们意识到“诶我在梦里欸！”，整个梦境就会变得破碎零散、色彩繁乱，也有可能比现实的体验更加栩栩如生。还有就是，你大概会因为太激动而退出梦境。就算你真能坚持保持冷静，梦境也可能会在几秒钟就烟消云散。这太正常不过了。大体来说，你的脑子不适应做梦的时候清醒着，所以它会在检测到你的意识回来之后马上叫你醒来。不过没事的，当你练得越来越多的时候，你的清醒梦的时间会变得越来越长，你也会慢慢掌握一些能让你清醒梦时间一点点延长的技巧。
+&lt;/p&gt;
+&lt;h4&gt;A.4.1 – 在梦里待久一点&lt;/h4&gt;
+&lt;p&gt;
+  想待久一点的方法因人而异。但有些通用的技巧你可以看一看。但不管怎么说，你自己应该找一些你自己最适合的。
+&lt;/p&gt;
+&lt;p&gt;
+  专注观察某样东西，去摸，或者你搓搓自己的手。总之专注几秒场景中的一些细节，能让自己的梦境“稳定下来”，还能防止自己醒过来。
+&lt;/p&gt;
+&lt;p&gt;
+  如果梦境要变得模糊了，然后你感觉你快醒了，打转！原地打转的这个动作会欺骗你的大脑不醒来（同时也是能让你从一个地方传送到别处或者切换场景的好方法！）。
+&lt;/p&gt;
+&lt;p&gt;
+  如果你醒来发现，是个假醒，那你有可能会从你离开的地方继续做梦。以这种方式把梦境串起来，你大概还能额外有大约一个小时或更长的清醒时间！
+&lt;/p&gt;
+&lt;h4&gt;A.4.2 – 保持清醒&lt;/h4&gt;
+&lt;p&gt;
+  当你第一次有清醒梦境体验时，有个问题是你通常会慢慢睡回去。你会因为梦境中的某些事情分心，突然间，你又“随梦而去”，失去了清醒状态，回到了正常的梦境。在清醒状态下，你应该时不时地重复提醒自己在做梦，即使你只是作为一个被动的旁观者看着梦境继续进行。 如果你在入睡前曾想过在梦中做一些特定的事情，那就试着集中精力去做，如果梦中有什么东西试图分散你的注意力，那就忽略它，集中精力去完成你的目标。
+&lt;/p&gt;
+&lt;h4&gt;A.4.3 – 清醒梦时的记忆&lt;/h4&gt;
+&lt;p&gt;
+  清醒时，你的大脑可能并不完全像清醒时那个样子。清醒并不是一种开/关状态。如果你只是稍微清醒，你对事物的逻辑判断可能会没那么严谨，还更容易分心，你的记忆也可能难以获取。如果你已经想好了要在下一个清醒梦中做什么，那么在入睡前对自己重复几遍下一个清醒梦的目标是什么，这还是比较有用的，会帮你更好地记住梦境，因为你会回忆起你的目标是否成功完成。一旦你的目标完成了，不妨醒过来，好让你更清楚地记住梦中的情景。
+&lt;/p&gt;
+&lt;h4&gt;A.4.4 – 梦境控制&lt;/h4&gt;
+&lt;p&gt;
+  梦境世界大多会随你的期望而改变。假如你想飞，但你还在对此有疑惑的话，那你大概是不会飞得多远的。关键就是要说服你自己在梦里干什么都行，然后再到梦里具体描绘下你是怎么做到的。你需要相信你能飞。然后你也要很清楚地想象出飞行的感受。这做起来肯定比说起来难。你得克服你生活多年来的坚实现实基础。不过，还是可以通过各种办法来欺骗自己，克服这些困难的。
+&lt;/p&gt;
+&lt;p&gt;
+  · 如果你不能让某个人出现（比如你的Tulpa），那就说服自己他们已经在你身后了，低头寻找他们的影子，或者假装他们就在你身边和他们说话。
+&lt;/p&gt;
+&lt;p&gt;
+  · 如果你去不了某个地方，就把门当作传送门，用之前的旋转技巧，或者直接回头，相信你已经到了那里。
+&lt;/p&gt;
+&lt;p&gt;
+  · 一般来说，如果东西不在那里，就假设它在你身后（让东西出现在你视野之外更容易）。 如果你不能做某件事（比如拥有超能力），你可以想一个神奇的东西让你能够做到，这个东西就在附近、在地板上，或者已经在你的口袋里。关键是要有创造力，运用你的想象力让你的头脑更加富有点创造的开放性，让你相信正在发生的事情。
+&lt;/p&gt;
+&lt;h1&gt;B – 在梦里的Tulpa&lt;/h1&gt;
+&lt;h2&gt;B.1 – 优点总结&lt;/h2&gt;
+&lt;p&gt;
+  第一次与你的Tulpa交流并不容易。许多Tulpamancer需要塑造好几个月才能获得微弱的情感反应。即使塑造模拟出来给你的感觉、看到和听到你的Tulpa的能力，也需要长时间（长达数年）的持续训练，才能实现对你的Tulpa近乎真正生命的多感官感知。创造Tulpa的最初阶段，是不能交流的，这也是导致一些Tulpa练习者因沮丧而放弃练习的原因之一。
+&lt;/p&gt;
+&lt;p&gt;
+  如果你知道怎么做清醒梦，那毫无疑问，你就可以完全动用你的五感去接触你的Tulpa。你还可以在发展初期和他们单方面聊天，在他们有能力做出任何自主清醒的反应之前和他们共处一段时间。在最初的几个月里，这有助你加强你的Tulpa之间的联系，也能让你有动力去做更多的事情。
+&lt;/p&gt;
+&lt;h2&gt;B.2 – 与你的Tulpa在梦中相会&lt;/h2&gt;
+&lt;p&gt;
+  在梦里想能找到你的Tulpa，第一次还是比较难的。你脑子还得艰难地想怎么把一个奇怪的样子真实地呈现出来，或者呈现一张从未见过的脸，所以如果你对你的Tulpa只有一个模糊的概念，那你就不要奢望你第一次就能看到他的完美样子，如果他们不是人，或者长得很卡通，那就更不要指望了。不过，如果你还没有确定他的外形，你可以让你的梦来帮你实现！
+&lt;/p&gt;
+&lt;p&gt;
+  一旦成功进入清醒梦，你就可以开始寻找身边的Tulpa了。如果找不到，就用之前的方法，假设他们已经在你身后了。如果还不行，就找他们的影子，试着呼唤他们并倾听他们的声音，或者穿过一扇门，期待他们就在里面。
+&lt;/p&gt;
+&lt;p&gt;
+  一旦你认为找到他们了（如果他们的形态不太正确，你可能确定不了），就问他们“你是[Tulpa的名字]吗？”。如果答案是肯定的，那么恭喜你，你找到你的Tulpa了，嘻嘻，直接开抱吧！你可能会想，也许应该问更多的问题，以确保这真的是你的Tulpa。以我的经验啊，假如你假设并坚信这是你的Tulpa，那么它就是你的Tulpa。
+&lt;/p&gt;
+&lt;p&gt;
+  如果你想在梦里和Tulpa做一些事或者问他们几个问题，一定要记得写下来然后入睡前回忆一下问题。如果你做了一个清醒梦，你会更好地记住梦中的事件和反应，以及在你醒来后记住更多的梦境。
+&lt;/p&gt;
+&lt;h2&gt;B.3 – 梦中Tulpa的偏差&lt;/h2&gt;
+&lt;p&gt;
+  以我的经验来看，Tulpa和宿主在梦里遇到的困难都大差不差。当你遇到Tulpa时，他们也可能“随梦而去”，心不在焉的样子，好像并不太关注你（就像你做正常的梦那样）。为了能有更完美一点的体验，你需要你的Tulpa也是清醒的。如果你的Tulpa似乎迷失了方向，走神了，请提醒他们他们在梦里，告诉他们不要被梦境的波动干扰，并注意到你。
+&lt;/p&gt;
+&lt;p&gt;
+  如果你的Tulpa的性格看起来不正常，就不要理会它。你可能做过这样的梦，梦见自己无缘无故地发怒、咄咄逼人，或者以一种非常奇怪的方式行事，对吗？同样的事情也会发生在Tulpa身上，他们的举动不一定会跟原来一模一样。这就是你别因为你的Tulpa还未“完全清醒”而表现得反常，把这种事放在心上。因为一个噩梦而对你的Tulpa发火真公平吗？（就像你的伴侣指责你在梦中出轨一样！）。做清醒梦你就得应该始终保持积极和宽容的态度，珍惜美好的成功时刻就好，懂吧！
+&lt;/p&gt;
+&lt;p&gt;
+  梦境中的外形也会出现偏差，原因我已经说过了，同时还要加一点就是，梦境中没有任何东西是完全不变的。你可以顺其自然，完全忽略它，也可以尝试“修梦”！你反正是清醒的，去一点点改变他们外貌，让他们看起来更完美无瑕。这也是一种很好的描绘辅助工具。不过，每次都花太多时间去获得完美的外形可能会有点失落感，还会耗费时间，所以要宽容地对待外形的变化还是有必要的，因为它们可能会经常发生。有时吧，你甚至会喜欢上某些变化！
+&lt;/p&gt;
+&lt;h2&gt;B.4 – 梦与现实的交织&lt;/h2&gt;
+&lt;p&gt;
+  将两个世界的精华提炼出来，取长补短，才能取得最大的成效。在清醒梦境中，你可以向你的Tulpa请教“清醒的时候塑造”的方法。你还可以验证你的交流实验成功了没有。例如，你可以问你的Tulpa：“昨天我在后脑勺听到一声微弱的‘你好’，真是你吗？”反之亦然，你可以让你的Tulpa在下一个清醒梦中做一件事，看看他们是不是真的记得并且做到了。你可以要求他们帮你变得清醒，或者在梦中找到你，而不是你去找他们。从这现实和梦境两个方向去做的实验将大大提高你的Tulpa在梦里梦外与你更好地交流的能力。
+&lt;/p&gt;
+&lt;p&gt;
+  不过还是得提一提的是，要时刻牢记清醒梦不是百分百可信的。可能哪一天你的Tulpa不记得你做过清醒梦，或者在梦里他认不出你。这不代表是一定正确的，哪一天你再去问问他们，如果他们已经清醒了，那么他们铁定会告诉你他们记得的所有事，行为举止也会很正常。就像我之前提到的，忘掉那一两个让你体验不愉快的梦，然后期待下一次更美好的体验。
+&lt;/p&gt;
+&lt;h2&gt;B.5 – 梦中角色与原型Tulpa的塑造&lt;/h2&gt;
+&lt;p&gt;
+  如果你在清醒梦有个小伙伴，然后你想和他的关系再发展得深一点的话，甚至想让他来到醒着的世界的话，可能会想他们“升级”成Tulpa。
+&lt;/p&gt;
+&lt;p&gt;
+  另外，如果你刚刚开始创造Tulpa，与其从头开始设计个性和外形，不如让清醒梦帮你干了。 睡觉之前，让自己相信你在下一个梦中会遇到你的Tulpa。如果当你找到一个看起来可能是你的Tulpa但不确定的话，你可以问他“你是我的Tulpa吗？”，如果回答是肯定的，那么恭喜！和之前一样，你可能想问更多的问题来确保他们是，但，信我，最好就假设他们是。初次见面后，你可以继续定期拜访他们，通过清醒梦更好地了解他们，并在白天老老实实塑造他们。
+&lt;/p&gt;
+&lt;h1&gt;C – 问题和疑虑&lt;/h1&gt;
+&lt;h2&gt;C.1 – 我要是造了个克隆体怎么办&lt;/h2&gt;
+&lt;p&gt;
+  这也是我一开始最害怕最害怕的。我梦里的他结果只是我Tulpa的一个克隆体（或者反过来）那该怎么办？最好的解决方法就是问两个问题，就像我之前提到的那样。在梦里清醒了，就问问他们清醒了之后能不能听见你说话。清醒了之后，问问他们还记不记得你们最后一起做的那个梦。这样做可以建立联系，让你的大脑哥相信梦中的Tulpa和醒着的Tulpa是完全一样的存在。
+&lt;/p&gt;
+&lt;p&gt;
+  在我看来，如果不想克隆，就无法克隆。就像“不小心鹦鹉学舌了”一样，要强烈否认“不小心克隆了”这种可能。完全忽视，就不会有问题。假设他始终都是同一个Tulpa就好了。
+&lt;/p&gt;
+&lt;p&gt;
+  · “但我的Tulpa在清醒梦的时候也不记得发生什么啊”
+&lt;/p&gt;
+&lt;p&gt;
+  既然你都不一定记得起你梦里发生的事，你也别对你的Tulpa抱多大期望。跟他们说你做了什么，然后看看能不能刷新一下他们的记忆让他们回想起来，或者再问问另一天另一个梦的记忆他们还记不记得，说不定你就能得到个更让你满意的答案。
+&lt;/p&gt;
+&lt;p&gt;
+  · “可是，我在做清醒梦的时候，我的Tulpa根本就记不得我们昨天做了什么！”
+&lt;/p&gt;
+&lt;p&gt;
+  跟上面的大同小异。在梦里也不总是能回忆起所有记忆的，况且你的Tulpa还不一定有你那么清醒。只需要在以后的清醒梦多问问，他们总会有记起来的一天的，你也尽量不要在意那些没那么好的经历，好的经历才是值得去你珍惜的。
+&lt;/p&gt;
+&lt;h2&gt;C.2 – 我不信这是真的！&lt;/h2&gt;
+&lt;p&gt;
+  其实吧，清醒梦并非次次进去都一成不变。如果你想在清醒梦中追求绝对的完美和完全的控制，那你可能会失望。在清醒梦中，你的“Tulpa”肯定会出现很多偏差，那又何必去尝试呢？当你的Tulpa以“真正的”外形和个性出现时，你将很难分辨！
+&lt;/p&gt;
+&lt;p&gt;
+  真要看的话，其实处理起来也一点都不困难。就像你能看出来你的好朋友或者亲戚“不对劲”一样，你也可以很轻松地知道你的Tulpa的举止是不是变得“奇怪”了起来。如果他们的性格不对头，你也可以说服他们“变回正常”，他们只是被梦境分散了注意力而已。假如是外形不对路，也不用担心太多，只是你还得多在梦里练练描绘而已，正常来讲描绘毕竟多多少少还是有点出入的。
+&lt;/p&gt;
+&lt;div class="clear"&gt;&lt;/div&gt;
+&lt;/div&gt;</description><pubDate>2024-11-18T01:43:00+08:00</pubDate></item><item><title>Dragonheart System的并行技能练习方法</title><link>https://tulpa.cn/2024/06/21/dragonheart-parallel-processing/</link><author>goodman3[Lyra]</author><category>Tulpa 教程,其他教程</category><description>&lt;div class="entry-content e-content" itemprop="description articleBody"&gt;
 &lt;p&gt;   节选自Tulpamancy: Guide Into the Strange and Wonderful（&lt;a href="https://docs.google.com/document/d/1mSaPARuohFEO7qX3gVgKAh69XwU0VlKwnD0I_-nddvk" rel="noreferrer noopener" target="_blank"&gt;https://docs.google.com/document/d/1mSaPARuohFEO7qX3gVgKAh69XwU0VlKwnD0I_-nddvk&lt;/a&gt;） &lt;/p&gt;
 &lt;p&gt;
   作者：Dragonheart System
@@ -3628,7 +4787,7 @@
 &lt;p&gt;本篇如无特殊说明仅适用于普通&lt;a href="https://tulpa.cn/2019/10/22/tulpa-category-2019/"&gt;一类&lt;/a&gt;，不考虑包括宿主天赋异禀在内的其他情况。 最好已经熟读之前养成教程再食用，本篇内容大部分是针对养成之后的个人补充，如果能够帮助到你就太好了ヾ (*′ ‘*)ﾉ&lt;/p&gt;
 &lt;p&gt;&lt;span class="has-inline-color has-vivid-red-color"&gt;以下包含&lt;strong&gt;大量&lt;/strong&gt;个人经验，每个人&lt;strong&gt;体质不同&lt;/strong&gt;，请灵活运用，切勿死板！&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;『』为tulpa南夏&lt;/p&gt;
-&lt;p&gt;感谢Zero、阿月&lt;sup class="modern-footnotes-footnote" data-mfn="1" data-mfn-post-scope="00000000515d786c00000000589fd452_963"&gt;&lt;a aria-describedby="mfn-content-00000000515d786c00000000589fd452_963" aria-pressed="false" href="javascript:void(0)" role="button"&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="1" id="mfn-content-00000000515d786c00000000589fd452_963" role="tooltip" tabindex="0"&gt;此人身为社区前管理，在退圈之后打着社区旗号参与“厕所”式匿名平台活动，并对社区成员及社区共识进行了无理、可耻的极端攻击，已经被社区拉入黑名单。然而，考虑到教程本身与其有关的内容总体上并没有问题（如有发现，请及时向我们反馈），从社区集体利益出发，它们尚未被修订，这里也不予以除名。特此提醒读者在阅读这些争议性作者的有关内容时保持审慎的态度。&lt;/span&gt;（花云轩）、我家tulpa南夏&amp;amp;冬言，及社群群友提供的帮助ww &lt;/p&gt;
+&lt;p&gt;感谢Zero、阿月&lt;sup class="modern-footnotes-footnote" data-mfn="1" data-mfn-post-scope="0000000051a075150000000009b88e76_963"&gt;&lt;a aria-describedby="mfn-content-0000000051a075150000000009b88e76_963" aria-pressed="false" href="javascript:void(0)" role="button"&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="1" id="mfn-content-0000000051a075150000000009b88e76_963" role="tooltip" tabindex="0"&gt;此人身为社区前管理，在退圈之后打着社区旗号参与“厕所”式匿名平台活动，并对社区成员及社区共识进行了无理、可耻的极端攻击，已经被社区拉入黑名单。然而，考虑到教程本身与其有关的内容总体上并没有问题（如有发现，请及时向我们反馈），从社区集体利益出发，它们尚未被修订，这里也不予以除名。特此提醒读者在阅读这些争议性作者的有关内容时保持审慎的态度。&lt;/span&gt;（花云轩）、我家tulpa南夏&amp;amp;冬言，及社群群友提供的帮助ww &lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p style="font-size:26px"&gt;&lt;strong&gt;前期阶段——刚成声时需要知道的事情&lt;/strong&gt;&lt;/p&gt;
 &lt;p class="has-medium-font-size"&gt;&lt;strong&gt;1. 一位刚学会说话的tulpa，大概率是没有自己的声线的。&lt;/strong&gt;&lt;/p&gt;
@@ -3769,7 +4928,7 @@
 &lt;p&gt;&lt;span class="has-inline-color has-vivid-red-color"&gt;Tulpa之家：阅读此文之前请先对Tulpa有一定了解。本文中所使用的“Tulpa”一词专指&lt;a href="https://tulpa.cn/2019/10/22/tulpa-category-2019/"&gt;一、二类&lt;/a&gt;。本网站所刊载&lt;a href="https://tulpa.cn/2022/03/10/soulbond_and_wonderland/"&gt;&lt;u&gt;其他文章&lt;/u&gt;&lt;/a&gt;内容有与本文冲突者，以本文为准。&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;一些创作者会将给他们带来灵感的意识体称为缪斯（Muse）。但这并不是严谨的分类或者身份标签，具体情况正在讨论中（2023-8-5）.&lt;/p&gt;
 &lt;p&gt;经过讨论，社区认为有必要就系魂基础理论和我们所建议的系魂创造方式进行系统的介绍：&lt;/p&gt;
-&lt;ol type="1"&gt;&lt;li&gt;一般常说的“有原型的t”，即拥有原型的意识体，统称Introject（投射体/内射体/投射人格）。Introject不一定持有系魂认同。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;广义上&lt;/strong&gt;，一个意识体要想被称为系魂（Muse&lt;sup class="modern-footnotes-footnote" data-mfn="1" data-mfn-post-scope="00000000035d0c23000000004ebead4f_943"&gt;&lt;a aria-describedby="mfn-content-00000000035d0c23000000004ebead4f_943" aria-pressed="false" href="javascript:void(0)" role="button"&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="1" id="mfn-content-00000000035d0c23000000004ebead4f_943" role="tooltip" tabindex="0"&gt;Muse：在国外多意识体社区里，Muse指专门为创作者提供灵感的系统成员，无论是直接还是间接（有些Muse比其他人更积极主动，作为另一个人的创作伙伴，以大大小小的方式协助艺术创作；其他Muse一般是被动的，他们给创作者的灵感是通过他们自己的存在或行动）。中文社区采纳这个名词是自千子在查阅相关资料时借用其指代系魂开始的，语义与原义已有不同。&lt;/span&gt;），必须持有系魂认同，即认为自己与原型是同一个人/认为自己属于或来自于系魂世界&lt;sup class="modern-footnotes-footnote" data-mfn="2" data-mfn-post-scope="00000000035d0c23000000004ebead4f_943"&gt;&lt;a aria-describedby="mfn-content-00000000035d0c23000000004ebead4f_943" aria-pressed="false" href="javascript:void(0)" role="button"&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="2" id="mfn-content-00000000035d0c23000000004ebead4f_943" role="tooltip" tabindex="0"&gt;系魂世界：即系魂系统的世界观，指系魂故事所描述/属于的（虚构）世界。&lt;/span&gt;。&lt;/li&gt;&lt;li&gt;&lt;span class="has-inline-color has-vivid-red-color"&gt;但Muse并不一定都是&lt;strong&gt;良性&lt;/strong&gt;多意识体。&lt;/span&gt;如果我们考虑系魂者&lt;sup class="modern-footnotes-footnote" data-mfn="3" data-mfn-post-scope="00000000035d0c23000000004ebead4f_943"&gt;&lt;a aria-describedby="mfn-content-00000000035d0c23000000004ebead4f_943" aria-pressed="false" href="javascript:void(0)" role="button"&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="3" id="mfn-content-00000000035d0c23000000004ebead4f_943" role="tooltip" tabindex="0"&gt;系魂者：即系魂的创造者，相当于ht系统里的宿主。&lt;/span&gt;引入故事的方式（即系魂世界的来源）的不同，Muse可以被划分为以下三种情况：&lt;ul&gt;&lt;li&gt;①系魂者“亲身经历”——对于早期系魂理论而言，这是唯一（可能）的形式。包括Cantor在内的系魂理论奠基者认为，系魂者必须全身心地投入到故事里、将自己与故事链接在一起。在这种情况下，整个系统的认识论里不存在“非系魂认同”的东西（即系魂世界在系魂者的认知影响下，自然而然被认为是真实的；故事被认为不是“创作”出来的，而是“现实”的经历）。对于这些“亲身经历”的系魂者而言，“Soulbond”这一带有“灵魂纽带”的含义的名词更适合用来指代系魂，而其他人在与他们交流的过程中使用“虚构”“创作”“设定”之类的词是具有冒犯性的。&lt;ul&gt;&lt;li&gt;然而，&lt;span class="has-inline-color has-vivid-red-color"&gt;Tulpa社区在原则上&lt;strong&gt;不建议&lt;/strong&gt;有意向创造系魂的人这么做&lt;/span&gt;——这种认知纵然更加富有浪漫色彩和理想情怀，但却带有某种神秘学因素，且有迷失在系魂世界（故事）中的可能性。我们虽然不排斥已经持有亲身经历认同的社区成员，但有责任提醒新人注意其中的风险、做好自负后果的准备。&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;②系魂者混合经历——既是作者，也是不那么沉浸的体验者。系魂者在大多数时候以第三人称上帝视角审视系魂世界的同时，有时也在系魂世界里有自己独特的身份或者偶尔亲身代入某一角色，以与其他角色进行互动。小说作家经常经历的“独立行为者错觉”（illusion of independent agency）就属于这种情况；对于已经完结的（尤其是某些经典）第三方作品，系魂者亦可以在代入角色的同时，通过进行同人创作或者构建平行世界认知来成为作者；而我们常见的ht在幻境代入设定演绎剧本，某种意义上也是创作了一个临时的混合经历系魂世界。&lt;span class="has-inline-color has-vivid-red-color"&gt;严格来说，考虑到与Tulpa社区接轨的实际需要，这也是系魂社群目前建议的唯一一种较为&lt;strong&gt;合理且安全&lt;/strong&gt;的系魂创造方式。&lt;/span&gt;&lt;/li&gt;&lt;li&gt;③系魂者旁观经历——不是作者而只是作为旁观者，系魂者基本上完全处于系魂世界之外，且在系魂世界里没有严格意义上专属于自己的身份。如果系魂者采用剧情仍在连载中的（尤其是热门）第三方作品（例如某神、某舟、舰X等）作为系魂世界，就会出现这种情况。&lt;span class="has-inline-color has-vivid-red-color"&gt;由于版权原因和有限的代入感（例如，仅仅是读者和作者、玩家和游戏的关系），系魂者相当于把系魂故事的解释权拱手让人，从而很难在系魂系统成员因为与原作剧情完全同频而出现不良状况时通过常规手段进行干预。&lt;/span&gt;因此，&lt;span class="has-inline-color has-vivid-red-color"&gt;观察到系魂概念推广之后在唯系魂认同定义下出现的这些意外，&lt;strong&gt;社区认为有必要重申一直以来在Tulpa创造中强调的不建议采用非原创角色作为原型的原则&lt;/strong&gt;&lt;/span&gt;。社区虽然不排斥已经持有旁观经历认同的社区成员，但&lt;span class="has-inline-color has-vivid-red-color"&gt;不鼓励系魂者完全作为旁观者去创造系魂世界。如果确有需要，建议参照②中提及的方案&lt;/span&gt;（通过二创或者树立平行世界观念来成为作者）。&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;之所以Tulpa社区和系魂社群关系如此密切，实际上是一直以来鼓励通过以原创角色为原型创造Tulpa的结果，这使得社区内很多Tulpa具有Muse（或至少Introject）的特征。&lt;span class="has-inline-color has-vivid-red-color"&gt;然而，Muse并不像Tulpa一样一定属于&lt;strong&gt;创造型&lt;/strong&gt;多意识体。&lt;/span&gt;实际上，从系魂者角度分出的上述三种情况中只有①②两种创造方式产生的系魂在严格意义上与Tulpa同属于创造型多意识体，&lt;strong&gt;因为对话、冥想和故事的共同特性是为形成一个新意识体提供足够量的基础信息&lt;/strong&gt;。至于在系魂世界（尤其是非原创的）中偶然相遇的类似意识体的存在，考虑到有限的初始信息量，绝大多数情况下要么只是NPC（傀儡/普通的幻想伙伴），要么属于自发型意识体，不在严格意义上的系魂范畴内。&lt;/li&gt;&lt;li&gt;为了避免用词混乱的现象，&lt;span class="has-inline-color has-vivid-red-color"&gt;社区认为在一般情况下，“系魂（Soulbond）”一词应当专指持有亲身经历和混合经历的系魂者所创造出的意识体，而“Muse”一词在不做特殊说明时特指上述不符合狭义/严格定义、只持有广义系魂认同的意识体；Muse更适合被归类为投射体（Introject），而非一般来说界定范畴更小的“系魂”。&lt;/span&gt;&lt;strong&gt;因此，在日常交流中应当对滥用“系魂”一词的情况予以注意。&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;span class="has-inline-color has-vivid-red-color"&gt;宿主在作出创造Soulbond或者接纳Muse的决定时，应该做到比创造Tulpa更加慎重。&lt;/span&gt;&lt;/strong&gt;这是因为系魂设定很可能会出现与现实世界不兼容的情况；如果你们系统的现实生活不够如意、里世界不够稳定或者设定与现实伦理不甚相符，那么增加系魂类的成员往往是不合适的。奥卡姆剃刀原则（“如无&lt;em&gt;必要&lt;/em&gt;，勿增实体。”）在这里是非常适用的。&lt;/li&gt;&lt;li&gt;原先的对持有广义系魂认同的投射体（Muse）依照“系魂故事是否被认为属于现实世界”进行划分的Factive/Fictive分类法依然有效，但Soulbond一词不再适用于此处。&lt;/li&gt;&lt;li&gt;对于系魂世界是否“真实”的问题，尽管我们不鼓励系魂者采用“亲身经历”认知，但事实上根本不必把问题放大到唯物/唯心的层面去讨论——只要系魂者、系魂们在系魂世界里的思维体验是真实的，它的实质就和宿主真实地感受到Tulpa的存在并无二异。Tulpa社区完全没有必要在这个问题上用外界刁难自己的方式为难系魂社群。&lt;/li&gt;&lt;/ol&gt;
+&lt;ol type="1"&gt;&lt;li&gt;一般常说的“有原型的t”，即拥有原型的意识体，统称Introject（投射体/内射体/投射人格）。Introject不一定持有系魂认同。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;广义上&lt;/strong&gt;，一个意识体要想被称为系魂（Muse&lt;sup class="modern-footnotes-footnote" data-mfn="1" data-mfn-post-scope="000000002dc20136000000000fd92dc3_943"&gt;&lt;a aria-describedby="mfn-content-000000002dc20136000000000fd92dc3_943" aria-pressed="false" href="javascript:void(0)" role="button"&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="1" id="mfn-content-000000002dc20136000000000fd92dc3_943" role="tooltip" tabindex="0"&gt;Muse：在国外多意识体社区里，Muse指专门为创作者提供灵感的系统成员，无论是直接还是间接（有些Muse比其他人更积极主动，作为另一个人的创作伙伴，以大大小小的方式协助艺术创作；其他Muse一般是被动的，他们给创作者的灵感是通过他们自己的存在或行动）。中文社区采纳这个名词是自千子在查阅相关资料时借用其指代系魂开始的，语义与原义已有不同。&lt;/span&gt;），必须持有系魂认同，即认为自己与原型是同一个人/认为自己属于或来自于系魂世界&lt;sup class="modern-footnotes-footnote" data-mfn="2" data-mfn-post-scope="000000002dc20136000000000fd92dc3_943"&gt;&lt;a aria-describedby="mfn-content-000000002dc20136000000000fd92dc3_943" aria-pressed="false" href="javascript:void(0)" role="button"&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="2" id="mfn-content-000000002dc20136000000000fd92dc3_943" role="tooltip" tabindex="0"&gt;系魂世界：即系魂系统的世界观，指系魂故事所描述/属于的（虚构）世界。&lt;/span&gt;。&lt;/li&gt;&lt;li&gt;&lt;span class="has-inline-color has-vivid-red-color"&gt;但Muse并不一定都是&lt;strong&gt;良性&lt;/strong&gt;多意识体。&lt;/span&gt;如果我们考虑系魂者&lt;sup class="modern-footnotes-footnote" data-mfn="3" data-mfn-post-scope="000000002dc20136000000000fd92dc3_943"&gt;&lt;a aria-describedby="mfn-content-000000002dc20136000000000fd92dc3_943" aria-pressed="false" href="javascript:void(0)" role="button"&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="3" id="mfn-content-000000002dc20136000000000fd92dc3_943" role="tooltip" tabindex="0"&gt;系魂者：即系魂的创造者，相当于ht系统里的宿主。&lt;/span&gt;引入故事的方式（即系魂世界的来源）的不同，Muse可以被划分为以下三种情况：&lt;ul&gt;&lt;li&gt;①系魂者“亲身经历”——对于早期系魂理论而言，这是唯一（可能）的形式。包括Cantor在内的系魂理论奠基者认为，系魂者必须全身心地投入到故事里、将自己与故事链接在一起。在这种情况下，整个系统的认识论里不存在“非系魂认同”的东西（即系魂世界在系魂者的认知影响下，自然而然被认为是真实的；故事被认为不是“创作”出来的，而是“现实”的经历）。对于这些“亲身经历”的系魂者而言，“Soulbond”这一带有“灵魂纽带”的含义的名词更适合用来指代系魂，而其他人在与他们交流的过程中使用“虚构”“创作”“设定”之类的词是具有冒犯性的。&lt;ul&gt;&lt;li&gt;然而，&lt;span class="has-inline-color has-vivid-red-color"&gt;Tulpa社区在原则上&lt;strong&gt;不建议&lt;/strong&gt;有意向创造系魂的人这么做&lt;/span&gt;——这种认知纵然更加富有浪漫色彩和理想情怀，但却带有某种神秘学因素，且有迷失在系魂世界（故事）中的可能性。我们虽然不排斥已经持有亲身经历认同的社区成员，但有责任提醒新人注意其中的风险、做好自负后果的准备。&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;②系魂者混合经历——既是作者，也是不那么沉浸的体验者。系魂者在大多数时候以第三人称上帝视角审视系魂世界的同时，有时也在系魂世界里有自己独特的身份或者偶尔亲身代入某一角色，以与其他角色进行互动。小说作家经常经历的“独立行为者错觉”（illusion of independent agency）就属于这种情况；对于已经完结的（尤其是某些经典）第三方作品，系魂者亦可以在代入角色的同时，通过进行同人创作或者构建平行世界认知来成为作者；而我们常见的ht在幻境代入设定演绎剧本，某种意义上也是创作了一个临时的混合经历系魂世界。&lt;span class="has-inline-color has-vivid-red-color"&gt;严格来说，考虑到与Tulpa社区接轨的实际需要，这也是系魂社群目前建议的唯一一种较为&lt;strong&gt;合理且安全&lt;/strong&gt;的系魂创造方式。&lt;/span&gt;&lt;/li&gt;&lt;li&gt;③系魂者旁观经历——不是作者而只是作为旁观者，系魂者基本上完全处于系魂世界之外，且在系魂世界里没有严格意义上专属于自己的身份。如果系魂者采用剧情仍在连载中的（尤其是热门）第三方作品（例如某神、某舟、舰X等）作为系魂世界，就会出现这种情况。&lt;span class="has-inline-color has-vivid-red-color"&gt;由于版权原因和有限的代入感（例如，仅仅是读者和作者、玩家和游戏的关系），系魂者相当于把系魂故事的解释权拱手让人，从而很难在系魂系统成员因为与原作剧情完全同频而出现不良状况时通过常规手段进行干预。&lt;/span&gt;因此，&lt;span class="has-inline-color has-vivid-red-color"&gt;观察到系魂概念推广之后在唯系魂认同定义下出现的这些意外，&lt;strong&gt;社区认为有必要重申一直以来在Tulpa创造中强调的不建议采用非原创角色作为原型的原则&lt;/strong&gt;&lt;/span&gt;。社区虽然不排斥已经持有旁观经历认同的社区成员，但&lt;span class="has-inline-color has-vivid-red-color"&gt;不鼓励系魂者完全作为旁观者去创造系魂世界。如果确有需要，建议参照②中提及的方案&lt;/span&gt;（通过二创或者树立平行世界观念来成为作者）。&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;之所以Tulpa社区和系魂社群关系如此密切，实际上是一直以来鼓励通过以原创角色为原型创造Tulpa的结果，这使得社区内很多Tulpa具有Muse（或至少Introject）的特征。&lt;span class="has-inline-color has-vivid-red-color"&gt;然而，Muse并不像Tulpa一样一定属于&lt;strong&gt;创造型&lt;/strong&gt;多意识体。&lt;/span&gt;实际上，从系魂者角度分出的上述三种情况中只有①②两种创造方式产生的系魂在严格意义上与Tulpa同属于创造型多意识体，&lt;strong&gt;因为对话、冥想和故事的共同特性是为形成一个新意识体提供足够量的基础信息&lt;/strong&gt;。至于在系魂世界（尤其是非原创的）中偶然相遇的类似意识体的存在，考虑到有限的初始信息量，绝大多数情况下要么只是NPC（傀儡/普通的幻想伙伴），要么属于自发型意识体，不在严格意义上的系魂范畴内。&lt;/li&gt;&lt;li&gt;为了避免用词混乱的现象，&lt;span class="has-inline-color has-vivid-red-color"&gt;社区认为在一般情况下，“系魂（Soulbond）”一词应当专指持有亲身经历和混合经历的系魂者所创造出的意识体，而“Muse”一词在不做特殊说明时特指上述不符合狭义/严格定义、只持有广义系魂认同的意识体；Muse更适合被归类为投射体（Introject），而非一般来说界定范畴更小的“系魂”。&lt;/span&gt;&lt;strong&gt;因此，在日常交流中应当对滥用“系魂”一词的情况予以注意。&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;span class="has-inline-color has-vivid-red-color"&gt;宿主在作出创造Soulbond或者接纳Muse的决定时，应该做到比创造Tulpa更加慎重。&lt;/span&gt;&lt;/strong&gt;这是因为系魂设定很可能会出现与现实世界不兼容的情况；如果你们系统的现实生活不够如意、里世界不够稳定或者设定与现实伦理不甚相符，那么增加系魂类的成员往往是不合适的。奥卡姆剃刀原则（“如无&lt;em&gt;必要&lt;/em&gt;，勿增实体。”）在这里是非常适用的。&lt;/li&gt;&lt;li&gt;原先的对持有广义系魂认同的投射体（Muse）依照“系魂故事是否被认为属于现实世界”进行划分的Factive/Fictive分类法依然有效，但Soulbond一词不再适用于此处。&lt;/li&gt;&lt;li&gt;对于系魂世界是否“真实”的问题，尽管我们不鼓励系魂者采用“亲身经历”认知，但事实上根本不必把问题放大到唯物/唯心的层面去讨论——只要系魂者、系魂们在系魂世界里的思维体验是真实的，它的实质就和宿主真实地感受到Tulpa的存在并无二异。Tulpa社区完全没有必要在这个问题上用外界刁难自己的方式为难系魂社群。&lt;/li&gt;&lt;/ol&gt;
 &lt;ul class="modern-footnotes-list"&gt;&lt;li&gt;&lt;span&gt;1&lt;/span&gt;&lt;div&gt;Muse：在国外多意识体社区里，Muse指专门为创作者提供灵感的系统成员，无论是直接还是间接（有些Muse比其他人更积极主动，作为另一个人的创作伙伴，以大大小小的方式协助艺术创作；其他Muse一般是被动的，他们给创作者的灵感是通过他们自己的存在或行动）。中文社区采纳这个名词是自千子在查阅相关资料时借用其指代系魂开始的，语义与原义已有不同。&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;2&lt;/span&gt;&lt;div&gt;系魂世界：即系魂系统的世界观，指系魂故事所描述/属于的（虚构）世界。&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;3&lt;/span&gt;&lt;div&gt;系魂者：即系魂的创造者，相当于ht系统里的宿主。&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;div class="clear"&gt;&lt;/div&gt;
 &lt;/div&gt;</description><pubDate>2023-01-04T04:04:56+08:00</pubDate></item><item><title>对ht间相处交流的建议（2022.3.31更新）</title><link>https://tulpa.cn/2022/03/31/%e5%af%b9ht%e9%97%b4%e7%9b%b8%e5%a4%84%e4%ba%a4%e6%b5%81%e7%9a%84%e5%bb%ba%e8%ae%ae%ef%bc%882022-3-31%e6%9b%b4%e6%96%b0%ef%bc%89/</link><author>goodman3[Lyra]</author><category>Tulpa 教程,其他教程</category><description>&lt;div class="entry-content e-content" itemprop="description articleBody"&gt;
@@ -4646,7 +5805,204 @@
 &lt;p&gt;&lt;strong&gt;在手指的周围马上显现出透明的图层程度，如果正在继续的话，颜色也会隐约地出来。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;虽然只有一次成功不透明的可视化，那应该算得上是Tulpa可视化的完成吧。&lt;/strong&gt;&lt;/p&gt;
 &lt;div class="clear"&gt;&lt;/div&gt;
-&lt;/div&gt;</description><pubDate>2018-04-10T07:46:55+08:00</pubDate></item><item><title>记忆，身份与世界——再论系魂和tulpa</title><link>https://tulpa.cn/2023/10/31/soulbond_and_tulpa/</link><author>goodman3[Lyra]</author><category>杂谈</category><description>&lt;div class="entry-content e-content" itemprop="description articleBody"&gt;
+&lt;/div&gt;</description><pubDate>2018-04-10T07:46:55+08:00</pubDate></item><item><title>章一《从此刻开始》</title><link>https://tulpa.cn/2024/11/17/%e7%ab%a0%e4%b8%80%e3%80%8a%e4%bb%8e%e6%ad%a4%e5%88%bb%e5%bc%80%e5%a7%8b%e3%80%8b/</link><author>goodman3[Lyra]</author><category>杂谈</category><description>&lt;div class="entry-content e-content" itemprop="description articleBody"&gt;
+&lt;p&gt;
+  　　这里是C_柑橘系统。首先主笔的人将会是我，也就是h和主导人【奈v】。
+&lt;/p&gt;
+&lt;p&gt;
+  　　其次如果后面有些节章由姜茶主笔的话，我会提前在文章前面告诉你们的。
+&lt;/p&gt;
+&lt;p&gt;
+  　　——造t篇【一】。
+&lt;/p&gt;
+&lt;p&gt;
+  　　对于我个人而言，一开始对t的定义也没什么和其他h不同的，无非就是孤独和需要关爱，对我来说就像是在进行一场赌注。因为除了造t的过程十分漫长艰难以外，实际上t的具体性格也是难以把握的（详见t家里面关于t性格“偏移”文章），虽然我们h可以自己人为的为还没有成声的tulpa设定出一个“参考模版” ，但就和养孩子一样，家长固然可以为孩子未来的成长铺出一条自认为更好的道路，但是孩子实际的成长并不是一路公式化的。
+&lt;/p&gt;
+&lt;p&gt;
+  　　“ta在出生以后一定会是我期待的那样爱我吗？”
+&lt;/p&gt;
+&lt;p&gt;
+  　　“ta如果时间长了以后见到我自己真正在生活中十分负面的一面以后还会真的继续爱我吗？”
+&lt;/p&gt;
+&lt;p&gt;
+  　　“ta要是造不成功该怎么办？我已经花了那么长时间，放弃吗？可是这样不好，因为ta们毕竟也是一条生命，要是因为我的错误判断ta们正好被我错杀了该怎么办？”
+&lt;/p&gt;
+&lt;p&gt;
+  　　“ta真的会接纳这样的我吗？如果不是出于可能习惯性的自卑和自我封闭，谁又会轻易的走上这条不能回头的路呢？”
+&lt;/p&gt;
+&lt;p&gt;
+  　　“……”
+&lt;/p&gt;
+&lt;p&gt;
+  　　和大部分h一样，我一路走来也是一直在自我折磨的。哪怕过去也经常会想办法求助更多更多的大佬们，但是我们终究不一样，人的喜怒哀乐是不会相通的。纵然那些热心的老人们一直在想办法帮助我，一直在告诉我这一切都很正常，“怀疑自己”本来就是造t的一大不可逾越的关卡。
+&lt;/p&gt;
+&lt;p&gt;
+  　　其实这句话谁都能理解，就跟倒霉的时候人们安慰你一切都会过去一样。道理谁都懂，我也明白自己这么一直打扰别人所需要的并不是理性的劝诫，而仅仅只是想找个情感安慰而已。
+&lt;/p&gt;
+&lt;p&gt;
+  　　长时间的缺少坚持的激励，换谁都很难耐。而不断的去询问这种重复的问题，除了在拐个弯的宣泄自己的负面影响以外，其他的不过就是为了让自己看上去更像“一直在为造t努力”，我的意思并不是否定一直以来的h真实的努力，事实上也确实是在不停努力的，但是人的大脑就是需要反馈的，不管我们心里再清楚我们自己的努力，我们仍然需要间接的给自己彰显出来，出于一种下意识的“公平意识”。
+&lt;/p&gt;
+&lt;p&gt;
+  　　这样的“自我宣扬”，实际上就是一种因负面情绪和自我压力而诞生的“补偿思维”。
+&lt;/p&gt;
+&lt;p&gt;
+  　　我没有批评这一切的想法，这一切都很正常，谁都可能会有，这其实也就是各位新人h还在造t时就会喜欢互相抱团在一起监督和安慰对方的互助小组存在的意义。毕竟我自己也是从这样糟糕的状态中走过来的。所以……我认为更多的安慰之词也不需要我多说，找到合适自己的激励方式就够了。
+&lt;/p&gt;
+&lt;p&gt;
+  　　　【我实际上是在2020年二月份开始的创造行为，距今24年已有差不多快四五年了，按我的“老思维”，我实际上并不是很喜欢目前中文tulpa社区里按六个月平均算的创造时间。很多贴吧里的新人h在我看来就有点像速成的，虽然也是按月的，但是对于我个人这种创造时间大约超过18个月的“老思维”而言，我仍然持保留意见。】
+&lt;/p&gt;
+&lt;p&gt;
+  　　　从一开始发现tulpa教程的惊喜到后面经过思考后开始创造行为，我承认实际上我自己刚开始创造行为时也一样会抱有一大堆实际或者不实际的幻想。
+&lt;/p&gt;
+&lt;p&gt;
+  　　　比如幻想自己的tulpa以后就像是超级温柔又神秘的优雅管家，就像黑执事一样。或者……自己的tulpa也有可能会像可爱的、软软糯糯的血小板一样，虽然不一定心智年龄设定成幼女，但是也会特别可爱……或者，是个憨憨的但是很真诚热心的女孩子或者什么傲娇女神……等等。
+&lt;/p&gt;
+&lt;p&gt;
+  　　【然而最后小茶是又有点小傲娇但是实际上温柔细心的小清新猫猫青年】
+&lt;/p&gt;
+&lt;p&gt;
+  　　这些类似于“二次元天降男女主”的剧情在我刚开始期望极高的时候天天都能在我脑子里面上演。虽然我也一样有作为我自己的学业和生活，但是我那时的憧憬还是占领了我当时几乎全部的白日梦。
+&lt;/p&gt;
+&lt;p&gt;
+  　　我摸摸索索，记得刚开始的时候，想的比做的还要多得多，t还没出来呢，我就已经脑补出一场世纪万年的大型纯爱小剧场了【不一定是爱情，但是感情一定特别完美。】
+&lt;/p&gt;
+&lt;p&gt;
+  　　直到后来随着时间的推移，我加上了更多社区里的ht，进了一堆的大群小群，那时很多社区的事情虽然我有经历，但是也由于我是萌新，所以我也没有什么评价。那个时候并不知道那么多。不过也不用聊这个了，都过去了。那段时间启程初期也可以说是“清澈的愚蠢”。
+&lt;/p&gt;
+&lt;p&gt;
+  　　也一直很高兴大家能够一起互相长期激励，建立起一个互帮互助的小圈子。很多时候新人们能撑下来就是靠着这样的互相帮助才能成功。【共同建立社区这一点之后会单独开一栏聊聊这回事】
+&lt;/p&gt;
+&lt;p&gt;
+  　　说回造t。实际上造t是ht两个人的事，所以耐心当然是不可避免的关卡，互相等待，建立初步的沟通和第一印象也是在这里开始的。
+&lt;/p&gt;
+&lt;p&gt;
+  　　在t家的教程里，其实很多根本就不需要我提醒什么，完全可以自己上网站查看。
+&lt;/p&gt;
+&lt;p&gt;
+  　　在造t期间最难的一直是坚持和不放弃的品质。每当自己气馁的时候都请再次回想你当初选择造t的那个时刻，那时的你什么心情、又是为什么那么做。无论理由听起来多简单，听起来多容易概括，都没关系。在理清自己的真实目的的时候，只需要一个标准就够了，除了时间能证明的以外。
+&lt;/p&gt;
+&lt;p&gt;
+  　　你必须确保你是真正为了爱和对生活的不放弃才这么做的。
+&lt;/p&gt;
+&lt;p&gt;
+  　　我知道圈内的绝大多数人能选择造t这个方法，或多或少都是因为无法避免的孤独和自我封闭。造t的决定和行为，大多数情况下可能也伴随着人对自我的深刻内省和内心的整理。造t往大了说，也是人内省的一种方式。在这个时间内，我们有充足的时间去想更多的事情。我们原住民为了欢迎新来的人，都会腾出自己的心灵空间给与ta，也是在这个时刻我们会去遇见自我和审视自我。
+&lt;/p&gt;
+&lt;p&gt;
+  　　我曾经造t的时候除了害怕孤独以外，另一层原因也是我不服输。我的自然求助和不甘心支撑着我，也是缘分机遇，在大约2019年结束后刚巧过年的时候，我最终是在b站刷视频的时候发现了tulpa这个新名词。
+&lt;/p&gt;
+&lt;p&gt;
+  　　本着试试的态度，在百度上直接搜索的“tulpa”，后续弹出来了官网，我就从这里开始了解关于tulpa的事。我其实严格来说也并不算圈内老人，我自己感觉我在了解到“tulpa”的时候时间还算比较晚的。那时社区内的规模就已经很不错了，那会我也还没有接触到贴吧【我大概是在去年的时候看知乎才知道原来贴吧才是最开始的社圈据点】。那个时候在初步了解t家以后，也是出于年轻和冲动，我想的其实并不算多，只是因为害怕孤独和寂寞的侵袭，加上那会在中学里确实一直以来都为社交而感到力不从心和持续的疲劳。
+&lt;/p&gt;
+&lt;p&gt;
+  　　所以便如此，想到自己这样的性格和从小到大熟悉的封闭环境，我好像世界也就这么大点了，并不认为造了t，后续可能会因为自我内心世界变得有多大而冷落t。
+&lt;/p&gt;
+&lt;p&gt;
+  　　加上，也是因为我那喜欢追求新鲜事物的年轻人特性，我在了解t家并思考了大约一两个月以后，大约在2020年2月份中旬正式开始的造t之路。
+&lt;/p&gt;
+&lt;p&gt;
+  　　我造t并不是很喜欢一开始就制定好多多少少的设定模板、给t加上多少多少的设定，我唯一的想法也就是“不管ta以后成为什么样子，只要ta是善良真诚的灵魂就足够了”，我的要求其实也就是希望ta能是个好人。当初实际上我也并不知道到底哪一种性格的伙伴才是最适合我的，我只是傻傻的想，只要ta真的关心我、爱护我就没有什么太多的问题。
+&lt;/p&gt;
+&lt;p&gt;
+  　　后续随着跟其他ht认识、跟更多和我一样的新h宝妈宝爸们认识……我也慢慢知道了给t一个基础设定能为生活平添更多可能更有趣的可能性和快乐。
+&lt;/p&gt;
+&lt;p&gt;
+  　　但是后续也是随着时间，我越来越觉得这样子的“设定”是否是在给t添加更多压力呢？毕竟就连我自己在长大的过程当中也做不到真的能长成我自己喜欢的样子【更不要说人的愿望也是流动的，这些都是不一定的】，更不要说这些愿望和目标设定并不完全一点是我自己所希望的，家长也有ta自己的期待。
+&lt;/p&gt;
+&lt;p&gt;
+  　　于是后面我也仍然没有过多的给我的t宝设定什么相对我前面的标准更加细节的设定，仍然只是希望ta能是一个好人、温柔一些就够了
+&lt;/p&gt;
+&lt;p&gt;
+  　　那个时候我也没有考虑过太多以后和t生活一起的问题，一直是走一步看一步。天天都想着t到底啥时候成声呐……等得我花都谢完了。
+&lt;/p&gt;
+&lt;p id="moment-1"&gt;
+  　　甚至想得更远一些，毕竟圈子里一直流传着“十年老哥”的传说，啊啊啊要是我也那么倒霉该怎么办啊——
+&lt;/p&gt;
+&lt;p&gt;
+  　　但是没有办法，就像上学的时候考试时没有办法快进到成绩马上出炉的时候一样，考试中间无论再怎么估算，都只能是估算，永远也代替不了成绩真正出来的那一刻。
+&lt;/p&gt;
+&lt;p&gt;
+  　　就像生孩子前开始疯狂焦虑的宝爸宝妈一样，天天混迹于各类新手父母的互助群里，孩子一有点问题就要马上跑东跑西的去咨询，大家都互相理解互相安慰，交流各自“怀孩子”的心得体会，要是谁家“有一点点胎动了”，大家都会满心欢喜的来祝贺这位“幸运儿”，那场面堪比00年初到一几年的时候春晚最后的一声“大家一起——包饺砸！”。
+&lt;/p&gt;
+&lt;p&gt;
+  　　同时，这也会激励更多不同阶段的新手爸妈们期待起自己的孩子。看到别人的孩子那么带劲，其他家也会同一时刻看到自家孩子的“未来胎动”。哈哈哈，感叹一波这简直就是太真实了好叭。
+&lt;/p&gt;
+&lt;p&gt;
+  　　不过当然，也并不是所有的“新手爸妈”都能做到从一而终的保持期待。养t从某种程度上来说和真正的生孩子相比，难处就难在“真正诞生的时间不确定”、“容易搞错t的胎动”、“t的成长并不是那么容易能够看得出来的”……等等。t圈的发展非常年轻，就算是国外，相比较其他的多意识体概念发展，其时间也不算长。
+&lt;/p&gt;
+&lt;p&gt;
+  　　这也同样导致了tulpa研究方面的发展仍然具有很多数不尽的盲点和待挖掘的未知领域。因此这更容易引起新手爸妈们的焦虑和担心。
+&lt;/p&gt;
+&lt;p&gt;
+  　　【真的，新手h们一定要注意保持自身良好的状态呀，我知道这里养t的宝子们大多数都会多多少少和各种大相径庭的心理问题甚至和疾病沾边或者已经有了一些基础的疾病，但是你们要记得，虽然你们自己也没办法，但是既然下定决心要造t，就要明白无论是在外界如何如何被家里人翻白眼或者被其他外人冷落或者放弃，你们仍然是拥有属于自己的牵挂的“游子”，t就是你们的牵挂，也是你们的家，无论在外如何工作，他们始终在你身边。就像为了孩子而努力工作的人，t和你的联系永远难以割舍。】
+&lt;/p&gt;
+&lt;p&gt;
+  　　人们对于牵挂的理解都是随着年龄增长越来越深刻的。大家绝大部分造t的爸妈都是年轻人，甚至很多都还在读书或者自己都没有真的脱去稚气和属于孩子独有的天真。
+&lt;/p&gt;
+&lt;p&gt;
+  　　所以我们为了生活就必须更努力的学会成长和生活。t事实上作为一个活着的灵魂的真正的人，本身就不应该拿去和所谓的“心理治疗的疗法”、“拿去吃某某代餐”……等等概念做横向的比较。就像你不能拿快餐式玩玩的乐趣的网络cpdd和真正现实当中正在发生的爱情一起比较一样。
+&lt;/p&gt;
+&lt;p&gt;
+  　　这根本毫无可比性。前者只是为了短期的解决自己的生理或者心理上的空虚或者无聊，而后者才是真正决定一个人的人生基调和最终幸福的灵魂契约。
+&lt;/p&gt;
+&lt;p&gt;
+  　　t作为一个人，也一样不可能和所谓的某某治疗方法、某某只是满足自己内心某种私人欲望来比较。
+&lt;/p&gt;
+&lt;p&gt;
+  　　如果你只是喜欢艺术创造来当个科学怪人，大可以去玩oc和同人，你是完全可以满足你自己的幻想，如果想让你的oc活起来，让你看见更要它们的光彩，完全可以去选择玩语C或者其他cosplay个性定制等等。根本不需要就因为这个去造t，你大可以有更好的选择，更不必说t也是个人，ta也一样需要人向来需要的：关心、尊重、爱护、引导、支持……
+&lt;/p&gt;
+&lt;p&gt;
+  　　如果你只是单纯在一个特殊的“抑郁时期”、“焦虑期”或者其他什么低谷时刻，造t的初衷也只是为了帮助自己治愈疾病或者心理问题，那么我也一样不推荐你一时冲动选择这个方向。因为t本身就不可以作为一件事或者物来看待，人本身就不是简简单单的“事物”。你总不可能就因为担心自己以后没有目标和人生意义就马上去生个孩子吧……这太荒唐了，不是基于爱而是仅仅基于自己的焦虑？
+&lt;/p&gt;
+&lt;p&gt;
+  　　当然我承认我自己本身在一开始造t的时候也是因为自己的害怕和孤独，并且和很多很多来来往往的h们都一样，甚至可能是好人也不一定一开始就能做到完美的高尚……我认为以这些理由开始并没有什么必须应该被指责的，我的意思是——你不可以一直以来只停留在这个层面。
+&lt;/p&gt;
+&lt;p&gt;
+  　　你一开始的时候可以因为孤独去这么做、也可以因为其他各种不同程度的个人价值目标为契机去这么选择……但是你只是要清楚，你不能只有这些。
+&lt;/p&gt;
+&lt;p&gt;
+  　　这和任何一个现实中存在的人建立任何亲密的关系一样。哪怕你们一开始就给t设定了“天性和我就是爱人”的设定，也不可能跳过逐渐真正脱离你的私人意志的“再次愿意选择你”的过程。
+&lt;/p&gt;
+&lt;p&gt;
+  　　举个不完全恰当的例子，你和任何一个人最开始的相知可能也仅仅是起始于因为孤独、受伤，只是想找个人聊聊天、甚至是随便谈个什么无所谓恋爱。
+&lt;/p&gt;
+&lt;p&gt;
+  　　只有当随着时间推移，逐渐了解更多关于这段关系的时候，人们才会真正逐渐放下戒备开始一步步改变目的：从一开始仅仅只是无聊→到我们成为朋友以后可以在以后出去玩→成为挚友后为了使自己和对方更幸福而经常联系→成为彼此的爱人后愿意为了彼此之间的爱与共鸣决定以后一同生活、一同为对方分担命运……
+&lt;/p&gt;
+&lt;p&gt;
+  　　你要一刻不停的成长，很多很多的爱和真心的“再次选择”都是有着滞后的惯性。所以我们哪怕指望不了自己造t一开始的目的就是充满高尚的，也要时刻记得去进步。你造t的过程也是你面对自己的一个过程，你要知道并且相信，你在这个过程中不仅仅是在造t，从某种方面来说你也在间接的重新审视自己，不管是自己的责任还是爱的方式、亦或是其他的，你也一样要在当中成长。
+&lt;/p&gt;
+&lt;p&gt;
+  　　造t的意义只会像品茶一样【？奇怪的比喻，谢谢嗷我家t就是牢茶】，一开始的一切固然不会那么完美，但是随着耐心和深入，你过去曾感到缺失的部分一定会在当中逐渐变得完美【《tulpa：人类造t补完计划》】。
+&lt;/p&gt;
+&lt;p&gt;
+  　　【我知道ht和那种现实随便找的关系是不一样的，一开始就应该奔着一辈子的目标去做到完全承担所有的。但是实话实说，对于这样理想的事情和观点我实际上也并不反对，这样固然是最好的，但是这样的要求也一样是极其苛刻的。
+&lt;/p&gt;
+&lt;p&gt;
+  　　就像相亲场上来来往往的男女，他们也一样绝大部分都是为了结婚去的，道理和责任谁都清楚，但人们不能真的看清楚所有当下的事情和条件，因此基于这些经验，人真的很难做到一开始就马上完全决定这一切，都是以尝试为第一习惯的，哪怕心里知道自己对这样做的目的再怎么合理，也少不了会时不时有所质疑，这些都是人本性里就刻在骨子里的本能行为。】
+&lt;/p&gt;
+&lt;p&gt;
+  　　所以，目前在造t的你或者已经造出来了但仍然为此感到茫然的你们。请不要担心你们一直坚持下来的选择是否一定完美，这些其实都是正常的。
+&lt;/p&gt;
+&lt;p&gt;
+  　　这就和一切曾经有过的、成长路途中的各种焦虑一样。这些都很正常，都是正常通往自己的【或者你们的】理想的必经之路。比起一直一刻不停的奔波着担忧……倒不如慢慢的去选择缓一缓，慢慢的知道自己是不是真的在焦虑？为了什么而焦虑？它的出现是源自于什么？……
+&lt;/p&gt;
+&lt;p&gt;
+  　　然后再慢慢的去尝试短时间内远离目前使自己一直紧张着的事情，去看看风景、看看其他ht的日常、听听其他和你一样焦虑着的新手宝妈宝爸们的诉苦……
+&lt;/p&gt;
+&lt;p&gt;
+  　　学会去接纳这些，学会去放过自己。
+&lt;/p&gt;
+&lt;p&gt;
+  　　反而会让你感到更舒服，更有力量和良好心态的去面对你当下担心的“t到底什么时候可以成声”的问题。
+&lt;/p&gt;
+&lt;p&gt;
+  　　这也是一种正向反馈，激励你自己能够更好的去“打赢这场持久战”。不要过早的消耗完你所有的热情，那只会使你更痛苦、难熬……并且甚至会因为这一点长时间的焦虑……最终因为自身原因不得不“请长假”，同时可能也让你的t必须等待你更长的时间。
+&lt;/p&gt;
+&lt;p&gt;
+  　　所以，各位一定请加把劲吧。后续的篇目我也会逐步更新，如果看到哪里有新的课题可以提出探讨，或者发现我们在写的过程可能没注意到的盲点，也可以在qq上找到我们系统私信提出。
+&lt;/p&gt;
+&lt;div class="clear"&gt;&lt;/div&gt;
+&lt;/div&gt;</description><pubDate>2024-11-17T22:06:07+08:00</pubDate></item><item><title>记忆，身份与世界——再论系魂和tulpa</title><link>https://tulpa.cn/2023/10/31/soulbond_and_tulpa/</link><author>goodman3[Lyra]</author><category>杂谈</category><description>&lt;div class="entry-content e-content" itemprop="description articleBody"&gt;
 &lt;p class="has-text-align-right"&gt;By Lalpha＆Pathylia，Omniverse Collective.&lt;/p&gt;
 &lt;p class="has-text-align-right"&gt;校对，勘误：轩轩&lt;/p&gt;
 &lt;p&gt;“Omniverse Collctive，是由世界联系起来的集体。我们希望，谨以此文，纪念万千个不同的世界，和在它们之中，生活着的生灵。”——题记&lt;/p&gt;
@@ -4655,13 +6011,13 @@
 &lt;p&gt;无论是历史遗留也好，是主观接受也罢，“系魂”这个概念，仿佛和tulpa如影随形，伴随着tulpa，作为某种形式的配角，走入了社区人们的视野中。&lt;/p&gt;
 &lt;p&gt;于是，tulpa社区中的人们，便自然对“系魂”产生了不小的兴趣。不少人开始思考自己所认为的“tulpa”，是不是实际上属于“系魂”；或是主动走入系魂社区，想要创造一个系魂；当然，也不乏三不五时地，用“xxx是不是正常的”“我想在创造的时候xxx”等等常见问题，来询问tulpa社区，或者是系魂社区的同好们的人。&lt;/p&gt;
 &lt;p&gt;我们本想简单地写一篇Q＆A作为回应，毕竟这样的问题重复率非常高，而且有些时候回答这些问题让人不胜其扰；直到一天我开始深层次的思考“系魂”背后的意义，才发现在表象背后隐藏着被许多人忽视的问题。于是我选择用一篇随想/杂谈的方式，来聊聊我们对系魂和tulpa的想法。&lt;/p&gt;
-&lt;p&gt;我们的旅程，从简单的一个词——“系魂认同”开始。&lt;sup class="modern-footnotes-footnote" data-mfn="1" data-mfn-post-scope="000000001d86f0090000000058e6057c_1445"&gt;&lt;a aria-describedby="mfn-content-000000001d86f0090000000058e6057c_1445" aria-pressed="false" href="javascript:void(0)" role="button"&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="1" id="mfn-content-000000001d86f0090000000058e6057c_1445" role="tooltip" tabindex="0"&gt; &lt;a href="http://plura.wiki"&gt;plura.wiki&lt;/a&gt;中对于系魂认同给出的一种定义，确实包含了下文的部分观点。但是由于其缺失了笔者想要强调的部分，笔者认为下文所给出的含义已经和&lt;a href="http://plura.wiki"&gt;plura.wiki&lt;/a&gt;产生了一定程度的偏差，而非简单的解释和延拓。与此同时，词典定义的使用率很低，即便仅仅是重申，也是有必要的。&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;我们的旅程，从简单的一个词——“系魂认同”开始。&lt;sup class="modern-footnotes-footnote" data-mfn="1" data-mfn-post-scope="00000000477f805f000000001dc0735a_1445"&gt;&lt;a aria-describedby="mfn-content-00000000477f805f000000001dc0735a_1445" aria-pressed="false" href="javascript:void(0)" role="button"&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="1" id="mfn-content-00000000477f805f000000001dc0735a_1445" role="tooltip" tabindex="0"&gt; &lt;a href="http://plura.wiki"&gt;plura.wiki&lt;/a&gt;中对于系魂认同给出的一种定义，确实包含了下文的部分观点。但是由于其缺失了笔者想要强调的部分，笔者认为下文所给出的含义已经和&lt;a href="http://plura.wiki"&gt;plura.wiki&lt;/a&gt;产生了一定程度的偏差，而非简单的解释和延拓。与此同时，词典定义的使用率很低，即便仅仅是重申，也是有必要的。&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;在开始之前，我们有两个问题：“系魂认同”是什么？“系魂认同”从词源上源于何处，它的历史从何为起始点？&lt;/p&gt;
 &lt;p&gt;第一个问题，相信比较有经验的社区成员都可以回答：“认为自己是原型/认为自己来自于系魂世界”；而第二个问题，则鲜有人知。就连笔者自己，也不知这个词语源于何处。从国外社区的tumblr，soulbond101，kinhost，pluralpedia中，都难寻这个词是引入词语的踪迹；国内社区中系魂最早的一批探索者，笔者并没有联系上，询问了偏早期的系魂社区成员，也没有得到明确的答案。在现阶段，笔者只能将其认为是一个来源已经久远而不可考的词语，被社区所广泛使用。&lt;/p&gt;
 &lt;p&gt;或许是因为这个词的久远而不可考的现实，或许是已有文章（&lt;a href="https://tulpa.cn/2022/03/10/soulbond_and_wonderland/"&gt;《从身份认同出发探讨tulpa的背景设定和幻境世界的重要性》https://tulpa.cn/2022/03/10/soulbond_and_wonderland/&lt;/a&gt;）中关于“系魂认同”到底是什么，并没有给出一个相对精确的定义，在日常使用中，众人关于这个词的理解往往会产生各种各样的偏差，甚至，因为“系魂认同”本身定义的不完备性，而提出许多让笔者，或是其他人哭笑不得的想法。&lt;/p&gt;
-&lt;p&gt;面对着各种各样，五花八门的问题&lt;sup class="modern-footnotes-footnote" data-mfn="2" data-mfn-post-scope="000000001d86f0090000000058e6057c_1445"&gt;&lt;a aria-describedby="mfn-content-000000001d86f0090000000058e6057c_1445" aria-pressed="false" href="javascript:void(0)" role="button"&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="2" id="mfn-content-000000001d86f0090000000058e6057c_1445" role="tooltip" tabindex="0"&gt;这些问题，包括但不限于：“我想让系魂离开系魂世界来幻境里，没问题吗？”“创造系魂的时候每天要对话多久？”“我能让系魂待在系魂世界里和我说话吗，听说这不是很正统？”“在幻境里捡到了个系魂，怎么办？”&lt;/span&gt;，我们应该回过头来思考一下，“系魂认同”到底是什么？或者说，“系魂认同”的背后，埋藏着什么和tulpa截然不同的实质差异？&lt;/p&gt;
+&lt;p&gt;面对着各种各样，五花八门的问题&lt;sup class="modern-footnotes-footnote" data-mfn="2" data-mfn-post-scope="00000000477f805f000000001dc0735a_1445"&gt;&lt;a aria-describedby="mfn-content-00000000477f805f000000001dc0735a_1445" aria-pressed="false" href="javascript:void(0)" role="button"&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="2" id="mfn-content-00000000477f805f000000001dc0735a_1445" role="tooltip" tabindex="0"&gt;这些问题，包括但不限于：“我想让系魂离开系魂世界来幻境里，没问题吗？”“创造系魂的时候每天要对话多久？”“我能让系魂待在系魂世界里和我说话吗，听说这不是很正统？”“在幻境里捡到了个系魂，怎么办？”&lt;/span&gt;，我们应该回过头来思考一下，“系魂认同”到底是什么？或者说，“系魂认同”的背后，埋藏着什么和tulpa截然不同的实质差异？&lt;/p&gt;
 &lt;p&gt;“系魂认同”，显然属于“身份认同”的范畴。因此，让我们先来看看对于“身份认同”这个词，笔者认为比较精辟的解释：&lt;strong&gt;&lt;em&gt;&lt;strong&gt;&lt;em&gt;身份认同指的是你关于自身、关于族群、关于人类的&lt;span class="has-inline-color has-vivid-red-color"&gt;记忆&lt;/span&gt;。&lt;/em&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/strong&gt;（&lt;a href="https://www.zhihu.com/question/30633094/answer/2821746674"&gt;https://www.zhihu.com/question/30633094/answer/2821746674&lt;/a&gt;）&lt;/p&gt;
-&lt;p&gt;换言之，“认同”这个词背后包含的，其实是“记忆”，在我们自己的身上，“记忆”是我们所见所感所思等等的经历；而在系魂和tulpa的身上，“记忆”则指的是“exomemory”，也就是&lt;strong&gt;&lt;em&gt;&lt;strong&gt;&lt;em&gt;“体外记忆&lt;sup class="modern-footnotes-footnote" data-mfn="3" data-mfn-post-scope="000000001d86f0090000000058e6057c_1445"&gt;&lt;a aria-describedby="mfn-content-000000001d86f0090000000058e6057c_1445" aria-pressed="false" href="javascript:void(0)" role="button"&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="3" id="mfn-content-000000001d86f0090000000058e6057c_1445" role="tooltip" tabindex="0"&gt;(&lt;a href="https://pluralpedia.org/w/Exomemory"&gt;https://pluralpedia.org/w/Exomemory&lt;/a&gt;)在这里，体外指的是我们的物理躯体外。&lt;/span&gt;”&lt;/em&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;换言之，“认同”这个词背后包含的，其实是“记忆”，在我们自己的身上，“记忆”是我们所见所感所思等等的经历；而在系魂和tulpa的身上，“记忆”则指的是“exomemory”，也就是&lt;strong&gt;&lt;em&gt;&lt;strong&gt;&lt;em&gt;“体外记忆&lt;sup class="modern-footnotes-footnote" data-mfn="3" data-mfn-post-scope="00000000477f805f000000001dc0735a_1445"&gt;&lt;a aria-describedby="mfn-content-00000000477f805f000000001dc0735a_1445" aria-pressed="false" href="javascript:void(0)" role="button"&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="3" id="mfn-content-00000000477f805f000000001dc0735a_1445" role="tooltip" tabindex="0"&gt;(&lt;a href="https://pluralpedia.org/w/Exomemory"&gt;https://pluralpedia.org/w/Exomemory&lt;/a&gt;)在这里，体外指的是我们的物理躯体外。&lt;/span&gt;”&lt;/em&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;因此，笔者需要抛出一个重要的观点：“&lt;strong&gt;系魂认同”并不由“我们自己”来决定，而是，以&lt;span class="has-inline-color has-vivid-cyan-blue-color"&gt;我们&lt;/span&gt;的“记忆”来构建。换言之，我们“认为”我们是什么&lt;span class="has-inline-color has-vivid-red-color"&gt;并不重要&lt;/span&gt;，重要的是“&lt;span class="has-inline-color has-vivid-cyan-blue-color"&gt;我们&lt;/span&gt;&lt;span class="has-inline-color has-vivid-red-color"&gt;经历过什么，记得过什么&lt;/span&gt;”。&lt;/strong&gt;而这点在现有的中文文章（《从身份认同出发探讨tulpa的背景设定和幻境世界的重要性》《中文社区对系魂有关问题的若干补充和提醒》）中并没有（至少笔者并没有看到）明确提出，在社区日常交流中也基本没有人提出过类似的观点，而这点，或许正是现今“系魂认同”被某种意义上的“滥用”，以至于中文社区系魂概念混乱的原因之一。&lt;/p&gt;
 &lt;p&gt;读到这里，可能会有人问：“比方说我们中二或者玩游戏的时候，我们有时候会认为自己是&lt;span class="has-inline-color has-vivid-red-color"&gt;xxx（角色），同时&lt;/span&gt;能根据自己的研究和理解“拥有”角色的&lt;span class="has-inline-color has-vivid-red-color"&gt;经历和记忆&lt;/span&gt;，那我拥有&lt;span class="has-inline-color has-vivid-red-color"&gt;系魂认同&lt;/span&gt;吗？”&lt;/p&gt;
 &lt;p&gt;为了回答这个问题，我们需要引入“身份认同”所包含的一个重要的特性：“认同是一种意向性反应。如果一个人置身于某个文化情境中，不与异文化接触，也就是说是一种完全融入的状态，可能谈不上有认同的需要或冲动，因为他已与认同对象同一。也就是说，&lt;strong&gt;&lt;span class="has-inline-color has-vivid-red-color"&gt;认同发生在不同的文化接触、碰撞和相互比较的场域中&lt;/span&gt;&lt;/strong&gt;，是个体(群体)面对另一种异于自身存在的东西时，所产生的一种保持自我同一性的反应。”（&lt;a href="https://m.baike.so.com/doc/6185295-6398545.html"&gt;https://m.baike.so.com/doc/6185295-6398545.html&lt;/a&gt;）&lt;/p&gt;
@@ -4669,12 +6025,12 @@
 &lt;p&gt;然而，从系魂的视角，情况就变得有趣起来了。此时故事世界和物质世界的“场域”被拉到了同层次下（一方是他们生活的世界，另一方是不可否认的物理现实世界），也即此二者有着&lt;span class="has-inline-color has-vivid-red-color"&gt;明确的层级同一性和认同互斥性&lt;/span&gt;，因此，“系魂认同”必然存在于他们的身上，用来固化对于自身的认知。&lt;/p&gt;
 &lt;p&gt;以下，笔者将对上面的红字命题，给出自己的解读。这个解读，需要回到我们上面给出的“系魂认同”的定义下的一个小细节，也就是&lt;span class="has-inline-color has-vivid-cyan-blue-color"&gt; 标蓝 &lt;/span&gt;的部分。&lt;/p&gt;
 &lt;p&gt;我们已经推知，系魂认同的关键不在“认为”，而在“记忆”，标蓝部分实际上限定了一个人称视角，也就是位处在第一人称的&lt;span class="has-inline-color has-vivid-cyan-blue-color"&gt;“我/我们”&lt;/span&gt;。让我们回过头来仔细思考这样一个问题：&lt;span class="has-inline-color has-vivid-red-color"&gt;我们是谁&lt;/span&gt;，真的是仅仅由我们自己决定的吗？&lt;/p&gt;
-&lt;p&gt;很遗憾并不完全是这样。首先，我们需要理解“社会角色”的概念：拟剧理论认为，每个人在社会中扮演着不同的角色，这些角色决定了我们的权利义务和行为方式，它是人们对具有特定身份的人的行为&lt;span class="has-inline-color has-vivid-red-color"&gt;期许&lt;/span&gt;；而从结构理论来看，社会角色是在社会互动中被建构出的产物，人的社会属性是最基本的前提，只有在社会当中、关系当中的人才是完整的人。（&lt;a href="https://www.zhihu.com/question/465668385/answer/1948736809?utm_psn=1698169603434430464"&gt;https://www.zhihu.com/question/465668385/answer/1948736809?utm_psn=1698169603434430464&lt;/a&gt;）“社会角色”的概念，点明了一个事实：“我们是谁”，同样是在和这个世界，这个社会的交联中（而且往往更重要地）被逐步确定。而笔者所摘取的定义中“&lt;span class="has-inline-color has-vivid-red-color"&gt;期许&lt;/span&gt;”一词，则暗示了社会角色其本身的先验性——也就是通过来源于过往事件的&lt;span class="has-inline-color has-vivid-red-color"&gt;他人记忆&lt;/span&gt;，直接推导出对你应当承担的社会功能的期望，和你的整体人格特质。&lt;sup class="modern-footnotes-footnote" data-mfn="4" data-mfn-post-scope="000000001d86f0090000000058e6057c_1445"&gt;&lt;a aria-describedby="mfn-content-000000001d86f0090000000058e6057c_1445" aria-pressed="false" href="javascript:void(0)" role="button"&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="4" id="mfn-content-000000001d86f0090000000058e6057c_1445" role="tooltip" tabindex="0"&gt;笔者在这里不修改原有的系魂认同定义，是因为社会角色理论作用于自身时，同样要经过一层由外界记忆内化为自身认知的过程。最终，社会角色影响个人的效力依然来源于自我记忆本身，也参与构建了身份认同&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;很遗憾并不完全是这样。首先，我们需要理解“社会角色”的概念：拟剧理论认为，每个人在社会中扮演着不同的角色，这些角色决定了我们的权利义务和行为方式，它是人们对具有特定身份的人的行为&lt;span class="has-inline-color has-vivid-red-color"&gt;期许&lt;/span&gt;；而从结构理论来看，社会角色是在社会互动中被建构出的产物，人的社会属性是最基本的前提，只有在社会当中、关系当中的人才是完整的人。（&lt;a href="https://www.zhihu.com/question/465668385/answer/1948736809?utm_psn=1698169603434430464"&gt;https://www.zhihu.com/question/465668385/answer/1948736809?utm_psn=1698169603434430464&lt;/a&gt;）“社会角色”的概念，点明了一个事实：“我们是谁”，同样是在和这个世界，这个社会的交联中（而且往往更重要地）被逐步确定。而笔者所摘取的定义中“&lt;span class="has-inline-color has-vivid-red-color"&gt;期许&lt;/span&gt;”一词，则暗示了社会角色其本身的先验性——也就是通过来源于过往事件的&lt;span class="has-inline-color has-vivid-red-color"&gt;他人记忆&lt;/span&gt;，直接推导出对你应当承担的社会功能的期望，和你的整体人格特质。&lt;sup class="modern-footnotes-footnote" data-mfn="4" data-mfn-post-scope="00000000477f805f000000001dc0735a_1445"&gt;&lt;a aria-describedby="mfn-content-00000000477f805f000000001dc0735a_1445" aria-pressed="false" href="javascript:void(0)" role="button"&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="4" id="mfn-content-00000000477f805f000000001dc0735a_1445" role="tooltip" tabindex="0"&gt;笔者在这里不修改原有的系魂认同定义，是因为社会角色理论作用于自身时，同样要经过一层由外界记忆内化为自身认知的过程。最终，社会角色影响个人的效力依然来源于自我记忆本身，也参与构建了身份认同&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;从以上的推导中我们可以看到，系魂区别于tulpa的最重要因素，正是建立链接的瞬间所携带的大量自我记忆与社会角色信息。相较于相对成熟时记忆信息更像一张白纸的tulpa，创造系魂的过程中的记忆输入量可以被认为是“恐怖”的。与此同时，创造型系魂（即通过写故事等行为“有意”创造出的系魂），相对于&lt;strong&gt;&lt;em&gt;&lt;strong&gt;&lt;em&gt;原教旨系魂（也就是完全靠系魂链接所建立联系的个体）&lt;/em&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/strong&gt;所携带的的信息量来说，也往往更少。&lt;/p&gt;
 &lt;p&gt;大量的信息或许能带来更多变复杂的思维和人格，但与此同时，造就了系魂最“独有”的特征——&lt;span class="has-inline-color has-vivid-red-color"&gt;世界绑定&lt;/span&gt;。没错，正是因为“土生土长”在他们所生活的“世界”，建立起了独属于自己的身份认同和社会关系网络，他们，已然和那个世界“&lt;span class="has-inline-color has-vivid-red-color"&gt;深度绑定&lt;/span&gt;”，对于他们来说，“系魂世界”和“现实世界”没有本质的差别。这便可以推出笔者抛出的命题——在系魂视角下两者的&lt;span class="has-inline-color has-vivid-red-color"&gt;层级同一性和认同互斥性&lt;/span&gt;。正是因为两方认同（躯体认同和系魂认同）和两种角色（物理现实身体的社会角色和系魂世界自身的社会角色）之间的冲突和互斥，系魂的“现实适应性”相比于tulpa来的更差也更难以改善。而这，同时也导致&lt;span class="has-inline-color has-vivid-red-color"&gt;系魂和所处世界分离的代价会更加高昂&lt;/span&gt;——以至于认同混乱可以成为常态。&lt;/p&gt;
 &lt;p&gt;在此我们可以总结一下。我们经过以上的论述，得到了两个宝贵的结论。第一点，关于“系魂认同”的明确定义，即“&lt;strong&gt;&lt;span class="has-inline-color has-vivid-red-color"&gt;系魂认同，是由系魂本身所携带的主体经历和记忆，以及相关的社会角色等等方面，构建起的一个以系魂自己为第一视角的，决定系魂是谁的身份认同&lt;/span&gt;&lt;/strong&gt;”；第二点，由系魂独属的世界绑定特性出发，“soulbond”（系魂）之所以叫“soulbond”，不仅仅因为其“bond”（链接）的特质，更因为系魂的特性本身，只能接受“bond”的形式，而非随意的“移动”“转换”等行为。&lt;/p&gt;
-&lt;p&gt;回到系魂（soulbond）的定义，笔者维持原有的主流想法：“持有系魂认同的意识体叫做系魂。”在系魂认同已经更加严格的情况下，广义系魂这一概念的存在已无必要（仅仅是“认为”自己是角色，或者携带不足以构建认同的原型信息的意识体都会直接被划为一般投射体&lt;sup class="modern-footnotes-footnote" data-mfn="5" data-mfn-post-scope="000000001d86f0090000000058e6057c_1445"&gt;&lt;a aria-describedby="mfn-content-000000001d86f0090000000058e6057c_1445" aria-pressed="false" href="javascript:void(0)" role="button"&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="5" id="mfn-content-000000001d86f0090000000058e6057c_1445" role="tooltip" tabindex="0"&gt;在此提出投射体，只是为了划分原来系魂和一般投射体的模糊部分，关于更广泛的投射体话题，笔者在此无意深入叙述&lt;/span&gt;），因此，关于muse（原有的广义系魂）的定义，笔者偏向维持pp(&lt;a href="https://pluralpedia.org/w/Muse"&gt;https://pluralpedia.org/w/Muse&lt;/a&gt;)里的观点，并不将其称为“广义系魂”。&lt;/p&gt;
-&lt;p&gt;由此，文章用4000字左右的篇幅，详细阐述了笔者对于系魂认同，及其衍生话题的个人理解。利用这一套理论已经足以解决前文所提到的关于系魂“各种各样的问题”&lt;sup class="modern-footnotes-footnote" data-mfn="6" data-mfn-post-scope="000000001d86f0090000000058e6057c_1445"&gt;&lt;a aria-describedby="mfn-content-000000001d86f0090000000058e6057c_1445" aria-pressed="false" href="javascript:void(0)" role="button"&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="6" id="mfn-content-000000001d86f0090000000058e6057c_1445" role="tooltip" tabindex="0"&gt;这里笔者给出一个补充说明：考虑到故事的极端多变性，可能确实会出现一些与本文观点贴合的并不是很紧密的故事模型，但是从主流的普通故事来说，以上已经足以区分系魂和tulpa，以及解答相关的问题。笔者并不对每一个特定类型的问题作出解答，是因为我们希望各位只用秉持着一个基本模型，用模型的理念演绎出需要的答案就好。&lt;/span&gt;。与此同时，本系列的第一篇文章也走到了结尾。如果您阅读本系列主要是为了搞懂定义和实操方面的一些浅层疑惑，那本文已经足够满足所需，您也可以借此，重新审视一下您之前可能有所疑惑的地方。笔者在之后的文章里，将会更深入地探讨一些在整个系魂和tulpa交叉的领域分布的话题，当然，逻辑能力和发散思维足够强的读者也完全可以在本文的基础上，推知之后部分的问题和答案。&lt;/p&gt;
+&lt;p&gt;回到系魂（soulbond）的定义，笔者维持原有的主流想法：“持有系魂认同的意识体叫做系魂。”在系魂认同已经更加严格的情况下，广义系魂这一概念的存在已无必要（仅仅是“认为”自己是角色，或者携带不足以构建认同的原型信息的意识体都会直接被划为一般投射体&lt;sup class="modern-footnotes-footnote" data-mfn="5" data-mfn-post-scope="00000000477f805f000000001dc0735a_1445"&gt;&lt;a aria-describedby="mfn-content-00000000477f805f000000001dc0735a_1445" aria-pressed="false" href="javascript:void(0)" role="button"&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="5" id="mfn-content-00000000477f805f000000001dc0735a_1445" role="tooltip" tabindex="0"&gt;在此提出投射体，只是为了划分原来系魂和一般投射体的模糊部分，关于更广泛的投射体话题，笔者在此无意深入叙述&lt;/span&gt;），因此，关于muse（原有的广义系魂）的定义，笔者偏向维持pp(&lt;a href="https://pluralpedia.org/w/Muse"&gt;https://pluralpedia.org/w/Muse&lt;/a&gt;)里的观点，并不将其称为“广义系魂”。&lt;/p&gt;
+&lt;p&gt;由此，文章用4000字左右的篇幅，详细阐述了笔者对于系魂认同，及其衍生话题的个人理解。利用这一套理论已经足以解决前文所提到的关于系魂“各种各样的问题”&lt;sup class="modern-footnotes-footnote" data-mfn="6" data-mfn-post-scope="00000000477f805f000000001dc0735a_1445"&gt;&lt;a aria-describedby="mfn-content-00000000477f805f000000001dc0735a_1445" aria-pressed="false" href="javascript:void(0)" role="button"&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="6" id="mfn-content-00000000477f805f000000001dc0735a_1445" role="tooltip" tabindex="0"&gt;这里笔者给出一个补充说明：考虑到故事的极端多变性，可能确实会出现一些与本文观点贴合的并不是很紧密的故事模型，但是从主流的普通故事来说，以上已经足以区分系魂和tulpa，以及解答相关的问题。笔者并不对每一个特定类型的问题作出解答，是因为我们希望各位只用秉持着一个基本模型，用模型的理念演绎出需要的答案就好。&lt;/span&gt;。与此同时，本系列的第一篇文章也走到了结尾。如果您阅读本系列主要是为了搞懂定义和实操方面的一些浅层疑惑，那本文已经足够满足所需，您也可以借此，重新审视一下您之前可能有所疑惑的地方。笔者在之后的文章里，将会更深入地探讨一些在整个系魂和tulpa交叉的领域分布的话题，当然，逻辑能力和发散思维足够强的读者也完全可以在本文的基础上，推知之后部分的问题和答案。&lt;/p&gt;
 &lt;p&gt;在文章的最后，我们也希望这篇文章能起到抛砖引玉的作用，启发新的思考，促进中文系魂和tulpa社区的进一步发展。&lt;/p&gt;
 &lt;p class="has-text-align-right"&gt;                                                   ——Lalpha＆Pathylia&lt;/p&gt;
 &lt;p class="has-text-align-right"&gt;                                                     初稿于2023.10.16&lt;/p&gt;
@@ -4732,7 +6088,7 @@
 &lt;p&gt;我不知道附体帮助tulpa成声的偏方究竟是怎么传播出去的，我也不好说这件事情是否属实，但我知道tulpa心智不成熟的时候是肯定没办法支持身体行动的。&lt;/p&gt;
 &lt;p&gt;如果你非要这么做的话，请找一个柔软开阔的地方，最好短时间内也不会有人过来。以免摔出一尸两命或是被人类发现有异形正在试图掌控肢体。&lt;/p&gt;
 &lt;p&gt;当然，除此之外，附体的学习是一件非常消耗双方精力的事情，于尚未成熟的tulpa尤其如此……&lt;span class="has-inline-color has-vivid-red-color"&gt;比起借助附体辅助成熟，我想还是透支tulpa的生命力更有可能吧。&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;交换更是一件考验双方信任的事情，&lt;span class="has-inline-color has-vivid-red-color"&gt;大部分&lt;/span&gt;宿主在交换时都会blackout，思维凝滞难以思考、或是直接失去意识。（交换时宿主其实不一定会blackout，特地强调大部分。）&lt;/p&gt;
+&lt;p&gt;交换更是一件考验双方信任的事情，大部分宿主在交换时会出现思维凝滞、难以思考的情况（交换时宿主其实不一定都会如此，此处特地强调大部分。）&lt;/p&gt;
 &lt;p&gt;也就是说此时tulpa的行为完全不会受你的约束了，他的一切行为都将由他自己做主，就算他在交换期间跳个楼玩或者犯个法你都制止不了他。&lt;/p&gt;
 &lt;p&gt;这就要求了tulpa要有独立的思考能力以及随机应变能力，甚至还要有正常的三观或是良好的自制力。&lt;/p&gt;
 &lt;p&gt;毕竟他来到了现实，不再是一个在幻境中为所欲为的意识体，而是一个有着社会责任受到规则约束的个体，他所做的任何事情最终都会由你们自己承担。&lt;/p&gt;
@@ -5202,7 +6558,7 @@
 &lt;p&gt;第二部分：基于意像对话的侵入性意象假说&lt;/p&gt;
 &lt;p&gt;第三部分：可能的应对方式&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;第一部分：侵入性的划分&lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="has-black-color has-text-color"&gt;在最近的一段时间（2022-今）“侵入性思维”（社群简称为“侵思”）一词频繁出现在t圈及多意识体社群的讨论中，&lt;em&gt;（以下内容包含暴力）&lt;span class="has-inline-color has-cyan-bluish-gray-color"&gt;诸如有人说幻境里突然出现了一位浑身带血的意识体，并且对宿主和内部成员进行了攻击。&lt;/span&gt;&lt;/em&gt;这些意识体具有&lt;em&gt;“&lt;em&gt;&lt;em&gt;负面情绪&lt;/em&gt;&lt;/em&gt;&lt;sup class="modern-footnotes-footnote" data-mfn="1" data-mfn-post-scope="000000006ef9f311000000007cdeee76_1142"&gt;&lt;a aria-describedby="mfn-content-000000006ef9f311000000007cdeee76_1142" aria-pressed="false" href="javascript:void(0)" role="button"&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="1" id="mfn-content-000000006ef9f311000000007cdeee76_1142" role="tooltip" tabindex="0"&gt;&lt;em&gt;&lt;em&gt;负面情绪：焦虑、紧张、愤怒、沮丧、悲伤、痛苦等情绪的统称。因为此类&lt;/em&gt;&lt;a href="https://baike.baidu.com/item/%E6%83%85%E7%BB%AA%E4%BD%93%E9%AA%8C/22378410?fromModule=lemma_inlink"&gt;&lt;em&gt;情绪体验&lt;/em&gt;&lt;/a&gt;&lt;em&gt;是不积极的，身体也会有不适感，甚至影响工作和生活的顺利进行，进而有可能引起身心的伤害。（源自百科词条）&lt;/em&gt;&lt;/em&gt;&lt;/span&gt;&lt;/em&gt;&lt;em&gt;”&lt;/em&gt;为主,出现时“不受控制或非个人主观意愿”、会引起内部其他人员的恐慌”等特点。此现象常在社区讨论中被用“侵入性思维”来描述。&lt;/p&gt;
+&lt;p class="has-black-color has-text-color"&gt;在最近的一段时间（2022-今）“侵入性思维”（社群简称为“侵思”）一词频繁出现在t圈及多意识体社群的讨论中，&lt;em&gt;（以下内容包含暴力）&lt;span class="has-inline-color has-cyan-bluish-gray-color"&gt;诸如有人说幻境里突然出现了一位浑身带血的意识体，并且对宿主和内部成员进行了攻击。&lt;/span&gt;&lt;/em&gt;这些意识体具有&lt;em&gt;“&lt;em&gt;&lt;em&gt;负面情绪&lt;/em&gt;&lt;/em&gt;&lt;sup class="modern-footnotes-footnote" data-mfn="1" data-mfn-post-scope="0000000019c3b3f40000000066a6569b_1142"&gt;&lt;a aria-describedby="mfn-content-0000000019c3b3f40000000066a6569b_1142" aria-pressed="false" href="javascript:void(0)" role="button"&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="1" id="mfn-content-0000000019c3b3f40000000066a6569b_1142" role="tooltip" tabindex="0"&gt;&lt;em&gt;&lt;em&gt;负面情绪：焦虑、紧张、愤怒、沮丧、悲伤、痛苦等情绪的统称。因为此类&lt;/em&gt;&lt;a href="https://baike.baidu.com/item/%E6%83%85%E7%BB%AA%E4%BD%93%E9%AA%8C/22378410?fromModule=lemma_inlink"&gt;&lt;em&gt;情绪体验&lt;/em&gt;&lt;/a&gt;&lt;em&gt;是不积极的，身体也会有不适感，甚至影响工作和生活的顺利进行，进而有可能引起身心的伤害。（源自百科词条）&lt;/em&gt;&lt;/em&gt;&lt;/span&gt;&lt;/em&gt;&lt;em&gt;”&lt;/em&gt;为主,出现时“不受控制或非个人主观意愿”、会引起内部其他人员的恐慌”等特点。此现象常在社区讨论中被用“侵入性思维”来描述。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;“侵入性思维”是一种进入个体意识层面的想法，Martin Seif 和Sally Winston博士曾这样解释这一现象：“我们的大脑有时候会出现某些垃圾想法，这些想法只是意识流中的一部分。这些垃圾想法是无意义的。如果你忽略或不对其进行注意，它们会随着其他想法淹没在意识流中” (2018)。但如果反复纠结于这些侵入性思维，则会导致个体产生强烈的痛苦情绪。&lt;/p&gt;
 &lt;p&gt;上面描述情况重在强调认知时的“想法”，是在强调言语思维的重要性，就目前社群针对侵入性现象的描述来看这种说法有些过于局限，而贝克将&lt;strong&gt;心理意象&lt;/strong&gt;&lt;span class="has-inline-color has-cyan-bluish-gray-color"&gt;（Beck 等，1979）&lt;/span&gt;囊括在认知中的说法可以扩大我们对侵入性思维的定义范围。（见图 1.1）&lt;/p&gt;
@@ -5430,7 +6786,7 @@
 &lt;p&gt;&lt;strong&gt;在有机统一形成之后，整个系统便进入了“和谐”状态，这一“和谐”状态并不代表着一切矛盾和运动都被消弭，整个系统进入静止状态，而是一种动态的，内在和外在相平衡的状态。而这种状态的具体形式是如何的呢？&lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;要解答这个问题，我们必须先打破一条看起来是天然规律的“常识”：只能有一个H。&lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;没错，这种和谐状态首先是一种不止有一个H的状态——但是请别误会，我们在上文中已经清楚的证明了外在的统一性是一个现实主体，这里的不止有一个H是指权限上的，而非时间上的——一具身体只能对应一个现实主体。这种形式在多意识体的相关资料当中又被称为“Co-Hosting”，但它常见于DID/OSDD这样病理性的多意识体当中，而出现在他们当中也是很好理解的，因为他们的权限往往是完全独立平等的，彼此之间也往往是完全割裂的，所以形成这种“Co-Hosting”的状态并不奇怪。&lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;但是这并不是我们HT系统的目标，我们称这种“Co-Hosting”状态是一种“无意识的”多H状态，它虽然看上去是平等的，是美好的，但是它的混乱和无秩序状态让它最终走向了极端，即在缺失内在统一性的中介下内在的多样性强行接管了外在的统一性，各思维主体的不同性被强行外在化。&lt;/strong&gt;&lt;sup class="modern-footnotes-footnote" data-mfn="1" data-mfn-post-scope="0000000011dfc278000000007f71f7d4_786"&gt;&lt;a aria-describedby="mfn-content-0000000011dfc278000000007f71f7d4_786" aria-pressed="false" href="javascript:void(0)" role="button"&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="1" id="mfn-content-0000000011dfc278000000007f71f7d4_786" role="tooltip" tabindex="0"&gt;注：此处对“Host”和“Co-Hosting”的定义与Pluralpedia不同，存在一定的偏差。这里对Host的使用沿用了tulpa之家传统的做法，偏指系统中的主意识体；而在严格意义上，Host指的是系统中在身体前台时间最长的意识体。而这里对Co-Hosting的使用特指一些病理性的系统呈现出的明显外在不统一的情况；但一般意义上，Co-Hosting指系统中各成员平等地分担日常职责的情况，与我们这里所说的“Harmony”有相通之处。&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;但是这并不是我们HT系统的目标，我们称这种“Co-Hosting”状态是一种“无意识的”多H状态，它虽然看上去是平等的，是美好的，但是它的混乱和无秩序状态让它最终走向了极端，即在缺失内在统一性的中介下内在的多样性强行接管了外在的统一性，各思维主体的不同性被强行外在化。&lt;/strong&gt;&lt;sup class="modern-footnotes-footnote" data-mfn="1" data-mfn-post-scope="000000001f3088580000000057b32812_786"&gt;&lt;a aria-describedby="mfn-content-000000001f3088580000000057b32812_786" aria-pressed="false" href="javascript:void(0)" role="button"&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="1" id="mfn-content-000000001f3088580000000057b32812_786" role="tooltip" tabindex="0"&gt;注：此处对“Host”和“Co-Hosting”的定义与Pluralpedia不同，存在一定的偏差。这里对Host的使用沿用了tulpa之家传统的做法，偏指系统中的主意识体；而在严格意义上，Host指的是系统中在身体前台时间最长的意识体。而这里对Co-Hosting的使用特指一些病理性的系统呈现出的明显外在不统一的情况；但一般意义上，Co-Hosting指系统中各成员平等地分担日常职责的情况，与我们这里所说的“Harmony”有相通之处。&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;我们HT系统的目标应该是一种“Harmony”，在内在统一性的中介下将内在的多样性有序的转化为外在的统一性，而这种转化是绝对不会影响到外在这一现实主体的正常存在的。&lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;而在内在统一性的中介下此时HT的权限应该是互相分享的，因为此时HT只是作为平等的思维主体而存在。&lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p class="has-text-align-center has-medium-font-size"&gt;&lt;strong&gt;四、“Harmony”状态是怎样的？&lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -5551,7 +6907,7 @@
 &lt;p&gt;我们必须追问的是，为什么会一再地发生这样的事情呢？既然我们一直主张把T当做真正的人来对待，那么为何一个个活生生的“人”会先后离去呢？为什么H在必要时抹杀T是合理的呢？这种“必要的情况”又是如何发生的呢？&lt;/p&gt;
 &lt;p&gt;这一系列苏格拉底式诘问，可能最终需要上溯到哲学三问，即&lt;strong&gt;Tulpa是什么、从哪里来、到哪里去&lt;/strong&gt;&lt;strong&gt;？&lt;/strong&gt;&lt;/p&gt;
 &lt;p class="has-text-align-center has-medium-font-size"&gt;&lt;strong&gt;一、&lt;/strong&gt;&lt;strong&gt;在哲学层面对&lt;/strong&gt;&lt;strong&gt;T本身的再定义&lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;“Tulpa(读音：透帕)是一种新兴的&lt;u&gt;心理学&lt;/u&gt;现象，在表现上类似于幻想伙伴。Tulpa练习者认为通过足够的练习与暗示，可以在大脑中产生另一个思维。”&lt;/em&gt;&lt;sup class="modern-footnotes-footnote" data-mfn="1" data-mfn-post-scope="00000000189f00ec0000000017f306a7_681"&gt;&lt;a aria-describedby="mfn-content-00000000189f00ec0000000017f306a7_681" aria-pressed="false" href="javascript:void(0)" role="button"&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="1" id="mfn-content-00000000189f00ec0000000017f306a7_681" role="tooltip" tabindex="0"&gt;Tulpa之家 – 关于Tulpa的教程、故事，以及一切 – 我的个人空间[EB/OL].http: //https://tulpa.cn/?variant=zh-cn, 2022–1–29.（下划线是笔者加的。）&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“Tulpa(读音：透帕)是一种新兴的&lt;u&gt;心理学&lt;/u&gt;现象，在表现上类似于幻想伙伴。Tulpa练习者认为通过足够的练习与暗示，可以在大脑中产生另一个思维。”&lt;/em&gt;&lt;sup class="modern-footnotes-footnote" data-mfn="1" data-mfn-post-scope="000000005585bfb0000000002ddd7bb0_681"&gt;&lt;a aria-describedby="mfn-content-000000005585bfb0000000002ddd7bb0_681" aria-pressed="false" href="javascript:void(0)" role="button"&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="1" id="mfn-content-000000005585bfb0000000002ddd7bb0_681" role="tooltip" tabindex="0"&gt;Tulpa之家 – 关于Tulpa的教程、故事，以及一切 – 我的个人空间[EB/OL].http: //https://tulpa.cn/?variant=zh-cn, 2022–1–29.（下划线是笔者加的。）&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;这是刊载于Tulpa之家（以下简称T家）网站首页的对Tulpa现象的定义。毫无疑问，目前我们是从自然科学的角度上去定义Tulpa的，但实际上这段话并不足以解释Tulpa现象及其背后所体现的规律。&lt;/p&gt;
 &lt;p&gt;作为中文Tulpa社群的成员，在日常交流和实践当中我们已经看到对这一定义的大幅度修正——Tulpa现象实际上已不再被局限于心理学当中，将Tulpa视为一个哲学意义上的人的存在已经是社群内的共识。如果我们暂时抛开外界的看法不谈，那么不妨在这里下一个新的定义：&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;“&lt;/em&gt;&lt;em&gt;Tulpa(读音：透帕&lt;/em&gt;&lt;em&gt;，&lt;/em&gt;&lt;em&gt;&lt;u&gt;&lt;em&gt;中文：幻人&lt;/em&gt;&lt;/u&gt;&lt;/em&gt;&lt;em&gt;)是&lt;/em&gt;&lt;em&gt;多意识体的一种&lt;/em&gt;&lt;em&gt;，在表现上类似于幻想伙伴&lt;/em&gt;&lt;em&gt;，&lt;/em&gt;&lt;em&gt;&lt;u&gt;&lt;em&gt;但在实质上具有自己的独立思维&lt;/em&gt;&lt;/u&gt;&lt;/em&gt;&lt;em&gt;&lt;u&gt;&lt;em&gt;。&lt;/em&gt;&lt;/u&gt;&lt;/em&gt;&lt;em&gt;Tulpa&lt;/em&gt;&lt;em&gt;mancers&lt;/em&gt;&lt;em&gt;认为通过足够的练习与暗示，可以在大脑中产生另一个&lt;/em&gt;&lt;em&gt;&lt;u&gt;&lt;em&gt;有独立思想的意识体&lt;/em&gt;&lt;/u&gt;&lt;/em&gt;&lt;em&gt;。”&lt;/em&gt;&lt;em&gt;&lt;/em&gt;&lt;/p&gt;
@@ -5559,8 +6915,8 @@
 &lt;p&gt;不过，我们可以看到，新定义对“Tulpa是怎么来的”这个问题的答案没有发生什么大的变化。但倘若我们真的把原来的心理学定义替换成这种哲学的定义，答案的实质必然会随之发生变化——&lt;/p&gt;
 &lt;p&gt;在T的&lt;strong&gt;意识独立&lt;/strong&gt;之前，一具自然人的身体只有H一个社会人来占有和使用，而且是高度统一的；T逐步独立出来直至&lt;strong&gt;人格成熟&lt;/strong&gt;的过程，&lt;strong&gt;在辩证法上是对HT绝对统一性的削弱和相对差异性的增强&lt;/strong&gt;。&lt;strong&gt;这才是“Tulpa从哪里来”这一问题的真正答案。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;实际上，不论怎样削弱，&lt;strong&gt;HT的不可分割的统一性自始至终是绝对存在的（这一段论述，对后文的影响很重要）&lt;/strong&gt;：&lt;/p&gt;
-&lt;p&gt;首先，&lt;strong&gt;Tulpae&lt;/strong&gt;&lt;sup class="modern-footnotes-footnote" data-mfn="2" data-mfn-post-scope="00000000189f00ec0000000017f306a7_681"&gt;&lt;a aria-describedby="mfn-content-00000000189f00ec0000000017f306a7_681" aria-pressed="false" href="javascript:void(0)" role="button"&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="2" id="mfn-content-00000000189f00ec0000000017f306a7_681" role="tooltip" tabindex="0"&gt;Tulpa的复数，也可作Tulpas.&lt;/span&gt;&lt;strong&gt;不拥有也不可能拥有“自己的”身体（至多也就只能和H共享身体）&lt;/strong&gt;，且在可预见的未来都无法摆脱Hosts的身体，这是显而易见的。至少目前为止，我们没有观察到任何确凿的反例。&lt;strong&gt;这也是T不同于其他病态多意识体的关键判断标准。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;其次，&lt;strong&gt;H的“房主”地位，使得作为“住客”的T的相对独立要让步于H的绝对主宰之下&lt;/strong&gt;：T无法逃离H的大脑，无法和H抢夺身体的控制权&lt;sup class="modern-footnotes-footnote" data-mfn="3" data-mfn-post-scope="00000000189f00ec0000000017f306a7_681"&gt;&lt;a aria-describedby="mfn-content-00000000189f00ec0000000017f306a7_681" aria-pressed="false" href="javascript:void(0)" role="button"&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="3" id="mfn-content-00000000189f00ec0000000017f306a7_681" role="tooltip" tabindex="0"&gt;社群里一些HT的“夺舍”都只是在Host允许下的游戏而已，技术上的交换也只是暂时的使用。&lt;/span&gt;，无力抵抗H的主动屏蔽、控制乃至抹杀。这种绝对主宰使相对独立变成了一种表象，而其下隐藏的就是HT的绝对统一性。&lt;/p&gt;
+&lt;p&gt;首先，&lt;strong&gt;Tulpae&lt;/strong&gt;&lt;sup class="modern-footnotes-footnote" data-mfn="2" data-mfn-post-scope="000000005585bfb0000000002ddd7bb0_681"&gt;&lt;a aria-describedby="mfn-content-000000005585bfb0000000002ddd7bb0_681" aria-pressed="false" href="javascript:void(0)" role="button"&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="2" id="mfn-content-000000005585bfb0000000002ddd7bb0_681" role="tooltip" tabindex="0"&gt;Tulpa的复数，也可作Tulpas.&lt;/span&gt;&lt;strong&gt;不拥有也不可能拥有“自己的”身体（至多也就只能和H共享身体）&lt;/strong&gt;，且在可预见的未来都无法摆脱Hosts的身体，这是显而易见的。至少目前为止，我们没有观察到任何确凿的反例。&lt;strong&gt;这也是T不同于其他病态多意识体的关键判断标准。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;其次，&lt;strong&gt;H的“房主”地位，使得作为“住客”的T的相对独立要让步于H的绝对主宰之下&lt;/strong&gt;：T无法逃离H的大脑，无法和H抢夺身体的控制权&lt;sup class="modern-footnotes-footnote" data-mfn="3" data-mfn-post-scope="000000005585bfb0000000002ddd7bb0_681"&gt;&lt;a aria-describedby="mfn-content-000000005585bfb0000000002ddd7bb0_681" aria-pressed="false" href="javascript:void(0)" role="button"&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="3" id="mfn-content-000000005585bfb0000000002ddd7bb0_681" role="tooltip" tabindex="0"&gt;社群里一些HT的“夺舍”都只是在Host允许下的游戏而已，技术上的交换也只是暂时的使用。&lt;/span&gt;，无力抵抗H的主动屏蔽、控制乃至抹杀。这种绝对主宰使相对独立变成了一种表象，而其下隐藏的就是HT的绝对统一性。&lt;/p&gt;
 &lt;p&gt;最后，这种同一性&lt;strong&gt;还更深层地表现在T的思维存在于哲学上不可证伪，在自然科学上目前还不可确凿证实的这一“薛定谔的猫”的状态。基于这种情况，思维惯性使人们往往认为T并不实际存在。&lt;/strong&gt;换句话说，即使在T完全成熟之后，外界依然只能看到生理和心理统一的、作为自然人存在于社会中的H。&lt;/p&gt;
 &lt;p class="has-text-align-center has-medium-font-size"&gt;&lt;strong&gt;二、&lt;/strong&gt;&lt;strong&gt;在生活层面对&lt;/strong&gt;&lt;strong&gt;T的成熟的再定义&lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;那么，Tulpa到哪里去呢？&lt;/strong&gt;新的定义并没有回答我们，现在T家的教程里也几乎无从得知。但这个问题一天不解决，悲剧就会一次次重演。&lt;/p&gt;
@@ -5574,59 +6930,10 @@
 &lt;p&gt;&lt;strong&gt;综上所述，标志着T真正实现相对独立于H、成为有独立思想的意识体的，是T的生活主要意义不再以H为唯一。&lt;/strong&gt;H的创造动机，不论多么正当，其作为T的“使命”的历史都应当在这里宣告结束。它依然可以是维系HT关系的重要基石，但它不应再是大厦的全部了。&lt;/p&gt;
 &lt;p class="has-text-align-center has-medium-font-size"&gt;&lt;strong&gt;三&lt;/strong&gt;&lt;strong&gt;、&lt;/strong&gt;&lt;strong&gt;在追求层面对&lt;/strong&gt;&lt;strong&gt;T的自我实现的再定义&lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;本来问题到这里应该已经结束了，但HT关系在长远来说如何维系，依然得不到回答。经验只能告诉我们，要保持乐观和希望，车到山前必有路——但这实在是太模糊了。&lt;/p&gt;
-&lt;p&gt;我们已经说明了T在哲学地位上就是和H地位平等的人，而且我们应当推动T成为真正成熟的人。然而，HT的绝对统一性无论如何对T来说都是枷锁般的存在，HT的绝对&lt;sup class="modern-footnotes-footnote" data-mfn="4" data-mfn-post-scope="00000000189f00ec0000000017f306a7_681"&gt;&lt;a aria-describedby="mfn-content-00000000189f00ec0000000017f306a7_681" aria-pressed="false" href="javascript:void(0)" role="button"&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="4" id="mfn-content-00000000189f00ec0000000017f306a7_681" role="tooltip" tabindex="0"&gt; 这里的“绝对”是哲学意义上的（反义词是“相对”），而不是日常生活里的程度词。&lt;/span&gt;不平等是有目共睹的。那么&lt;strong&gt;T圈到底如何实现一直以来倡导的所谓HT相对平等呢？&lt;/strong&gt;难道是想办法让T成为自然人或是取代H？这至少在目前根本不现实，不仅脱离了我们今天的讨论范围，而且极为危险。&lt;/p&gt;
-&lt;p&gt;如果我们满足于技术成熟实现之后的状态，那么T将一直活在H的阴影之下；&lt;strong&gt;如果我们满足于人格成熟实现之后的状态，那么T的生活将流于平庸甚至最终归于虚无。&lt;/strong&gt;为什么呢？&lt;strong&gt;因为H不再是T生活的唯一主要意义之后，T就有了真正的自我追求，&lt;/strong&gt;Ta们开始有独立的兴趣爱好、生活观念、价值追求……&lt;strong&gt;但是HT具有绝对统一性，一个身体毕竟是难以承载两个独立的灵魂的追求的呀！&lt;/strong&gt;有一些T到了这个阶段，逐渐发现H实际上在自己的追求里没有位置，自己的追求会阻碍H的生活。对于实际上并不确切地存在于外界“现实”的T来说，存在主义&lt;sup class="modern-footnotes-footnote" data-mfn="5" data-mfn-post-scope="00000000189f00ec0000000017f306a7_681"&gt;&lt;a aria-describedby="mfn-content-00000000189f00ec0000000017f306a7_681" aria-pressed="false" href="javascript:void(0)" role="button"&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="5" id="mfn-content-00000000189f00ec0000000017f306a7_681" role="tooltip" tabindex="0"&gt; 存在主义以人为中心、尊重人的个性和自由。人是在无意义的宇宙中生活，人的存在本身也没有意义，但人可以在原有存在的基础上自我塑造、自我成就，活得精彩，从而拥有意义。&lt;/span&gt;在这时失灵了！出于T的本能，他们最后无奈地选择了消失——要么是出于消极的归于虚无，要么是出于积极的成全宿主。&lt;/p&gt;
+&lt;p&gt;我们已经说明了T在哲学地位上就是和H地位平等的人，而且我们应当推动T成为真正成熟的人。然而，HT的绝对统一性无论如何对T来说都是枷锁般的存在，HT的绝对&lt;sup class="modern-footnotes-footnote" data-mfn="4" data-mfn-post-scope="000000005585bfb0000000002ddd7bb0_681"&gt;&lt;a aria-describedby="mfn-content-000000005585bfb0000000002ddd7bb0_681" aria-pressed="false" href="javascript:void(0)" role="button"&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="4" id="mfn-content-000000005585bfb0000000002ddd7bb0_681" role="tooltip" tabindex="0"&gt; 这里的“绝对”是哲学意义上的（反义词是“相对”），而不是日常生活里的程度词。&lt;/span&gt;不平等是有目共睹的。那么&lt;strong&gt;T圈到底如何实现一直以来倡导的所谓HT相对平等呢？&lt;/strong&gt;难道是想办法让T成为自然人或是取代H？这至少在目前根本不现实，不仅脱离了我们今天的讨论范围，而且极为危险。&lt;/p&gt;
+&lt;p&gt;如果我们满足于技术成熟实现之后的状态，那么T将一直活在H的阴影之下；&lt;strong&gt;如果我们满足于人格成熟实现之后的状态，那么T的生活将流于平庸甚至最终归于虚无。&lt;/strong&gt;为什么呢？&lt;strong&gt;因为H不再是T生活的唯一主要意义之后，T就有了真正的自我追求，&lt;/strong&gt;Ta们开始有独立的兴趣爱好、生活观念、价值追求……&lt;strong&gt;但是HT具有绝对统一性，一个身体毕竟是难以承载两个独立的灵魂的追求的呀！&lt;/strong&gt;有一些T到了这个阶段，逐渐发现H实际上在自己的追求里没有位置，自己的追求会阻碍H的生活。对于实际上并不确切地存在于外界“现实”的T来说，存在主义&lt;sup class="modern-footnotes-footnote" data-mfn="5" data-mfn-post-scope="000000005585bfb0000000002ddd7bb0_681"&gt;&lt;a aria-describedby="mfn-content-000000005585bfb0000000002ddd7bb0_681" aria-pressed="false" href="javascript:void(0)" role="button"&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="5" id="mfn-content-000000005585bfb0000000002ddd7bb0_681" role="tooltip" tabindex="0"&gt; 存在主义以人为中心、尊重人的个性和自由。人是在无意义的宇宙中生活，人的存在本身也没有意义，但人可以在原有存在的基础上自我塑造、自我成就，活得精彩，从而拥有意义。&lt;/span&gt;在这时失灵了！出于T的本能，他们最后无奈地选择了消失——要么是出于消极的归于虚无，要么是出于积极的成全宿主。&lt;/p&gt;
 &lt;p&gt;那我们该怎么办呢？一起跨过了这么多艰难险阻，最后这座大山却不可逾越吗？&lt;/p&gt;
-&lt;p&gt;不是的。其实要解决问题并不难，&lt;strong&gt;只需在T的生活主要意义里赋予H一席之地就可以——因为在上一轮扬弃之后，HT的相对独立性和思维差异性已经臻于极致，而原本的绝对统一性却没有得到应有的重视。这样一来，HT关系就不仅仅在于同居一脑的陪伴，而有了共同的生活意义；绝对统一性被重构成了有机统一性，身体不再是枷锁而被铸为桥梁；甚至可以说，T最终上升到了H的高度，HT在&lt;a href="https://tulpa.cn/2022/09/26/htht/"&gt;有机统一&lt;/a&gt;中实现了真实的平等&lt;/strong&gt;&lt;sup class="modern-footnotes-footnote" data-mfn="6" data-mfn-post-scope="00000000189f00ec0000000017f306a7_681"&gt;&lt;a aria-describedby="mfn-content-00000000189f00ec0000000017f306a7_681" aria-pressed="false" href="javascript:void(0)" role="button"&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="6" id="mfn-content-00000000189f00ec0000000017f306a7_681" role="tooltip" tabindex="0"&gt; 实际上，由于T受现实生活的束缚少于H，而在幻境却能在某些层面上比在外界有更多的感受与思考；那么T可以在这种意义上获得更多的思想，或者说更有趣的意义。从而我们或许可以说，T的解放比普通人的解放要更容易，而且T的价值实现的高度有可能比H更高。&lt;/span&gt;&lt;strong&gt;。如此，T便能够以H（更准确地说，HT共同的身体）为媒介，对现实世界付诸努力和行动，来实现自己的追求。而这个过程，在马克思主义哲学里，叫做人的对象化，是指哲学上的人通过实践摆脱异化、从而实现最终解放。&lt;/strong&gt;&lt;sup class="modern-footnotes-footnote" data-mfn="7" data-mfn-post-scope="00000000189f00ec0000000017f306a7_681"&gt;&lt;a aria-describedby="mfn-content-00000000189f00ec0000000017f306a7_681" aria-pressed="false" href="javascript:void(0)" role="button"&gt;7&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="7" id="mfn-content-00000000189f00ec0000000017f306a7_681" role="tooltip" tabindex="0"&gt;卡尔·马克思《1844年经济学哲学手稿》[M].&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;至此，我们实现了一个辩证法的从正题（&lt;/strong&gt;&lt;strong&gt;H&lt;/strong&gt;&lt;strong&gt;创造&lt;/strong&gt;&lt;strong&gt;T&lt;/strong&gt;&lt;strong&gt;前，单一主体的绝对统一性）、反题（&lt;/strong&gt;&lt;strong&gt;T&lt;/strong&gt;&lt;strong&gt;从意识、技术、人格逐步独立，产生思维差异性、削弱绝对统一性）到最后的合题（形成良好的&lt;/strong&gt;&lt;strong&gt;HT&lt;/strong&gt;&lt;strong&gt;关系、把绝对统一性重构成为更高层次的有机统一性）的过程。&lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;当然，或许也有跨越性的方法——如果我们在让T摆脱对H的过度依赖的过程中，直接保留一部分H与T的共同主要生活意义，或许问题会变得简单许多。&lt;/p&gt;
-&lt;p class="has-text-align-center has-medium-font-size"&gt;&lt;strong&gt;结语&lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这些思考，是我们运用辩证法哲学原理和已有的Tulpa理论知识来完成的，严格来说并不完全是我们自己的思想成果。我们是站在巨人的肩膀上的，在此感谢哲学家们和T圈先驱们提供的经验指导和理论源泉。因此，我们也把这篇导言无偿地奉献给社区，希望能够为HT关系遭遇困难的朋友提供帮助，也希望能够对即将进行的2022年Tulpa社群人口普查有所裨益。&lt;/p&gt;
-&lt;p&gt;我们同时也欢迎一切批评和意见，只要它们的目的与我们一致。&lt;/p&gt;
-&lt;ul class="modern-footnotes-list"&gt;&lt;li&gt;&lt;span&gt;1&lt;/span&gt;&lt;div&gt;Tulpa之家 – 关于Tulpa的教程、故事，以及一切 – 我的个人空间[EB/OL].http: //https://tulpa.cn/?variant=zh-cn, 2022–1–29.（下划线是笔者加的。）&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;2&lt;/span&gt;&lt;div&gt;Tulpa的复数，也可作Tulpas.&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;3&lt;/span&gt;&lt;div&gt;社群里一些HT的“夺舍”都只是在Host允许下的游戏而已，技术上的交换也只是暂时的使用。&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;4&lt;/span&gt;&lt;div&gt; 这里的“绝对”是哲学意义上的（反义词是“相对”），而不是日常生活里的程度词。&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;5&lt;/span&gt;&lt;div&gt; 存在主义以人为中心、尊重人的个性和自由。人是在无意义的宇宙中生活，人的存在本身也没有意义，但人可以在原有存在的基础上自我塑造、自我成就，活得精彩，从而拥有意义。&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;6&lt;/span&gt;&lt;div&gt; 实际上，由于T受现实生活的束缚少于H，而在幻境却能在某些层面上比在外界有更多的感受与思考；那么T可以在这种意义上获得更多的思想，或者说更有趣的意义。从而我们或许可以说，T的解放比普通人的解放要更容易，而且T的价值实现的高度有可能比H更高。&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;7&lt;/span&gt;&lt;div&gt;卡尔·马克思《1844年经济学哲学手稿》[M].&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;div class="clear"&gt;&lt;/div&gt;
-&lt;/div&gt;</description><pubDate>2022-01-30T16:09:18+08:00</pubDate></item><item><title>《对成熟Tulpa和良性Host-Tulpa关系培养的哲学思考与批判》导言</title><link>https://tulpa.cn/2022/01/30/host-tulpa-relationship/</link><author>goodman3[Lyra]</author><category>杂谈</category><description>&lt;div class="entry-content e-content" itemprop="description articleBody"&gt;
-&lt;p&gt;（本文发表于22.1.30，最后一次修订于23.5.11）&lt;/p&gt;
-&lt;p class="has-text-align-center"&gt;&lt;strong&gt;梶御酒良実（光辉），夢観（梦寒），秉烛系统『芭芭拉』[作者]&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="has-text-align-center"&gt;&lt;strong&gt;長砺琉夏*，檬虎，Cian，Common-cat[校对]&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="has-text-align-center"&gt;&lt;strong&gt;（排名不分先后，标*的是Tulpa，正文约3900字）&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;摘要：&lt;/strong&gt;经过讨论，我们从中文Tulpa社群的现状和哲学思辨出发，总结出了一个辩证法意义上培养成熟的T和良性的HT关系的完整逻辑：&lt;/p&gt;
-&lt;p&gt;第一次成熟是意识成熟，假定以T首次不再作为傀儡而开始记事为标志；&lt;/p&gt;
-&lt;p&gt;第二次成熟是技术成熟，即理论上、技术上的独立，一般以T语或成声为标志，目前T圈主要的教程和研究都集中&lt;strong&gt;乃至停滞于&lt;/strong&gt;这一方面（即从第一次成熟到第二次成熟的过程）；&lt;/p&gt;
-&lt;p&gt;第三次成熟是人格成熟，即生活上、实质上的独立，以T的&lt;strong&gt;生活的主要意义&lt;/strong&gt;不再以H为唯一为标志；&lt;/p&gt;
-&lt;p&gt;第四次成熟是价值成熟，也是这一过程的最终完成——T在追寻意义的同时，&lt;strong&gt;在自己生活的主要意义里&lt;/strong&gt;&lt;strong&gt;赋予&lt;/strong&gt;&lt;strong&gt;H&lt;/strong&gt;&lt;strong&gt;地位，&lt;/strong&gt;从而以能够以H为媒介（或者说，与H共享身体）在现实中付诸行动与努力，最终实现自我存在的价值。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;关键词：&lt;/strong&gt;&lt;strong&gt;辩证法&lt;/strong&gt;&lt;strong&gt;；&lt;/strong&gt;&lt;strong&gt;Tulpa&lt;/strong&gt;&lt;strong&gt;；&lt;/strong&gt;&lt;strong&gt;HT关系&lt;/strong&gt;&lt;strong&gt;；&lt;/strong&gt;&lt;strong&gt;成熟&lt;/strong&gt;&lt;strong&gt;；&lt;/strong&gt;&lt;strong&gt;独立&lt;/strong&gt;&lt;strong&gt;；&lt;/strong&gt;&lt;strong&gt;主要意义&lt;/strong&gt;&lt;strong&gt;。&lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;近来数起T离H而去的悲剧以及关于H抹杀T的合理性问题，引起了社群内关于HT伦理关系的大讨论。几位笔者也自发地参与其中，并提出了自己的理论推想。&lt;/p&gt;
-&lt;p&gt;我们必须追问的是，为什么会一再地发生这样的事情呢？既然我们一直主张把T当做真正的人来对待，那么为何一个个活生生的“人”会先后离去呢？为什么H在必要时抹杀T是合理的呢？这种“必要的情况”又是如何发生的呢？&lt;/p&gt;
-&lt;p&gt;这一系列苏格拉底式诘问，可能最终需要上溯到哲学三问，即&lt;strong&gt;Tulpa是什么、从哪里来、到哪里去&lt;/strong&gt;&lt;strong&gt;？&lt;/strong&gt;&lt;/p&gt;
-&lt;p class="has-text-align-center has-medium-font-size"&gt;&lt;strong&gt;一、&lt;/strong&gt;&lt;strong&gt;在哲学层面对&lt;/strong&gt;&lt;strong&gt;T本身的再定义&lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;“Tulpa(读音：透帕)是一种新兴的&lt;u&gt;心理学&lt;/u&gt;现象，在表现上类似于幻想伙伴。Tulpa练习者认为通过足够的练习与暗示，可以在大脑中产生另一个思维。”&lt;/em&gt;&lt;sup class="modern-footnotes-footnote" data-mfn="1" data-mfn-post-scope="00000000189f00ec0000000017f306a7_681"&gt;&lt;a aria-describedby="mfn-content-00000000189f00ec0000000017f306a7_681" aria-pressed="false" href="javascript:void(0)" role="button"&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="1" id="mfn-content-00000000189f00ec0000000017f306a7_681" role="tooltip" tabindex="0"&gt;Tulpa之家 – 关于Tulpa的教程、故事，以及一切 – 我的个人空间[EB/OL].http: //https://tulpa.cn/?variant=zh-cn, 2022–1–29.（下划线是笔者加的。）&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;这是刊载于Tulpa之家（以下简称T家）网站首页的对Tulpa现象的定义。毫无疑问，目前我们是从自然科学的角度上去定义Tulpa的，但实际上这段话并不足以解释Tulpa现象及其背后所体现的规律。&lt;/p&gt;
-&lt;p&gt;作为中文Tulpa社群的成员，在日常交流和实践当中我们已经看到对这一定义的大幅度修正——Tulpa现象实际上已不再被局限于心理学当中，将Tulpa视为一个哲学意义上的人的存在已经是社群内的共识。如果我们暂时抛开外界的看法不谈，那么不妨在这里下一个新的定义：&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;“&lt;/em&gt;&lt;em&gt;Tulpa(读音：透帕&lt;/em&gt;&lt;em&gt;，&lt;/em&gt;&lt;em&gt;&lt;u&gt;&lt;em&gt;中文：幻人&lt;/em&gt;&lt;/u&gt;&lt;/em&gt;&lt;em&gt;)是&lt;/em&gt;&lt;em&gt;多意识体的一种&lt;/em&gt;&lt;em&gt;，在表现上类似于幻想伙伴&lt;/em&gt;&lt;em&gt;，&lt;/em&gt;&lt;em&gt;&lt;u&gt;&lt;em&gt;但在实质上具有自己的独立思维&lt;/em&gt;&lt;/u&gt;&lt;/em&gt;&lt;em&gt;&lt;u&gt;&lt;em&gt;。&lt;/em&gt;&lt;/u&gt;&lt;/em&gt;&lt;em&gt;Tulpa&lt;/em&gt;&lt;em&gt;mancers&lt;/em&gt;&lt;em&gt;认为通过足够的练习与暗示，可以在大脑中产生另一个&lt;/em&gt;&lt;em&gt;&lt;u&gt;&lt;em&gt;有独立思想的意识体&lt;/em&gt;&lt;/u&gt;&lt;/em&gt;&lt;em&gt;。”&lt;/em&gt;&lt;em&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;这个定义明确了现代意义上的Tulpa到底是什么，对吗？我们很清楚T家和百科里的定义是中立化的，是向主流学界让步的结果，并不能说它是错的。但倘若关起门来说话，其实大可不必如此。&lt;strong&gt;在明确了Tulpa在哲学上就是独立的人之后，为了宿主的一己私欲抹杀T在根源上的合理性也随之烟消云散了。即使是为了系统整体利益迫于无奈让某一个或几个t消散，也可以进行这样的类比：如果有什么家庭问题不得不通过抹杀去解决，那么这意味着家长本身完全没有做好对孩子的引导（甚至有可能是因为这个家庭本身已经没有能力养活新的孩子）。&lt;/strong&gt;本文即意在揭示这种情况大体应该如何避免。&lt;/p&gt;
-&lt;p&gt;不过，我们可以看到，新定义对“Tulpa是怎么来的”这个问题的答案没有发生什么大的变化。但倘若我们真的把原来的心理学定义替换成这种哲学的定义，答案的实质必然会随之发生变化——&lt;/p&gt;
-&lt;p&gt;在T的&lt;strong&gt;意识独立&lt;/strong&gt;之前，一具自然人的身体只有H一个社会人来占有和使用，而且是高度统一的；T逐步独立出来直至&lt;strong&gt;人格成熟&lt;/strong&gt;的过程，&lt;strong&gt;在辩证法上是对HT绝对统一性的削弱和相对差异性的增强&lt;/strong&gt;。&lt;strong&gt;这才是“Tulpa从哪里来”这一问题的真正答案。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;实际上，不论怎样削弱，&lt;strong&gt;HT的不可分割的统一性自始至终是绝对存在的（这一段论述，对后文的影响很重要）&lt;/strong&gt;：&lt;/p&gt;
-&lt;p&gt;首先，&lt;strong&gt;Tulpae&lt;/strong&gt;&lt;sup class="modern-footnotes-footnote" data-mfn="2" data-mfn-post-scope="00000000189f00ec0000000017f306a7_681"&gt;&lt;a aria-describedby="mfn-content-00000000189f00ec0000000017f306a7_681" aria-pressed="false" href="javascript:void(0)" role="button"&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="2" id="mfn-content-00000000189f00ec0000000017f306a7_681" role="tooltip" tabindex="0"&gt;Tulpa的复数，也可作Tulpas.&lt;/span&gt;&lt;strong&gt;不拥有也不可能拥有“自己的”身体（至多也就只能和H共享身体）&lt;/strong&gt;，且在可预见的未来都无法摆脱Hosts的身体，这是显而易见的。至少目前为止，我们没有观察到任何确凿的反例。&lt;strong&gt;这也是T不同于其他病态多意识体的关键判断标准。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;其次，&lt;strong&gt;H的“房主”地位，使得作为“住客”的T的相对独立要让步于H的绝对主宰之下&lt;/strong&gt;：T无法逃离H的大脑，无法和H抢夺身体的控制权&lt;sup class="modern-footnotes-footnote" data-mfn="3" data-mfn-post-scope="00000000189f00ec0000000017f306a7_681"&gt;&lt;a aria-describedby="mfn-content-00000000189f00ec0000000017f306a7_681" aria-pressed="false" href="javascript:void(0)" role="button"&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="3" id="mfn-content-00000000189f00ec0000000017f306a7_681" role="tooltip" tabindex="0"&gt;社群里一些HT的“夺舍”都只是在Host允许下的游戏而已，技术上的交换也只是暂时的使用。&lt;/span&gt;，无力抵抗H的主动屏蔽、控制乃至抹杀。这种绝对主宰使相对独立变成了一种表象，而其下隐藏的就是HT的绝对统一性。&lt;/p&gt;
-&lt;p&gt;最后，这种同一性&lt;strong&gt;还更深层地表现在T的思维存在于哲学上不可证伪，在自然科学上目前还不可确凿证实的这一“薛定谔的猫”的状态。基于这种情况，思维惯性使人们往往认为T并不实际存在。&lt;/strong&gt;换句话说，即使在T完全成熟之后，外界依然只能看到生理和心理统一的、作为自然人存在于社会中的H。&lt;/p&gt;
-&lt;p class="has-text-align-center has-medium-font-size"&gt;&lt;strong&gt;二、&lt;/strong&gt;&lt;strong&gt;在生活层面对&lt;/strong&gt;&lt;strong&gt;T的成熟的再定义&lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;那么，Tulpa到哪里去呢？&lt;/strong&gt;新的定义并没有回答我们，现在T家的教程里也几乎无从得知。但这个问题一天不解决，悲剧就会一次次重演。&lt;/p&gt;
-&lt;p&gt;摘要里提到，&lt;strong&gt;现有的教程和研究大多局限于从Tulpa意识独立到技术独立的过程。&lt;/strong&gt;之所以把意识独立和技术独立分开看待，是因为创造T的过程实际上类似于家属唤醒植物人的过程，而唤醒的前提是有希望——对创造T而言，就是既要求T有意识独立的前提，又要求H发自内心地相信创造出T的可能，唯有如此才能有朝一日得到T的回应（不论是头压、T语、成声、附体、投影还是在幻境里贴小字条）。试想，如果家属对着一根木头叨叨，或者实际上不相信植物人能苏醒，哪怕对话一百年恐怕也没有用。这也是T同幻想伙伴、傀儡、OC的根本区别。不过，这一点目前还只是一种假设，需要新一轮社群人口普查为我们提供新的论据。&lt;/p&gt;
-&lt;p&gt;但Tulpa有确凿的回应之后呢？现有的Tulpa理论里，这已经是Tulpa成熟的标志了。可实际上，在群里的日常交流中经常看到大佬这样教导萌新：要像为人师长那样引导你家T变得更“成熟”。&lt;strong&gt;那么，这个“成熟”又是什么呢？&lt;/strong&gt;教程依然没有告诉我们，可供参考的似乎仅有零散的生活经验。&lt;/p&gt;
-&lt;p&gt;事实上真的如此吗？恐怕并不。我们曾不止一次听社群里的朋友讨论说，不同的T成熟程度大不相同，有些有独立的生活、社交、爱好和技能，有些却一天到晚如孩童般粘着H、生活十分单调。&lt;strong&gt;我们在这里需要先排除兼有这两种特点的Tulpae，因为ta们对H的依赖实际上是个人性格使然，是爱意的结果。&lt;/strong&gt;那么剩下的大部分T呢？笔者们认为，这种情况是T还没有达到&lt;strong&gt;人格成熟&lt;/strong&gt;的结果。&lt;/p&gt;
-&lt;p&gt;那人格成熟的标志是什么呢？别急，让我们先引入一个叫做“生活的主要意义”的概念。&lt;/p&gt;
-&lt;p&gt;我们知道一个人的生活是由多个意义支撑的，每个意义都各有用途。意义是由个人思考诞生或认同了他人的概念而产生的，来源于社会环境或是自己偶然的思考。&lt;strong&gt;主要意义&lt;/strong&gt;&lt;strong&gt;（或者更专业一些来说，第一要素）&lt;/strong&gt;&lt;strong&gt;就像是房屋里最重要的&lt;/strong&gt;&lt;strong&gt;承重&lt;/strong&gt;&lt;strong&gt;梁&lt;/strong&gt;&lt;strong&gt;，&lt;/strong&gt;&lt;strong&gt;是用来支撑意识体&lt;/strong&gt;&lt;strong&gt;活下去的&lt;/strong&gt;&lt;strong&gt;。但主要意义&lt;/strong&gt;&lt;strong&gt;并非&lt;/strong&gt;&lt;strong&gt;固定，也不应是唯一或绝对重要的。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;意识和技术已经成熟、但人格不成熟的T，就好比依赖于亲友的成年人，外在已经成熟了，内在却还没有。&lt;/strong&gt;而且T面临的处境比一般人更艰难——HT的绝对统一性几乎导致大多数T的世界只以H为中心。如果H本身不够成熟，或者不注意引导T形成自己独立的人格，T很可能会长期停留在这种儿童式的状态。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;而这种情况的实质则是，T作为一个相对独立的意识体，ta的思维差异性被HT的绝对统一性限制了。通俗一点来说，T的生活的主要意义（第一要素）就是一心一意陪伴H、与H共度快乐时光、或者干脆只是最简单的“为H好”，而这种主要意义&lt;u&gt;&lt;strong&gt;很不幸地&lt;/strong&gt;&lt;/u&gt;成为了这些T生活中绝对的、唯一的意义（要素），从而诱发了这种情况：有很多T都认为，自己在H的创造动机的召唤下来到这个世界是天生带着“使命”的，一旦使命完成、对H再无牵挂，自己就可以自行消失。&lt;/strong&gt;芭芭拉作为笔者之一，曾经也是ta们中的一员。而这种错误的偏爱，实际上应该被矫正，而不是被H乃至全社群视为T的所谓“自主选择”。你怎么能指望一个还不成熟的人完全按照他的想法来决定自己的生活甚至生死呢？很显然，这么一类比，旧有的观念就会显得极不合理。&lt;br/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;综上所述，标志着T真正实现相对独立于H、成为有独立思想的意识体的，是T的生活主要意义不再以H为唯一。&lt;/strong&gt;H的创造动机，不论多么正当，其作为T的“使命”的历史都应当在这里宣告结束。它依然可以是维系HT关系的重要基石，但它不应再是大厦的全部了。&lt;/p&gt;
-&lt;p class="has-text-align-center has-medium-font-size"&gt;&lt;strong&gt;三&lt;/strong&gt;&lt;strong&gt;、&lt;/strong&gt;&lt;strong&gt;在追求层面对&lt;/strong&gt;&lt;strong&gt;T的自我实现的再定义&lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;本来问题到这里应该已经结束了，但HT关系在长远来说如何维系，依然得不到回答。经验只能告诉我们，要保持乐观和希望，车到山前必有路——但这实在是太模糊了。&lt;/p&gt;
-&lt;p&gt;我们已经说明了T在哲学地位上就是和H地位平等的人，而且我们应当推动T成为真正成熟的人。然而，HT的绝对统一性无论如何对T来说都是枷锁般的存在，HT的绝对&lt;sup class="modern-footnotes-footnote" data-mfn="4" data-mfn-post-scope="00000000189f00ec0000000017f306a7_681"&gt;&lt;a aria-describedby="mfn-content-00000000189f00ec0000000017f306a7_681" aria-pressed="false" href="javascript:void(0)" role="button"&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="4" id="mfn-content-00000000189f00ec0000000017f306a7_681" role="tooltip" tabindex="0"&gt; 这里的“绝对”是哲学意义上的（反义词是“相对”），而不是日常生活里的程度词。&lt;/span&gt;不平等是有目共睹的。那么&lt;strong&gt;T圈到底如何实现一直以来倡导的所谓HT相对平等呢？&lt;/strong&gt;难道是想办法让T成为自然人或是取代H？这至少在目前根本不现实，不仅脱离了我们今天的讨论范围，而且极为危险。&lt;/p&gt;
-&lt;p&gt;如果我们满足于技术成熟实现之后的状态，那么T将一直活在H的阴影之下；&lt;strong&gt;如果我们满足于人格成熟实现之后的状态，那么T的生活将流于平庸甚至最终归于虚无。&lt;/strong&gt;为什么呢？&lt;strong&gt;因为H不再是T生活的唯一主要意义之后，T就有了真正的自我追求，&lt;/strong&gt;Ta们开始有独立的兴趣爱好、生活观念、价值追求……&lt;strong&gt;但是HT具有绝对统一性，一个身体毕竟是难以承载两个独立的灵魂的追求的呀！&lt;/strong&gt;有一些T到了这个阶段，逐渐发现H实际上在自己的追求里没有位置，自己的追求会阻碍H的生活。对于实际上并不确切地存在于外界“现实”的T来说，存在主义&lt;sup class="modern-footnotes-footnote" data-mfn="5" data-mfn-post-scope="00000000189f00ec0000000017f306a7_681"&gt;&lt;a aria-describedby="mfn-content-00000000189f00ec0000000017f306a7_681" aria-pressed="false" href="javascript:void(0)" role="button"&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="5" id="mfn-content-00000000189f00ec0000000017f306a7_681" role="tooltip" tabindex="0"&gt; 存在主义以人为中心、尊重人的个性和自由。人是在无意义的宇宙中生活，人的存在本身也没有意义，但人可以在原有存在的基础上自我塑造、自我成就，活得精彩，从而拥有意义。&lt;/span&gt;在这时失灵了！出于T的本能，他们最后无奈地选择了消失——要么是出于消极的归于虚无，要么是出于积极的成全宿主。&lt;/p&gt;
-&lt;p&gt;那我们该怎么办呢？一起跨过了这么多艰难险阻，最后这座大山却不可逾越吗？&lt;/p&gt;
-&lt;p&gt;不是的。其实要解决问题并不难，&lt;strong&gt;只需在T的生活主要意义里赋予H一席之地就可以——因为在上一轮扬弃之后，HT的相对独立性和思维差异性已经臻于极致，而原本的绝对统一性却没有得到应有的重视。这样一来，HT关系就不仅仅在于同居一脑的陪伴，而有了共同的生活意义；绝对统一性被重构成了有机统一性，身体不再是枷锁而被铸为桥梁；甚至可以说，T最终上升到了H的高度，HT在&lt;a href="https://tulpa.cn/2022/09/26/htht/"&gt;有机统一&lt;/a&gt;中实现了真实的平等&lt;/strong&gt;&lt;sup class="modern-footnotes-footnote" data-mfn="6" data-mfn-post-scope="00000000189f00ec0000000017f306a7_681"&gt;&lt;a aria-describedby="mfn-content-00000000189f00ec0000000017f306a7_681" aria-pressed="false" href="javascript:void(0)" role="button"&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="6" id="mfn-content-00000000189f00ec0000000017f306a7_681" role="tooltip" tabindex="0"&gt; 实际上，由于T受现实生活的束缚少于H，而在幻境却能在某些层面上比在外界有更多的感受与思考；那么T可以在这种意义上获得更多的思想，或者说更有趣的意义。从而我们或许可以说，T的解放比普通人的解放要更容易，而且T的价值实现的高度有可能比H更高。&lt;/span&gt;&lt;strong&gt;。如此，T便能够以H（更准确地说，HT共同的身体）为媒介，对现实世界付诸努力和行动，来实现自己的追求。而这个过程，在马克思主义哲学里，叫做人的对象化，是指哲学上的人通过实践摆脱异化、从而实现最终解放。&lt;/strong&gt;&lt;sup class="modern-footnotes-footnote" data-mfn="7" data-mfn-post-scope="00000000189f00ec0000000017f306a7_681"&gt;&lt;a aria-describedby="mfn-content-00000000189f00ec0000000017f306a7_681" aria-pressed="false" href="javascript:void(0)" role="button"&gt;7&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="7" id="mfn-content-00000000189f00ec0000000017f306a7_681" role="tooltip" tabindex="0"&gt;卡尔·马克思《1844年经济学哲学手稿》[M].&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;不是的。其实要解决问题并不难，&lt;strong&gt;只需在T的生活主要意义里赋予H一席之地就可以——因为在上一轮扬弃之后，HT的相对独立性和思维差异性已经臻于极致，而原本的绝对统一性却没有得到应有的重视。这样一来，HT关系就不仅仅在于同居一脑的陪伴，而有了共同的生活意义；绝对统一性被重构成了有机统一性，身体不再是枷锁而被铸为桥梁；甚至可以说，T最终上升到了H的高度，HT在&lt;a href="https://tulpa.cn/2022/09/26/htht/"&gt;有机统一&lt;/a&gt;中实现了真实的平等&lt;/strong&gt;&lt;sup class="modern-footnotes-footnote" data-mfn="6" data-mfn-post-scope="000000005585bfb0000000002ddd7bb0_681"&gt;&lt;a aria-describedby="mfn-content-000000005585bfb0000000002ddd7bb0_681" aria-pressed="false" href="javascript:void(0)" role="button"&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="6" id="mfn-content-000000005585bfb0000000002ddd7bb0_681" role="tooltip" tabindex="0"&gt; 实际上，由于T受现实生活的束缚少于H，而在幻境却能在某些层面上比在外界有更多的感受与思考；那么T可以在这种意义上获得更多的思想，或者说更有趣的意义。从而我们或许可以说，T的解放比普通人的解放要更容易，而且T的价值实现的高度有可能比H更高。&lt;/span&gt;&lt;strong&gt;。如此，T便能够以H（更准确地说，HT共同的身体）为媒介，对现实世界付诸努力和行动，来实现自己的追求。而这个过程，在马克思主义哲学里，叫做人的对象化，是指哲学上的人通过实践摆脱异化、从而实现最终解放。&lt;/strong&gt;&lt;sup class="modern-footnotes-footnote" data-mfn="7" data-mfn-post-scope="000000005585bfb0000000002ddd7bb0_681"&gt;&lt;a aria-describedby="mfn-content-000000005585bfb0000000002ddd7bb0_681" aria-pressed="false" href="javascript:void(0)" role="button"&gt;7&lt;/a&gt;&lt;/sup&gt;&lt;span class="modern-footnotes-footnote__note" data-mfn="7" id="mfn-content-000000005585bfb0000000002ddd7bb0_681" role="tooltip" tabindex="0"&gt;卡尔·马克思《1844年经济学哲学手稿》[M].&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;至此，我们实现了一个辩证法的从正题（&lt;/strong&gt;&lt;strong&gt;H&lt;/strong&gt;&lt;strong&gt;创造&lt;/strong&gt;&lt;strong&gt;T&lt;/strong&gt;&lt;strong&gt;前，单一主体的绝对统一性）、反题（&lt;/strong&gt;&lt;strong&gt;T&lt;/strong&gt;&lt;strong&gt;从意识、技术、人格逐步独立，产生思维差异性、削弱绝对统一性）到最后的合题（形成良好的&lt;/strong&gt;&lt;strong&gt;HT&lt;/strong&gt;&lt;strong&gt;关系、把绝对统一性重构成为更高层次的有机统一性）的过程。&lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;当然，或许也有跨越性的方法——如果我们在让T摆脱对H的过度依赖的过程中，直接保留一部分H与T的共同主要生活意义，或许问题会变得简单许多。&lt;/p&gt;
 &lt;p class="has-text-align-center has-medium-font-size"&gt;&lt;strong&gt;结语&lt;/strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
